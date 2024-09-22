@@ -337,3 +337,306 @@ Execution time: 1039.56 seconds
 ```
 
 Still error to re-restore. Try from a different internet connection
+
+
+last import successful
+```
+Restoring backup on the server 'krang linux (leman73.homelinux.org:5432)'
+Running command:
+C:\Program Files\pgAdmin 4\v7\runtime\pg_restore.exe --host "leman73.homelinux.org" --port "5432" --username "postgres" --no-password --dbname "chictr" --verbose "F:\\MDR_DBBackups\\21_09_2024\\22_09_2024_chictr.backup"
+ Start time: Sun Sep 22 2024 08:56:45 GMT+0200 (Central European Summer Time)
+pg_restore: connecting to database for restore
+pg_restore: creating SCHEMA "ad"
+pg_restore: creating SCHEMA "mn"
+pg_restore: creating SCHEMA "sd"
+pg_restore: creating SCHEMA "te"
+pg_restore: creating EXTENSION "postgres_fdw"
+pg_restore: creating COMMENT "EXTENSION postgres_fdw"
+pg_restore: creating TABLE "ad.data_objects"
+pg_restore: creating SEQUENCE "ad.data_objects_id_seq"
+pg_restore: creating TABLE "ad.object_dates"
+pg_restore: creating SEQUENCE "ad.object_dates_id_seq"
+pg_restore: creating TABLE "ad.object_instances"
+pg_restore: creating SEQUENCE "ad.object_instances_id_seq"
+pg_restore: creating TABLE "ad.object_titles"
+pg_restore: creating SEQUENCE "ad.object_titles_id_seq"
+pg_restore: creating TABLE "ad.studies"
+pg_restore: creating SEQUENCE "ad.studies_id_seq"
+pg_restore: creating TABLE "ad.study_conditions"
+pg_restore: creating SEQUENCE "ad.study_conditions_id_seq"
+pg_restore: creating TABLE "ad.study_countries"
+pg_restore: creating SEQUENCE "ad.study_countries_id_seq"
+pg_restore: creating TABLE "ad.study_features"
+pg_restore: creating SEQUENCE "ad.study_features_id_seq"
+pg_restore: creating TABLE "ad.study_identifiers"
+pg_restore: creating SEQUENCE "ad.study_identifiers_id_seq"
+pg_restore: creating TABLE "ad.study_iec_13to19"
+pg_restore: creating SEQUENCE "ad.study_iec_13to19_id_seq"
+pg_restore: creating TABLE "ad.study_iec_20on"
+pg_restore: creating SEQUENCE "ad.study_iec_20on_id_seq"
+pg_restore: creating TABLE "ad.study_iec_upto12"
+pg_restore: creating SEQUENCE "ad.study_iec_upto12_id_seq"
+pg_restore: creating TABLE "ad.study_organisations"
+pg_restore: creating SEQUENCE "ad.study_organisations_id_seq"
+pg_restore: creating TABLE "ad.study_people"
+pg_restore: creating SEQUENCE "ad.study_people_id_seq"
+pg_restore: creating TABLE "ad.study_titles"
+pg_restore: creating SEQUENCE "ad.study_titles_id_seq"
+pg_restore: creating TABLE "ad.temp_city_names"
+pg_restore: creating TABLE "ad.temp_country_names"
+pg_restore: creating TABLE "ad.temp_mult_conds"
+pg_restore: creating TABLE "mn.source_data"
+pg_restore: creating SEQUENCE "mn.source_data_id_seq"
+pg_restore: creating TABLE "sd.data_objects"
+pg_restore: creating SEQUENCE "sd.data_objects_id_seq"
+pg_restore: creating TABLE "sd.object_dates"
+pg_restore: creating SEQUENCE "sd.object_dates_id_seq"
+pg_restore: creating TABLE "sd.object_instances"
+pg_restore: creating SEQUENCE "sd.object_instances_id_seq"
+pg_restore: creating TABLE "sd.object_titles"
+pg_restore: creating SEQUENCE "sd.object_titles_id_seq"
+pg_restore: creating TABLE "sd.studies"
+pg_restore: creating SEQUENCE "sd.studies_id_seq"
+pg_restore: creating TABLE "sd.study_conditions"
+pg_restore: creating SEQUENCE "sd.study_conditions_id_seq"
+pg_restore: creating TABLE "sd.study_countries"
+pg_restore: creating SEQUENCE "sd.study_countries_id_seq"
+pg_restore: creating TABLE "sd.study_features"
+pg_restore: creating SEQUENCE "sd.study_features_id_seq"
+pg_restore: creating TABLE "sd.study_identifiers"
+pg_restore: creating SEQUENCE "sd.study_identifiers_id_seq"
+pg_restore: creating TABLE "sd.study_iec_13to19"
+pg_restore: creating SEQUENCE "sd.study_iec_13to19_id_seq"
+pg_restore: creating TABLE "sd.study_iec_20on"
+pg_restore: creating SEQUENCE "sd.study_iec_20on_id_seq"
+pg_restore: creating TABLE "sd.study_iec_upto12"
+pg_restore: creating SEQUENCE "sd.study_iec_upto12_id_seq"
+pg_restore: creating TABLE "sd.study_organisations"
+pg_restore: creating SEQUENCE "sd.study_organisations_id_seq"
+pg_restore: creating TABLE "sd.study_people"
+pg_restore: creating SEQUENCE "sd.study_people_id_seq"
+pg_restore: creating TABLE "sd.study_titles"
+pg_restore: creating SEQUENCE "sd.study_titles_id_seq"
+pg_restore: creating TABLE "te.data_objects"
+pg_restore: creating SEQUENCE "te.data_objects_id_seq"
+pg_restore: creating TABLE "te.object_dates"
+pg_restore: creating SEQUENCE "te.object_dates_id_seq"
+pg_restore: creating TABLE "te.object_instances"
+pg_restore: creating SEQUENCE "te.object_instances_id_seq"
+pg_restore: creating TABLE "te.object_titles"
+pg_restore: creating SEQUENCE "te.object_titles_id_seq"
+pg_restore: creating TABLE "te.studies"
+pg_restore: creating SEQUENCE "te.studies_id_seq"
+pg_restore: creating TABLE "te.study_conditions"
+pg_restore: creating SEQUENCE "te.study_conditions_id_seq"
+pg_restore: creating TABLE "te.study_countries"
+pg_restore: creating SEQUENCE "te.study_countries_id_seq"
+pg_restore: creating TABLE "te.study_features"
+pg_restore: creating SEQUENCE "te.study_features_id_seq"
+pg_restore: creating TABLE "te.study_identifiers"
+pg_restore: creating SEQUENCE "te.study_identifiers_id_seq"
+pg_restore: creating TABLE "te.study_iec_13to19"
+pg_restore: creating SEQUENCE "te.study_iec_13to19_id_seq"
+pg_restore: creating TABLE "te.study_iec_20on"
+pg_restore: creating SEQUENCE "te.study_iec_20on_id_seq"
+pg_restore: creating TABLE "te.study_iec_upto12"
+pg_restore: creating SEQUENCE "te.study_iec_upto12_id_seq"
+pg_restore: creating TABLE "te.study_organisations"
+pg_restore: creating SEQUENCE "te.study_organisations_id_seq"
+pg_restore: creating TABLE "te.study_people"
+pg_restore: creating SEQUENCE "te.study_people_id_seq"
+pg_restore: creating TABLE "te.study_titles"
+pg_restore: creating SEQUENCE "te.study_titles_id_seq"
+pg_restore: processing data for table "ad.data_objects"
+pg_restore: processing data for table "ad.object_dates"
+pg_restore: processing data for table "ad.object_instances"
+pg_restore: processing data for table "ad.object_titles"
+pg_restore: processing data for table "ad.studies"
+pg_restore: processing data for table "ad.study_conditions"
+pg_restore: processing data for table "ad.study_countries"
+pg_restore: processing data for table "ad.study_features"
+pg_restore: processing data for table "ad.study_identifiers"
+pg_restore: processing data for table "ad.study_iec_13to19"
+pg_restore: processing data for table "ad.study_iec_20on"
+pg_restore: processing data for table "ad.study_iec_upto12"
+pg_restore: processing data for table "ad.study_organisations"
+pg_restore: processing data for table "ad.study_people"
+pg_restore: processing data for table "ad.study_titles"
+pg_restore: processing data for table "ad.temp_city_names"
+pg_restore: processing data for table "ad.temp_country_names"
+pg_restore: processing data for table "ad.temp_mult_conds"
+pg_restore: processing data for table "mn.source_data"
+pg_restore: processing data for table "sd.data_objects"
+pg_restore: processing data for table "sd.object_dates"
+pg_restore: processing data for table "sd.object_instances"
+pg_restore: processing data for table "sd.object_titles"
+pg_restore: processing data for table "sd.studies"
+pg_restore: processing data for table "sd.study_conditions"
+pg_restore: processing data for table "sd.study_countries"
+pg_restore: processing data for table "sd.study_features"
+pg_restore: processing data for table "sd.study_identifiers"
+pg_restore: processing data for table "sd.study_iec_13to19"
+pg_restore: processing data for table "sd.study_iec_20on"
+pg_restore: processing data for table "sd.study_iec_upto12"
+pg_restore: processing data for table "sd.study_organisations"
+pg_restore: processing data for table "sd.study_people"
+pg_restore: processing data for table "sd.study_titles"
+pg_restore: processing data for table "te.data_objects"
+pg_restore: processing data for table "te.object_dates"
+pg_restore: processing data for table "te.object_instances"
+pg_restore: processing data for table "te.object_titles"
+pg_restore: processing data for table "te.studies"
+pg_restore: processing data for table "te.study_conditions"
+pg_restore: processing data for table "te.study_countries"
+pg_restore: processing data for table "te.study_features"
+pg_restore: processing data for table "te.study_identifiers"
+pg_restore: processing data for table "te.study_iec_13to19"
+pg_restore: processing data for table "te.study_iec_20on"
+pg_restore: processing data for table "te.study_iec_upto12"
+pg_restore: processing data for table "te.study_organisations"
+pg_restore: processing data for table "te.study_people"
+pg_restore: processing data for table "te.study_titles"
+pg_restore: executing SEQUENCE SET data_objects_id_seq
+pg_restore: executing SEQUENCE SET object_dates_id_seq
+pg_restore: executing SEQUENCE SET object_instances_id_seq
+pg_restore: executing SEQUENCE SET object_titles_id_seq
+pg_restore: executing SEQUENCE SET studies_id_seq
+pg_restore: executing SEQUENCE SET study_conditions_id_seq
+pg_restore: executing SEQUENCE SET study_countries_id_seq
+pg_restore: executing SEQUENCE SET study_features_id_seq
+pg_restore: executing SEQUENCE SET study_identifiers_id_seq
+pg_restore: executing SEQUENCE SET study_iec_13to19_id_seq
+pg_restore: executing SEQUENCE SET study_iec_20on_id_seq
+pg_restore: executing SEQUENCE SET study_iec_upto12_id_seq
+pg_restore: executing SEQUENCE SET study_organisations_id_seq
+pg_restore: executing SEQUENCE SET study_people_id_seq
+pg_restore: executing SEQUENCE SET study_titles_id_seq
+pg_restore: executing SEQUENCE SET source_data_id_seq
+pg_restore: executing SEQUENCE SET data_objects_id_seq
+pg_restore: executing SEQUENCE SET object_dates_id_seq
+pg_restore: executing SEQUENCE SET object_instances_id_seq
+pg_restore: executing SEQUENCE SET object_titles_id_seq
+pg_restore: executing SEQUENCE SET studies_id_seq
+pg_restore: executing SEQUENCE SET study_conditions_id_seq
+pg_restore: executing SEQUENCE SET study_countries_id_seq
+pg_restore: executing SEQUENCE SET study_features_id_seq
+pg_restore: executing SEQUENCE SET study_identifiers_id_seq
+pg_restore: executing SEQUENCE SET study_iec_13to19_id_seq
+pg_restore: executing SEQUENCE SET study_iec_20on_id_seq
+pg_restore: executing SEQUENCE SET study_iec_upto12_id_seq
+pg_restore: executing SEQUENCE SET study_organisations_id_seq
+pg_restore: executing SEQUENCE SET study_people_id_seq
+pg_restore: executing SEQUENCE SET study_titles_id_seq
+pg_restore: executing SEQUENCE SET data_objects_id_seq
+pg_restore: executing SEQUENCE SET object_dates_id_seq
+pg_restore: executing SEQUENCE SET object_instances_id_seq
+pg_restore: executing SEQUENCE SET object_titles_id_seq
+pg_restore: executing SEQUENCE SET studies_id_seq
+pg_restore: executing SEQUENCE SET study_conditions_id_seq
+pg_restore: executing SEQUENCE SET study_countries_id_seq
+pg_restore: executing SEQUENCE SET study_features_id_seq
+pg_restore: executing SEQUENCE SET study_identifiers_id_seq
+pg_restore: executing SEQUENCE SET study_iec_13to19_id_seq
+pg_restore: executing SEQUENCE SET study_iec_20on_id_seq
+pg_restore: executing SEQUENCE SET study_iec_upto12_id_seq
+pg_restore: executing SEQUENCE SET study_organisations_id_seq
+pg_restore: executing SEQUENCE SET study_people_id_seq
+pg_restore: executing SEQUENCE SET study_titles_id_seq
+pg_restore: creating CONSTRAINT "ad.data_objects data_objects_new_pkey"
+pg_restore: creating CONSTRAINT "ad.object_dates object_dates_new_pkey"
+pg_restore: creating CONSTRAINT "ad.object_instances object_instances_new_pkey"
+pg_restore: creating CONSTRAINT "ad.object_titles object_titles_pkey"
+pg_restore: creating CONSTRAINT "ad.studies studies_new_pkey"
+pg_restore: creating CONSTRAINT "ad.study_conditions study_conditions_new_pkey"
+pg_restore: creating CONSTRAINT "ad.study_countries study_countries_new_pkey"
+pg_restore: creating CONSTRAINT "ad.study_features study_features_new_pkey"
+pg_restore: creating CONSTRAINT "ad.study_identifiers study_identifiers_new_pkey"
+pg_restore: creating CONSTRAINT "ad.study_iec_13to19 study_iec_13to19_pkey"
+pg_restore: creating CONSTRAINT "ad.study_iec_20on study_iec_20on_new_pkey1"
+pg_restore: creating CONSTRAINT "ad.study_iec_upto12 study_iec_upto12_pkey"
+pg_restore: creating CONSTRAINT "ad.study_organisations study_organisations_new_pkey"
+pg_restore: creating CONSTRAINT "ad.study_people study_people_new_pkey"
+pg_restore: creating CONSTRAINT "ad.study_titles study_titles_new_pkey"
+pg_restore: creating CONSTRAINT "mn.source_data source_data_pkey"
+pg_restore: creating CONSTRAINT "sd.data_objects data_objects_pkey"
+pg_restore: creating CONSTRAINT "sd.object_dates object_dates_pkey"
+pg_restore: creating CONSTRAINT "sd.object_instances object_instances_pkey"
+pg_restore: creating CONSTRAINT "sd.object_titles object_titles_pkey"
+pg_restore: creating CONSTRAINT "sd.studies studies_pkey"
+pg_restore: creating CONSTRAINT "sd.study_conditions study_conditions_pkey"
+pg_restore: creating CONSTRAINT "sd.study_countries study_countries_pkey"
+pg_restore: creating CONSTRAINT "sd.study_features study_features_pkey"
+pg_restore: creating CONSTRAINT "sd.study_identifiers study_identifiers_pkey"
+pg_restore: creating CONSTRAINT "sd.study_iec_13to19 study_iec_13to19_pkey"
+pg_restore: creating CONSTRAINT "sd.study_iec_20on study_iec_20on_pkey"
+pg_restore: creating CONSTRAINT "sd.study_iec_upto12 study_iec_upto12_pkey"
+pg_restore: creating CONSTRAINT "sd.study_organisations study_organisations_pkey"
+pg_restore: creating CONSTRAINT "sd.study_people study_people_pkey"
+pg_restore: creating CONSTRAINT "sd.study_titles study_titles_pkey"
+pg_restore: creating CONSTRAINT "te.data_objects data_objects_pkey"
+pg_restore: creating CONSTRAINT "te.object_dates object_dates_pkey"
+pg_restore: creating CONSTRAINT "te.object_instances object_instances_pkey"
+pg_restore: creating CONSTRAINT "te.object_titles object_titles_pkey"
+pg_restore: creating CONSTRAINT "te.studies studies_pkey"
+pg_restore: creating CONSTRAINT "te.study_conditions study_conditions_pkey"
+pg_restore: creating CONSTRAINT "te.study_countries study_countries_pkey"
+pg_restore: creating CONSTRAINT "te.study_features study_features_pkey"
+pg_restore: creating CONSTRAINT "te.study_identifiers study_identifiers_pkey"
+pg_restore: creating CONSTRAINT "te.study_iec_13to19 study_iec_13to19_pkey"
+pg_restore: creating CONSTRAINT "te.study_iec_20on study_iec_20on_pkey"
+pg_restore: creating CONSTRAINT "te.study_iec_upto12 study_iec_upto12_pkey"
+pg_restore: creating CONSTRAINT "te.study_organisations study_organisations_pkey"
+pg_restore: creating CONSTRAINT "te.study_people study_people_pkey"
+pg_restore: creating CONSTRAINT "te.study_titles study_titles_pkey"
+pg_restore: creating INDEX "ad.data_objects_oid"
+pg_restore: creating INDEX "ad.data_objects_sid"
+pg_restore: creating INDEX "ad.object_dates_oid"
+pg_restore: creating INDEX "ad.object_instances_oid"
+pg_restore: creating INDEX "ad.object_titles_oid"
+pg_restore: creating INDEX "ad.studies_sid"
+pg_restore: creating INDEX "ad.study_conditions_sid"
+pg_restore: creating INDEX "ad.study_countries_sid"
+pg_restore: creating INDEX "ad.study_features_sid"
+pg_restore: creating INDEX "ad.study_identifiers_sid"
+pg_restore: creating INDEX "ad.study_iec_13to19_sid"
+pg_restore: creating INDEX "ad.study_iec_20on_sid"
+pg_restore: creating INDEX "ad.study_iec_upto12_sid"
+pg_restore: creating INDEX "ad.study_organisations_sid"
+pg_restore: creating INDEX "ad.study_people_sid"
+pg_restore: creating INDEX "ad.study_titles_sid"
+pg_restore: creating INDEX "mn.source_sd_sid"
+pg_restore: creating INDEX "sd._study_people_sd_sid"
+pg_restore: creating INDEX "sd.data_objects_sd_oid"
+pg_restore: creating INDEX "sd.data_objects_sd_sid"
+pg_restore: creating INDEX "sd.object_dates_sd_oid"
+pg_restore: creating INDEX "sd.object_instances_sd_oid"
+pg_restore: creating INDEX "sd.object_titles_sd_oid"
+pg_restore: creating INDEX "sd.studies_sid"
+pg_restore: creating INDEX "sd.study_conditions_sd_sid"
+pg_restore: creating INDEX "sd.study_countries_sd_sid"
+pg_restore: creating INDEX "sd.study_features_sd_sid"
+pg_restore: creating INDEX "sd.study_identifiers_sd_sid"
+pg_restore: creating INDEX "sd.study_iec_13to19_sid"
+pg_restore: creating INDEX "sd.study_iec_20on_sid"
+pg_restore: creating INDEX "sd.study_iec_upto12_sid"
+pg_restore: creating INDEX "sd.study_organisations_sd_sid"
+pg_restore: creating INDEX "sd.study_titles_sd_sid"
+pg_restore: creating INDEX "te.data_objects_oid"
+pg_restore: creating INDEX "te.data_objects_sid"
+pg_restore: creating INDEX "te.object_dates_oid"
+pg_restore: creating INDEX "te.object_instances_oid"
+pg_restore: creating INDEX "te.object_titles_oid"
+pg_restore: creating INDEX "te.studies_sid"
+pg_restore: creating INDEX "te.study_conditions_sid"
+pg_restore: creating INDEX "te.study_countries_sid"
+pg_restore: creating INDEX "te.study_features_sid"
+pg_restore: creating INDEX "te.study_identifiers_sid"
+pg_restore: creating INDEX "te.study_iec_13to19_sid"
+pg_restore: creating INDEX "te.study_iec_20on_sid"
+pg_restore: creating INDEX "te.study_iec_upto12_sid"
+pg_restore: creating INDEX "te.study_organisations_sid"
+pg_restore: creating INDEX "te.study_people_sid"
+pg_restore: creating INDEX "te.study_titles_sid"
+Successfully completed.
+Execution time: 22.42 seconds
+```
