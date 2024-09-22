@@ -134,6 +134,12 @@ michelescarlato@krang:~/MDR_Steve/MDR_Downloader$
 To run it with parameters (avoiding using the launchSettings.json), 
 ```
 cd /home/michelescarlato/MDR_Steve/MDR_Downloader/bin/Debug/net8.0
+# Biolincc
 ./MDR_Downloader -s 101900 -t 102
+```
+
+```
+# Yoda initial
+./MDR_Downloader -s 101901 -t 102
 ```
 
