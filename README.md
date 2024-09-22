@@ -43,10 +43,15 @@ nano Properties/launchSettings.json
   "profiles": {
     "MDR_Downloader": {
       "commandName": "Project",
-      "commandLineArgs": "-s 109100 -t 114 -q 10003  -d \"2023-11-09\"  "
+      "commandLineArgs": "-s 101900 -t 114 -q 10003  -d \"2023-11-09\"  "
     } 
   }
 }
 ```
 
 109100 is Biolincc, by default there will be PubMed 100135.
+
+```
+dotnet run
+```
+
