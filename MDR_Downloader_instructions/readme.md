@@ -140,6 +140,15 @@ cd /home/michelescarlato/MDR_Steve/MDR_Downloader/bin/Debug/net8.0
 
 ```
 # Yoda initial
-./MDR_Downloader -s 101901 -t 102
+./MDR_Downloader -s 101901 -t 102 -d 2020-09-23
 ```
 
+```
+# ISRCTN
+./MDR_Downloader -s 100126 -t 111 -d 2020-09-23
+```
+
+```
+# ClinicalTrial.gov
+./MDR_Downloader -s 100120 -t 111 -d 2020-09-23
+```
