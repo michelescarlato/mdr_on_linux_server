@@ -112,3 +112,39 @@ docker rm mdr-downloader-container
 ## License
 
 This project follows the license of the [MDR Downloader](https://github.com/michelescarlato/MDR_Downloader.git).
+
+UPDATE the approach is currently working, running `docker-compose up`.
+The DB is outside the container on the localhost: 192.168.129.14 as set in the appsettings.json.
+Password on appsettings.json needs to be set.
+
+```
+michelescarlato@krang:~/gitrepo/mdr_on_linux_server/dockerfiles/MDR_Downloader$ docker-compose up
+Creating mdr-downloader-container ... done
+Attaching to mdr-downloader-container
+mdr-downloader-container | 09/26/2024 : 13:09 :   ****** DOWNLOAD ******
+mdr-downloader-container | 
+mdr-downloader-container | 09/26/2024 : 13:09 :   **** Set up ****
+mdr-downloader-container | 09/26/2024 : 13:09 :   Download event Id is 102208
+mdr-downloader-container | 09/26/2024 : 13:09 :   
+mdr-downloader-container | 09/26/2024 : 13:09 :   Source_id is 100120
+mdr-downloader-container | 09/26/2024 : 13:09 :   Type_id is 111
+mdr-downloader-container | 09/26/2024 : 13:09 :   Cutoff date is 2020-09-23
+mdr-downloader-container | 09/26/2024 : 13:09 :   250 files processed, 0 added, after 10 calls  (out of 10514)
+mdr-downloader-container | 09/26/2024 : 13:09 :   500 files processed, 1 added, after 20 calls 
+mdr-downloader-container | 09/26/2024 : 13:09 :   750 files processed, 2 added, after 30 calls 
+mdr-downloader-container | 09/26/2024 : 13:10 :   1000 files processed, 2 added, after 40 calls 
+mdr-downloader-container | 09/26/2024 : 13:10 :   1250 files processed, 2 added, after 50 calls 
+mdr-downloader-container | 09/26/2024 : 13:10 :   1500 files processed, 3 added, after 60 calls 
+mdr-downloader-container | 09/26/2024 : 13:10 :   1750 files processed, 3 added, after 70 calls 
+mdr-downloader-container | 09/26/2024 : 13:10 :   2000 files processed, 4 added, after 80 calls 
+mdr-downloader-container | 09/26/2024 : 13:10 :   2250 files processed, 4 added, after 90 calls 
+mdr-downloader-container | 09/26/2024 : 13:11 :   2500 files processed, 4 added, after 100 calls 
+mdr-downloader-container | 09/26/2024 : 13:11 :   2750 files processed, 5 added, after 110 calls 
+mdr-downloader-container | 09/26/2024 : 13:11 :   3000 files processed, 7 added, after 120 calls 
+mdr-downloader-container | 09/26/2024 : 13:11 :   3250 files processed, 7 added, after 130 calls 
+mdr-downloader-container | 09/26/2024 : 13:11 :   3500 files processed, 8 added, after 140 calls 
+mdr-downloader-container | 09/26/2024 : 13:11 :   3750 files processed, 8 added, after 150 calls 
+mdr-downloader-container | 09/26/2024 : 13:12 :   4000 files processed, 11 added, after 160 calls 
+mdr-downloader-container | 09/26/2024 : 13:12 :   4250 files processed, 11 added, after 170 calls 
+mdr-downloader-container | 09/26/2024 : 13:12 :   4500 files processed, 11 added, after 180 calls 
+```
