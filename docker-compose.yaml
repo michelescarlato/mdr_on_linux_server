@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  mdr-downloader:
+    image: mdr-downloader-dotnet8
+    container_name: mdr-downloader-container
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - ./appsettings.json:/app/appsettings.json  # Mount appsettings.json into the container
+    command: ["dotnet", "MDR_Downloader.dll", "-s", "100120", "-t", "111", "-d", "2020-09-23"]
