@@ -42,6 +42,7 @@ Here is the default command:
 docker run -it --name mdr-downloader-container \
   -v $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs \
   -v $HOME/MDR_Test:/app/test \
+  -v $HOME/MDR_Source:/app/MDR_Sources \
   mdr-downloader-dotnet8 -s 100120 -t 111 -d 2020-09-23
 ```
 
@@ -63,6 +64,7 @@ First, ensure you have the necessary directories on your local machine:
 ```bash
 mkdir -p $HOME/MDR_Logs_Docker_Volume
 mkdir -p $HOME/MDR_Test
+mkdir -p $HOME/MDR_Source
 ```
 
 ### Mount the Volumes
@@ -73,6 +75,7 @@ When running the container, mount the volumes like this:
 docker run -it --name mdr-downloader-container \
   -v $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs \
   -v $HOME/MDR_Test:/app/test \
+  -v $HOME/MDR_Source:/app/MDR_Sources \
   mdr-downloader-dotnet8 -s 100120 -t 111 -d 2020-09-23
 ```
 

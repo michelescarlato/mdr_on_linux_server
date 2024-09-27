@@ -1,11 +1,74 @@
 version: '3.8'
 
 services:
-  mdr-downloader:
+  biolincc:
     image: mdr-downloader-dotnet8
-    container_name: mdr-downloader-container
+    container_name: mdr-downloader-biolincc
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
-      - ./appsettings.json:/app/appsettings.json  # Mount appsettings.json into the container
-    command: ["dotnet", "MDR_Downloader.dll", "-s", "100120", "-t", "111", "-d", "2020-09-23"]
+    command: ["dotnet", "MDR_Downloader.dll", "-s", "101900", "-t", "102", "-d", "2020-09-23"]
+
+  clinicaltrials:
+    image: mdr-downloader-dotnet8
+    container_name: mdr-downloader-clinicaltrials
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+    command: ["dotnet", "MDR_Downloader.dll", "-s", "100120", "-t", "111"]
+
+  euctr:
+    image: mdr-downloader-dotnet8
+    container_name: mdr-downloader-euctr
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+    command: ["dotnet", "MDR_Downloader.dll", "-s", "100159", "-t", "103", "-f", "/app/MDR_Sources/EMA/DL/EMADL.xml"]
+
+  isrctn:
+    image: mdr-downloader-dotnet8
+    container_name: mdr-downloader-isrctn
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+    command: ["dotnet", "MDR_Downloader.dll", "-s", "100126", "-t", "111"]
+
+  pubmed1:
+    image: mdr-downloader-dotnet8
+    container_name: mdr-downloader-pubmed1
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+    command: ["dotnet", "MDR_Downloader.dll", "-s", "100135", "-t", "114", "-q", "10003"]
+
+  pubmed2:
+    image: mdr-downloader-dotnet8
+    container_name: mdr-downloader-pubmed2
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+    command: ["dotnet", "MDR_Downloader.dll", "-s", "100135", "-t", "114", "-q", "10004"]
+
+  who:
+    image: mdr-downloader-dotnet8
+    container_name: mdr-downloader-who
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+    command: ["dotnet", "MDR_Downloader.dll", "-s", "100115", "-t", "113", "-f", "/app/MDR_Sources/WHO/DL/WHODL.csv"]
+
+  yoda1:
+    image: mdr-downloader-dotnet8
+    container_name: mdr-downloader-yoda1
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+    command: ["dotnet", "MDR_Downloader.dll", "-s", "101901", "-t", "102"]
+
+  yoda2:
+    image: mdr-downloader-dotnet8
+    container_name: mdr-downloader-yoda2
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+    command: ["dotnet", "MDR_Downloader.dll", "-s", "101901", "-t", "102", "-I", "2"]
