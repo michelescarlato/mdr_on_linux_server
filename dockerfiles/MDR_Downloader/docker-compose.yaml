@@ -7,68 +7,102 @@ services:
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Source:/app/MDR_Sources
     command: ["dotnet", "MDR_Downloader.dll", "-s", "101900", "-t", "102", "-d", "2020-09-23"]
+    restart: no
 
   clinicaltrials:
     image: mdr-downloader-dotnet8
     container_name: mdr-downloader-clinicaltrials
+    depends_on:
+      - biolincc
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Source:/app/MDR_Sources
     command: ["dotnet", "MDR_Downloader.dll", "-s", "100120", "-t", "111"]
+    restart: no
 
   euctr:
     image: mdr-downloader-dotnet8
     container_name: mdr-downloader-euctr
+    depends_on:
+      - clinicaltrials
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Source:/app/MDR_Sources
     command: ["dotnet", "MDR_Downloader.dll", "-s", "100159", "-t", "103", "-f", "/app/MDR_Sources/EMA/DL/EMADL.xml"]
+    restart: no
 
   isrctn:
     image: mdr-downloader-dotnet8
     container_name: mdr-downloader-isrctn
+    depends_on:
+      - euctr
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Source:/app/MDR_Sources
     command: ["dotnet", "MDR_Downloader.dll", "-s", "100126", "-t", "111"]
+    restart: no
 
   pubmed1:
     image: mdr-downloader-dotnet8
     container_name: mdr-downloader-pubmed1
+    depends_on:
+      - isrctn
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Source:/app/MDR_Sources
     command: ["dotnet", "MDR_Downloader.dll", "-s", "100135", "-t", "114", "-q", "10003"]
+    restart: no
 
   pubmed2:
     image: mdr-downloader-dotnet8
     container_name: mdr-downloader-pubmed2
+    depends_on:
+      - pubmed1
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Source:/app/MDR_Sources
     command: ["dotnet", "MDR_Downloader.dll", "-s", "100135", "-t", "114", "-q", "10004"]
+    restart: no
 
   who:
     image: mdr-downloader-dotnet8
     container_name: mdr-downloader-who
+    depends_on:
+      - pubmed2
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Source:/app/MDR_Sources
     command: ["dotnet", "MDR_Downloader.dll", "-s", "100115", "-t", "113", "-f", "/app/MDR_Sources/WHO/DL/WHODL.csv"]
+    restart: no
 
   yoda1:
     image: mdr-downloader-dotnet8
     container_name: mdr-downloader-yoda1
+    depends_on:
+      - who
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Source:/app/MDR_Sources
     command: ["dotnet", "MDR_Downloader.dll", "-s", "101901", "-t", "102"]
+    restart: no
 
   yoda2:
     image: mdr-downloader-dotnet8
     container_name: mdr-downloader-yoda2
+    depends_on:
+      - yoda1
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Source:/app/MDR_Sources
     command: ["dotnet", "MDR_Downloader.dll", "-s", "101901", "-t", "102", "-I", "2"]
+    restart: no
