@@ -40,6 +40,9 @@ COPY --from=build-env /app/out .
 # Copy appsettings.json to the runtime environment
 COPY appsettings.json /app/
 
+# Copy MDR_Sources directory from the Docker build context to the app directory
+COPY MDR_Sources /app/MDR_Sources
+
 # Ensure directories exist in the runtime environment
 RUN mkdir -p /app/isrctn
 
