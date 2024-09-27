@@ -7,8 +7,8 @@ WORKDIR /app
 # Install Git to clone the repository
 RUN apt-get update && apt-get install -y git
 
-# Clone the MDR Downloader repository
-RUN git clone https://github.com/michelescarlato/MDR_Downloader.git .
+# Clone the MDR Downloader repository, using the linux-fixes branch
+RUN git clone --branch linux-fixes https://github.com/michelescarlato/MDR_Downloader.git .
 
 # Copy appsettings.json from the Docker build context to the app directory
 COPY appsettings.json /app/
