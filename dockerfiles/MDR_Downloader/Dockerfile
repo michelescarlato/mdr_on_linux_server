@@ -14,7 +14,10 @@ RUN git clone https://github.com/michelescarlato/MDR_Downloader.git .
 COPY appsettings.json /app/
 
 # Copy MDR_Source directory from the Docker build context to the app directory
-COPY MDR_Sources /app/MDR_Sources
+COPY MDR_Source /app/MDR_Sources
+
+# Ensure all required directories exist
+RUN mkdir -p /app/isrctn /app/other_needed_directories
 
 # Restore NuGet packages
 RUN dotnet restore
@@ -36,6 +39,9 @@ COPY --from=build-env /app/out .
 
 # Copy appsettings.json to the runtime environment
 COPY appsettings.json /app/
+
+# Ensure directories exist in the runtime environment
+RUN mkdir -p /app/isrctn
 
 # Command to run the application with dynamic parameters
 ENTRYPOINT ["dotnet", "MDR_Downloader.dll"]
