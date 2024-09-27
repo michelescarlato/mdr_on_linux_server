@@ -14,7 +14,7 @@ RUN git clone https://github.com/michelescarlato/MDR_Downloader.git .
 COPY appsettings.json /app/
 
 # Copy MDR_Source directory from the Docker build context to the app directory
-COPY MDR_Source /app/MDR_Sources
+COPY MDR_Sources /app/MDR_Sources
 
 # Restore NuGet packages
 RUN dotnet restore
