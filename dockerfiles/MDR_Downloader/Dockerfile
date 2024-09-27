@@ -14,7 +14,7 @@ RUN git clone https://github.com/michelescarlato/MDR_Downloader.git .
 COPY appsettings.json /app/
 
 # Copy MDR_Sources directory from the Docker build context to the app directory
-COPY MDR_Sources /app/MDR_Sources
+COPY MDR_Sources/* /app/
 
 # Ensure all required directories exist
 RUN mkdir -p /app/isrctn /app/other_needed_directories
@@ -41,7 +41,7 @@ COPY --from=build-env /app/out .
 COPY appsettings.json /app/
 
 # Copy MDR_Sources directory from the Docker build context to the app directory
-COPY MDR_Sources /app/MDR_Sources
+COPY MDR_Sources/* /app/
 
 # Ensure directories exist in the runtime environment
 RUN mkdir -p /app/isrctn
