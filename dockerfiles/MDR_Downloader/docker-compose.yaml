@@ -62,6 +62,7 @@ services:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
       - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
     command: ["dotnet", "MDR_Downloader.dll", "-s", "100115", "-t", "113", "-f", "/app/MDR_Sources/WHO/DL/WHODL.csv", "-d", "2020-09-23"]
 
   yoda1:
