@@ -152,3 +152,7 @@ cd /home/michelescarlato/MDR_Steve/MDR_Downloader/bin/Debug/net8.0
 # ClinicalTrial.gov
 ./MDR_Downloader -s 100120 -t 111 -d 2020-09-23
 ```
+
+```
+./MDR_Downloader -s 100115  -t 113 -f $HOME/MDR_Sources/WHO/DL/WHODL.csv -d 2020-09-23
+```
