@@ -65,6 +65,9 @@ First, ensure you have the necessary directories on your local machine:
 mkdir -p $HOME/MDR_Logs_Docker_Volume
 mkdir -p $HOME/MDR_Test
 mkdir -p $HOME/MDR_Source
+mkdir -p $HOME/MDR_Data/isrctn/
+mkdir -p $HOME/MDR_Data/euctr/
+
 ```
 
 ### Mount the Volumes
