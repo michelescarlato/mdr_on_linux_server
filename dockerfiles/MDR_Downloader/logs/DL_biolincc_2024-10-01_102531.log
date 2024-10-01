@@ -1,0 +1,692 @@
+﻿10/01/2024 : 10:25 :   ****** DOWNLOAD ******
+
+10/01/2024 : 10:25 :   **** Set up ****
+10/01/2024 : 10:25 :   Download event Id is 102262
+10/01/2024 : 10:25 :   
+10/01/2024 : 10:25 :   Source_id is 101900
+10/01/2024 : 10:25 :   Type_id is 102
+10/01/2024 : 10:25 :   Calling ObtainDataFromSourceAsync...
+
+10/01/2024 : 10:25 :   **** Processing Data ****
+10/01/2024 : 10:25 :   File list obtained, of 294 rows
+10/01/2024 : 10:25 :   Obtaining #1: AADR
+10/01/2024 : 10:25 :   1: AADR downloaded, with 0 linked publications
+10/01/2024 : 10:25 :   Obtaining #2: ACCESS
+10/01/2024 : 10:26 :   2: ACCESS downloaded, with 21 linked publications
+10/01/2024 : 10:26 :   Obtaining #3: ACCORD
+10/01/2024 : 10:29 :   3: ACCORD downloaded, with 156 linked publications
+10/01/2024 : 10:29 :   Obtaining #4: ACIP
+10/01/2024 : 10:29 :   4: ACIP downloaded, with 0 linked publications
+10/01/2024 : 10:29 :   Obtaining #5: ACRN-BAGS
+10/01/2024 : 10:29 :   5: ACRN-BAGS downloaded, with 0 linked publications
+10/01/2024 : 10:29 :   Obtaining #6: ACRN-BARGE
+10/01/2024 : 10:29 :   6: ACRN-BARGE downloaded, with 0 linked publications
+10/01/2024 : 10:29 :   Obtaining #7: ACRN-BASALT-TALC
+10/01/2024 : 10:29 :   7: ACRN-BASALT-TALC downloaded, with 2 linked publications
+10/01/2024 : 10:29 :   Obtaining #8: ACRN-CIMA
+10/01/2024 : 10:29 :   8: ACRN-CIMA downloaded, with 0 linked publications
+10/01/2024 : 10:29 :   Obtaining #9: ACRN-DICE
+10/01/2024 : 10:29 :   9: ACRN-DICE downloaded, with 0 linked publications
+10/01/2024 : 10:29 :   Obtaining #10: ACRN-IMPACT
+10/01/2024 : 10:29 :   10: ACRN-IMPACT downloaded, with 0 linked publications
+10/01/2024 : 10:29 :   files checked: 10
+10/01/2024 : 10:29 :   files downloaded: 10
+10/01/2024 : 10:29 :   Obtaining #11: ACRN-LARGE
+10/01/2024 : 10:29 :   11: ACRN-LARGE downloaded, with 0 linked publications
+10/01/2024 : 10:29 :   Obtaining #12: ACRN-MIA
+10/01/2024 : 10:29 :   12: ACRN-MIA downloaded, with 0 linked publications
+10/01/2024 : 10:29 :   Obtaining #13: ACRN-MICE
+10/01/2024 : 10:29 :   13: ACRN-MICE downloaded, with 0 linked publications
+10/01/2024 : 10:29 :   Obtaining #14: ACRN-PRICE
+10/01/2024 : 10:29 :   14: ACRN-PRICE downloaded, with 0 linked publications
+10/01/2024 : 10:29 :   Obtaining #15: ACRN-SLiMSIT
+10/01/2024 : 10:29 :   15: ACRN-SLiMSIT downloaded, with 0 linked publications
+10/01/2024 : 10:29 :   Obtaining #16: ACRN-SMOG
+10/01/2024 : 10:29 :   16: ACRN-SMOG downloaded, with 0 linked publications
+10/01/2024 : 10:29 :   Obtaining #17: ACRN-SOCS-SLIC
+10/01/2024 : 10:29 :   17: ACRN-SOCS-SLIC downloaded, with 1 linked publications
+10/01/2024 : 10:29 :   Obtaining #18: ACS-QUIK
+10/01/2024 : 10:30 :   18: ACS-QUIK downloaded, with 3 linked publications
+10/01/2024 : 10:30 :   Obtaining #19: ACT
+10/01/2024 : 10:30 :   19: ACT downloaded, with 3 linked publications
+10/01/2024 : 10:30 :   Obtaining #20: AFFIRM
+10/01/2024 : 10:31 :   20: AFFIRM downloaded, with 42 linked publications
+10/01/2024 : 10:31 :   files checked: 20
+10/01/2024 : 10:31 :   files downloaded: 20
+10/01/2024 : 10:31 :   Obtaining #21: AIM-HIGH
+10/01/2024 : 10:31 :   21: AIM-HIGH downloaded, with 6 linked publications
+10/01/2024 : 10:31 :   Obtaining #22: ALLHAT
+10/01/2024 : 10:31 :   22: ALLHAT downloaded, with 35 linked publications
+10/01/2024 : 10:31 :   Obtaining #23: AMIS
+10/01/2024 : 10:32 :   23: AMIS downloaded, with 7 linked publications
+10/01/2024 : 10:32 :   Obtaining #24: ARDSNet-ALTA
+10/01/2024 : 10:32 :   24: ARDSNet-ALTA downloaded, with 28 linked publications
+10/01/2024 : 10:32 :   Obtaining #25: ARDSNet-ALVEOLI
+10/01/2024 : 10:33 :   25: ARDSNet-ALVEOLI downloaded, with 37 linked publications
+10/01/2024 : 10:33 :   Obtaining #26: ARDSNet-ARMA-KARMA-LARMA
+10/01/2024 : 10:34 :   26: ARDSNet-ARMA-KARMA-LARMA downloaded, with 36 linked publications
+10/01/2024 : 10:34 :   Obtaining #27: ARDSNet-EDEN
+10/01/2024 : 10:34 :   27: ARDSNet-EDEN downloaded, with 19 linked publications
+10/01/2024 : 10:34 :   Obtaining #28: ARDSNet-FACTT
+10/01/2024 : 10:36 :   28: ARDSNet-FACTT downloaded, with 71 linked publications
+10/01/2024 : 10:36 :   Obtaining #29: ARDSNet-LaSRS
+10/01/2024 : 10:36 :   29: ARDSNet-LaSRS downloaded, with 11 linked publications
+10/01/2024 : 10:36 :   Obtaining #30: ARDSNet-Omega
+10/01/2024 : 10:36 :   30: ARDSNet-Omega downloaded, with 9 linked publications
+10/01/2024 : 10:36 :   files checked: 30
+10/01/2024 : 10:36 :   files downloaded: 30
+10/01/2024 : 10:36 :   Obtaining #31: ARDSNet-SAILS
+10/01/2024 : 10:37 :   31: ARDSNet-SAILS downloaded, with 28 linked publications
+10/01/2024 : 10:37 :   Obtaining #32: ARIC
+10/01/2024 : 10:41 :   32: ARIC downloaded, with 200 linked publications
+10/01/2024 : 10:41 :   #33: ARIC (non-BioLINCC) is a Non-BioLINCC Resource, not processed further
+10/01/2024 : 10:41 :   Obtaining #34: ATTRACT
+10/01/2024 : 10:41 :   34: ATTRACT downloaded, with 0 linked publications
+10/01/2024 : 10:41 :   Obtaining #35: AVID
+10/01/2024 : 10:41 :   35: AVID downloaded, with 5 linked publications
+10/01/2024 : 10:41 :   Obtaining #36: AsthmaNet-ALFA
+10/01/2024 : 10:41 :   36: AsthmaNet-ALFA downloaded, with 0 linked publications
+10/01/2024 : 10:41 :   Obtaining #37: AsthmaNet-APRIL-OCELOT
+10/01/2024 : 10:41 :   37: AsthmaNet-APRIL-OCELOT downloaded, with 2 linked publications
+10/01/2024 : 10:41 :   Obtaining #38: AsthmaNet-BARD
+10/01/2024 : 10:41 :   38: AsthmaNet-BARD downloaded, with 1 linked publications
+10/01/2024 : 10:41 :   Obtaining #39: AsthmaNet-INFANT-AVICA
+10/01/2024 : 10:41 :   39: AsthmaNet-INFANT-AVICA downloaded, with 2 linked publications
+10/01/2024 : 10:41 :   Obtaining #40: AsthmaNet-Microbiome
+10/01/2024 : 10:42 :   40: AsthmaNet-Microbiome downloaded, with 0 linked publications
+10/01/2024 : 10:42 :   files checked: 40
+10/01/2024 : 10:42 :   files downloaded: 39
+10/01/2024 : 10:42 :   Obtaining #41: AsthmaNet-SIENA
+10/01/2024 : 10:42 :   41: AsthmaNet-SIENA downloaded, with 0 linked publications
+10/01/2024 : 10:42 :   Obtaining #42: AsthmaNet-STICS
+10/01/2024 : 10:42 :   42: AsthmaNet-STICS downloaded, with 0 linked publications
+10/01/2024 : 10:42 :   Obtaining #43: AsthmaNet-VIDA
+10/01/2024 : 10:42 :   43: AsthmaNet-VIDA downloaded, with 0 linked publications
+10/01/2024 : 10:42 :   Obtaining #44: BABY HUG
+10/01/2024 : 10:42 :   44: BABY HUG downloaded, with 0 linked publications
+10/01/2024 : 10:42 :   Obtaining #45: BARI
+10/01/2024 : 10:42 :   45: BARI downloaded, with 6 linked publications
+10/01/2024 : 10:42 :   Obtaining #46: BARI 2D
+10/01/2024 : 10:42 :   46: BARI 2D downloaded, with 19 linked publications
+10/01/2024 : 10:42 :   Obtaining #47: BEST
+10/01/2024 : 10:43 :   47: BEST downloaded, with 40 linked publications
+10/01/2024 : 10:43 :   Obtaining #48: BEST-COPD
+10/01/2024 : 10:43 :   48: BEST-COPD downloaded, with 0 linked publications
+10/01/2024 : 10:43 :   Obtaining #49: BHAT
+10/01/2024 : 10:43 :   49: BHAT downloaded, with 5 linked publications
+10/01/2024 : 10:43 :   Obtaining #50: BHS
+10/01/2024 : 10:43 :   50: BHS downloaded, with 5 linked publications
+10/01/2024 : 10:43 :   files checked: 50
+10/01/2024 : 10:43 :   files downloaded: 49
+10/01/2024 : 10:43 :   Obtaining #51: BMT CTN-0101
+10/01/2024 : 10:44 :   51: BMT CTN-0101 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #52: BMT CTN-0102
+10/01/2024 : 10:44 :   52: BMT CTN-0102 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #53: BMT CTN-0201
+10/01/2024 : 10:44 :   53: BMT CTN-0201 downloaded, with 1 linked publications
+10/01/2024 : 10:44 :   Obtaining #54: BMT CTN-0301
+10/01/2024 : 10:44 :   54: BMT CTN-0301 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #55: BMT CTN-0302
+10/01/2024 : 10:44 :   55: BMT CTN-0302 downloaded, with 1 linked publications
+10/01/2024 : 10:44 :   Obtaining #56: BMT CTN-0401
+10/01/2024 : 10:44 :   56: BMT CTN-0401 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #57: BMT CTN-0402
+10/01/2024 : 10:44 :   57: BMT CTN-0402 downloaded, with 1 linked publications
+10/01/2024 : 10:44 :   Obtaining #58: BMT CTN-0403
+10/01/2024 : 10:44 :   58: BMT CTN-0403 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #59: BMT CTN-0501
+10/01/2024 : 10:44 :   59: BMT CTN-0501 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #60: BMT CTN-0601
+10/01/2024 : 10:44 :   60: BMT CTN-0601 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   files checked: 60
+10/01/2024 : 10:44 :   files downloaded: 59
+10/01/2024 : 10:44 :   Obtaining #61: BMT CTN-0603
+10/01/2024 : 10:44 :   61: BMT CTN-0603 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #62: BMT CTN-0604
+10/01/2024 : 10:44 :   62: BMT CTN-0604 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #63: BMT CTN-0701
+10/01/2024 : 10:44 :   63: BMT CTN-0701 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #64: BMT CTN-0702
+10/01/2024 : 10:44 :   64: BMT CTN-0702 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #65: BMT CTN-0801
+10/01/2024 : 10:44 :   65: BMT CTN-0801 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #66: BMT CTN-0802
+10/01/2024 : 10:44 :   66: BMT CTN-0802 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #67: BMT CTN-0803
+10/01/2024 : 10:44 :   67: BMT CTN-0803 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #68: BMT CTN-0901
+10/01/2024 : 10:44 :   68: BMT CTN-0901 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #69: BMT CTN-0902
+10/01/2024 : 10:44 :   69: BMT CTN-0902 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #70: BMT CTN-0903
+10/01/2024 : 10:44 :   70: BMT CTN-0903 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   files checked: 70
+10/01/2024 : 10:44 :   files downloaded: 69
+10/01/2024 : 10:44 :   Obtaining #71: BMT CTN-1101
+10/01/2024 : 10:44 :   71: BMT CTN-1101 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #72: BMT CTN-1102
+10/01/2024 : 10:44 :   72: BMT CTN-1102 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #73: BMT CTN-1202
+10/01/2024 : 10:44 :   73: BMT CTN-1202 downloaded, with 0 linked publications
+10/01/2024 : 10:44 :   Obtaining #74: BMT CTN-1203
+10/01/2024 : 10:44 :   74: BMT CTN-1203 downloaded, with 0 linked publications
+10/01/2024 : 10:45 :   Obtaining #75: BMT CTN-1204
+10/01/2024 : 10:45 :   75: BMT CTN-1204 downloaded, with 0 linked publications
+10/01/2024 : 10:45 :   Obtaining #76: BMT CTN-1301
+10/01/2024 : 10:45 :   76: BMT CTN-1301 downloaded, with 0 linked publications
+10/01/2024 : 10:45 :   Obtaining #77: BMT CTN-1302
+10/01/2024 : 10:45 :   77: BMT CTN-1302 downloaded, with 0 linked publications
+10/01/2024 : 10:45 :   Obtaining #78: BMT CTN-1501
+10/01/2024 : 10:45 :   78: BMT CTN-1501 downloaded, with 0 linked publications
+10/01/2024 : 10:45 :   Obtaining #79: BMT CTN-1502
+10/01/2024 : 10:45 :   79: BMT CTN-1502 downloaded, with 0 linked publications
+10/01/2024 : 10:45 :   Obtaining #80: BMT CTN-1703
+10/01/2024 : 10:45 :   80: BMT CTN-1703 downloaded, with 0 linked publications
+10/01/2024 : 10:45 :   files checked: 80
+10/01/2024 : 10:45 :   files downloaded: 79
+10/01/2024 : 10:45 :   Obtaining #81: BRIDGE
+10/01/2024 : 10:45 :   81: BRIDGE downloaded, with 0 linked publications
+10/01/2024 : 10:45 :   Obtaining #82: CABANA
+10/01/2024 : 10:45 :   82: CABANA downloaded, with 0 linked publications
+10/01/2024 : 10:45 :   Obtaining #83: CABG
+10/01/2024 : 10:45 :   83: CABG downloaded, with 12 linked publications
+10/01/2024 : 10:45 :   Obtaining #84: CAMP
+10/01/2024 : 10:45 :   84: CAMP downloaded, with 5 linked publications
+10/01/2024 : 10:45 :   Obtaining #85: CAPTION
+10/01/2024 : 10:45 :   85: CAPTION downloaded, with 1 linked publications
+10/01/2024 : 10:45 :   Obtaining #86: CARDIA
+10/01/2024 : 10:47 :   86: CARDIA downloaded, with 84 linked publications
+10/01/2024 : 10:47 :   Obtaining #87: CARE-AIMS
+10/01/2024 : 10:47 :   87: CARE-AIMS downloaded, with 1 linked publications
+10/01/2024 : 10:47 :   Obtaining #88: CARE-BADGER
+10/01/2024 : 10:47 :   88: CARE-BADGER downloaded, with 0 linked publications
+10/01/2024 : 10:47 :   Obtaining #89: CARE-CLIC
+10/01/2024 : 10:47 :   89: CARE-CLIC downloaded, with 0 linked publications
+10/01/2024 : 10:47 :   Obtaining #90: CARE-MARS
+10/01/2024 : 10:47 :   90: CARE-MARS downloaded, with 0 linked publications
+10/01/2024 : 10:47 :   files checked: 90
+10/01/2024 : 10:47 :   files downloaded: 89
+10/01/2024 : 10:47 :   Obtaining #91: CARE-MIST
+10/01/2024 : 10:47 :   91: CARE-MIST downloaded, with 0 linked publications
+10/01/2024 : 10:47 :   Obtaining #92: CARE-PACT
+10/01/2024 : 10:47 :   92: CARE-PACT downloaded, with 0 linked publications
+10/01/2024 : 10:47 :   Obtaining #93: CARE-PEAK
+10/01/2024 : 10:47 :   93: CARE-PEAK downloaded, with 0 linked publications
+10/01/2024 : 10:47 :   Obtaining #94: CARE-TREXA
+10/01/2024 : 10:47 :   94: CARE-TREXA downloaded, with 0 linked publications
+10/01/2024 : 10:47 :   Obtaining #95: CASS
+10/01/2024 : 10:47 :   95: CASS downloaded, with 2 linked publications
+10/01/2024 : 10:47 :   Obtaining #96: CAST
+10/01/2024 : 10:48 :   96: CAST downloaded, with 3 linked publications
+10/01/2024 : 10:48 :   Obtaining #97: CBB
+10/01/2024 : 10:48 :   97: CBB downloaded, with 7 linked publications
+10/01/2024 : 10:48 :   Obtaining #98: CCTRN-CONCERT HF
+10/01/2024 : 10:48 :   98: CCTRN-CONCERT HF downloaded, with 0 linked publications
+10/01/2024 : 10:48 :   Obtaining #99: CCTRN-FOCUS
+10/01/2024 : 10:48 :   99: CCTRN-FOCUS downloaded, with 1 linked publications
+10/01/2024 : 10:48 :   Obtaining #100: CCTRN-LateTIME
+10/01/2024 : 10:48 :   100: CCTRN-LateTIME downloaded, with 0 linked publications
+10/01/2024 : 10:48 :   files checked: 100
+10/01/2024 : 10:48 :   files downloaded: 99
+10/01/2024 : 10:48 :   Obtaining #101: CCTRN-PACE
+10/01/2024 : 10:48 :   101: CCTRN-PACE downloaded, with 0 linked publications
+10/01/2024 : 10:48 :   Obtaining #102: CCTRN-SENECA
+10/01/2024 : 10:48 :   102: CCTRN-SENECA downloaded, with 0 linked publications
+10/01/2024 : 10:48 :   Obtaining #103: CCTRN-TIME
+10/01/2024 : 10:48 :   103: CCTRN-TIME downloaded, with 0 linked publications
+10/01/2024 : 10:48 :   Obtaining #104: CDP
+10/01/2024 : 10:48 :   104: CDP downloaded, with 0 linked publications
+10/01/2024 : 10:48 :   Obtaining #105: CHAT
+10/01/2024 : 10:48 :   105: CHAT downloaded, with 0 linked publications
+10/01/2024 : 10:48 :   Obtaining #106: CHIVES
+10/01/2024 : 10:48 :   106: CHIVES downloaded, with 0 linked publications
+10/01/2024 : 10:48 :   Obtaining #107: CHOICES
+10/01/2024 : 10:48 :   107: CHOICES downloaded, with 0 linked publications
+10/01/2024 : 10:48 :   Obtaining #108: CHS
+10/01/2024 : 10:52 :   108: CHS downloaded, with 162 linked publications
+10/01/2024 : 10:52 :   Obtaining #109: CLEVER
+10/01/2024 : 10:52 :   109: CLEVER downloaded, with 2 linked publications
+10/01/2024 : 10:52 :   Obtaining #110: COAG
+10/01/2024 : 10:52 :   110: COAG downloaded, with 4 linked publications
+10/01/2024 : 10:52 :   files checked: 110
+10/01/2024 : 10:52 :   files downloaded: 109
+10/01/2024 : 10:52 :   Obtaining #111: COBLT
+10/01/2024 : 10:52 :   111: COBLT downloaded, with 14 linked publications
+10/01/2024 : 10:52 :   Obtaining #112: COLCORONA
+10/01/2024 : 10:52 :   112: COLCORONA downloaded, with 1 linked publications
+10/01/2024 : 10:52 :   Obtaining #113: COPTR
+10/01/2024 : 10:52 :   113: COPTR downloaded, with 0 linked publications
+10/01/2024 : 10:52 :   Obtaining #114: CORAL
+10/01/2024 : 10:52 :   114: CORAL downloaded, with 1 linked publications
+10/01/2024 : 10:52 :   Obtaining #115: CPAP
+10/01/2024 : 10:52 :   115: CPAP downloaded, with 0 linked publications
+10/01/2024 : 10:52 :   Obtaining #116: CSSCD
+10/01/2024 : 10:53 :   116: CSSCD downloaded, with 23 linked publications
+10/01/2024 : 10:53 :   Obtaining #117: CTSN-AFB
+10/01/2024 : 10:53 :   117: CTSN-AFB downloaded, with 0 linked publications
+10/01/2024 : 10:53 :   Obtaining #118: CTSN-MMR
+10/01/2024 : 10:53 :   118: CTSN-MMR downloaded, with 0 linked publications
+10/01/2024 : 10:53 :   Obtaining #119: CTSN-NP
+10/01/2024 : 10:53 :   119: CTSN-NP downloaded, with 0 linked publications
+10/01/2024 : 10:53 :   Obtaining #120: CTSN-POAF
+10/01/2024 : 10:53 :   120: CTSN-POAF downloaded, with 1 linked publications
+10/01/2024 : 10:53 :   files checked: 120
+10/01/2024 : 10:53 :   files downloaded: 119
+10/01/2024 : 10:53 :   Obtaining #121: CTSN-SMR
+10/01/2024 : 10:53 :   121: CTSN-SMR downloaded, with 0 linked publications
+10/01/2024 : 10:53 :   Obtaining #122: CTSN-CCTRN-LVAD
+10/01/2024 : 10:53 :   122: CTSN-CCTRN-LVAD downloaded, with 1 linked publications
+10/01/2024 : 10:53 :   Obtaining #123: CureSCi-HCT for SCD
+10/01/2024 : 10:53 :   123: CureSCi-HCT for SCD downloaded, with 0 linked publications
+10/01/2024 : 10:53 :   Obtaining #124: CureSCi-SCBank
+10/01/2024 : 10:53 :   124: CureSCi-SCBank downloaded, with 0 linked publications
+10/01/2024 : 10:53 :   Obtaining #125: DASH
+10/01/2024 : 10:53 :   125: DASH downloaded, with 9 linked publications
+10/01/2024 : 10:53 :   Obtaining #126: DASH-Sodium
+10/01/2024 : 10:54 :   126: DASH-Sodium downloaded, with 24 linked publications
+10/01/2024 : 10:54 :   Obtaining #127: DELTA
+10/01/2024 : 10:54 :   127: DELTA downloaded, with 17 linked publications
+10/01/2024 : 10:54 :   Obtaining #128: DIG
+10/01/2024 : 10:56 :   128: DIG downloaded, with 86 linked publications
+10/01/2024 : 10:56 :   Obtaining #129: DISC
+10/01/2024 : 10:56 :   129: DISC downloaded, with 2 linked publications
+10/01/2024 : 10:56 :   Obtaining #130: DISC06
+10/01/2024 : 10:56 :   130: DISC06 downloaded, with 1 linked publications
+10/01/2024 : 10:56 :   files checked: 130
+10/01/2024 : 10:56 :   files downloaded: 129
+10/01/2024 : 10:56 :   Obtaining #131: ENRICHD
+10/01/2024 : 10:56 :   131: ENRICHD downloaded, with 9 linked publications
+10/01/2024 : 10:56 :   Obtaining #132: EPIC
+10/01/2024 : 10:56 :   132: EPIC downloaded, with 0 linked publications
+10/01/2024 : 10:57 :   Obtaining #133: ESCAPE
+10/01/2024 : 10:58 :   133: ESCAPE downloaded, with 48 linked publications
+10/01/2024 : 10:58 :   #134: FHS (non-BioLINCC) is a Non-BioLINCC Resource, not processed further
+10/01/2024 : 10:58 :   Obtaining #135: FHS-Cohort
+10/01/2024 : 11:02 :   135: FHS-Cohort downloaded, with 185 linked publications
+10/01/2024 : 11:02 :   Obtaining #136: FHS-Gen III
+10/01/2024 : 11:02 :   136: FHS-Gen III downloaded, with 10 linked publications
+10/01/2024 : 11:02 :   Obtaining #137: FHS-OS
+10/01/2024 : 11:06 :   137: FHS-OS downloaded, with 172 linked publications
+10/01/2024 : 11:06 :   Obtaining #138: FOCUS
+10/01/2024 : 11:06 :   138: FOCUS downloaded, with 1 linked publications
+10/01/2024 : 11:06 :   Obtaining #139: GHCoE-Argentina
+10/01/2024 : 11:06 :   139: GHCoE-Argentina downloaded, with 3 linked publications
+10/01/2024 : 11:06 :   Obtaining #140: GHCoE-China
+10/01/2024 : 11:06 :   140: GHCoE-China downloaded, with 0 linked publications
+10/01/2024 : 11:06 :   files checked: 140
+10/01/2024 : 11:06 :   files downloaded: 138
+10/01/2024 : 11:06 :   Obtaining #141: GHCoE-Guatemala
+10/01/2024 : 11:06 :   141: GHCoE-Guatemala downloaded, with 2 linked publications
+10/01/2024 : 11:06 :   Obtaining #142: GHCoE-New Delhi
+10/01/2024 : 11:06 :   142: GHCoE-New Delhi downloaded, with 3 linked publications
+10/01/2024 : 11:06 :   Obtaining #143: GHCoE-South Africa
+10/01/2024 : 11:06 :   143: GHCoE-South Africa downloaded, with 2 linked publications
+10/01/2024 : 11:06 :   Obtaining #144: GUIDE-IT
+10/01/2024 : 11:06 :   144: GUIDE-IT downloaded, with 0 linked publications
+10/01/2024 : 11:06 :   Obtaining #145: GenTAC
+10/01/2024 : 11:06 :   145: GenTAC downloaded, with 3 linked publications
+10/01/2024 : 11:06 :   Obtaining #146: H1N1
+10/01/2024 : 11:06 :   146: H1N1 downloaded, with 0 linked publications
+10/01/2024 : 11:06 :   Obtaining #147: HCHS-SOL
+10/01/2024 : 11:07 :   147: HCHS-SOL downloaded, with 16 linked publications
+10/01/2024 : 11:07 :   Obtaining #148: HCS
+10/01/2024 : 11:07 :   148: HCS downloaded, with 1 linked publications
+10/01/2024 : 11:07 :   Obtaining #149: HDFP
+10/01/2024 : 11:07 :   149: HDFP downloaded, with 11 linked publications
+10/01/2024 : 11:07 :   Obtaining #150: HEIRS
+10/01/2024 : 11:07 :   150: HEIRS downloaded, with 8 linked publications
+10/01/2024 : 11:07 :   files checked: 150
+10/01/2024 : 11:07 :   files downloaded: 148
+10/01/2024 : 11:07 :   Obtaining #151: HF-ACTION
+10/01/2024 : 11:08 :   151: HF-ACTION downloaded, with 14 linked publications
+10/01/2024 : 11:08 :   Obtaining #152: HFN-ATHENA HF
+10/01/2024 : 11:08 :   152: HFN-ATHENA HF downloaded, with 0 linked publications
+10/01/2024 : 11:08 :   Obtaining #153: HFN-CARRESS
+10/01/2024 : 11:08 :   153: HFN-CARRESS downloaded, with 12 linked publications
+10/01/2024 : 11:08 :   Obtaining #154: HFN-DOSE AHF
+10/01/2024 : 11:08 :   154: HFN-DOSE AHF downloaded, with 14 linked publications
+10/01/2024 : 11:08 :   Obtaining #155: HFN-EXACT HF
+10/01/2024 : 11:08 :   155: HFN-EXACT HF downloaded, with 0 linked publications
+10/01/2024 : 11:08 :   Obtaining #156: HFN-FIGHT
+10/01/2024 : 11:08 :   156: HFN-FIGHT downloaded, with 1 linked publications
+10/01/2024 : 11:08 :   Obtaining #157: HFN-INDIE
+10/01/2024 : 11:08 :   157: HFN-INDIE downloaded, with 0 linked publications
+10/01/2024 : 11:08 :   Obtaining #158: HFN-IRONOUT
+10/01/2024 : 11:08 :   158: HFN-IRONOUT downloaded, with 0 linked publications
+10/01/2024 : 11:08 :   Obtaining #159: HFN-LIFE
+10/01/2024 : 11:08 :   159: HFN-LIFE downloaded, with 0 linked publications
+10/01/2024 : 11:08 :   Obtaining #160: HFN-NEAT
+10/01/2024 : 11:09 :   160: HFN-NEAT downloaded, with 2 linked publications
+10/01/2024 : 11:09 :   files checked: 160
+10/01/2024 : 11:09 :   files downloaded: 158
+10/01/2024 : 11:09 :   Obtaining #161: HFN-RELAX
+10/01/2024 : 11:09 :   161: HFN-RELAX downloaded, with 6 linked publications
+10/01/2024 : 11:09 :   Obtaining #162: HFN-ROSE
+10/01/2024 : 11:09 :   162: HFN-ROSE downloaded, with 12 linked publications
+10/01/2024 : 11:09 :   Obtaining #163: HHL
+10/01/2024 : 11:09 :   163: HHL downloaded, with 0 linked publications
+10/01/2024 : 11:09 :   Obtaining #164: HHP
+10/01/2024 : 11:10 :   164: HHP downloaded, with 22 linked publications
+10/01/2024 : 11:10 :   Obtaining #165: HIFI
+10/01/2024 : 11:10 :   165: HIFI downloaded, with 1 linked publications
+10/01/2024 : 11:10 :   Obtaining #166: HIT RADIO
+10/01/2024 : 11:10 :   166: HIT RADIO downloaded, with 0 linked publications
+10/01/2024 : 11:10 :   Obtaining #167: ICARE
+10/01/2024 : 11:10 :   167: ICARE downloaded, with 0 linked publications
+10/01/2024 : 11:10 :   Obtaining #168: IDEA
+10/01/2024 : 11:10 :   168: IDEA downloaded, with 0 linked publications
+10/01/2024 : 11:10 :   #169: INHALD (non-BioLINCC) is a Non-BioLINCC Resource, not processed further
+10/01/2024 : 11:10 :   Obtaining #170: IPFNet-ACE IPF
+10/01/2024 : 11:10 :   170: IPFNet-ACE IPF downloaded, with 3 linked publications
+10/01/2024 : 11:10 :   files checked: 170
+10/01/2024 : 11:10 :   files downloaded: 167
+10/01/2024 : 11:10 :   Obtaining #171: IPFNet-PANTHER IPF
+10/01/2024 : 11:10 :   171: IPFNet-PANTHER IPF downloaded, with 2 linked publications
+10/01/2024 : 11:10 :   Obtaining #172: IPFNet-STEP IPF
+10/01/2024 : 11:10 :   172: IPFNet-STEP IPF downloaded, with 1 linked publications
+10/01/2024 : 11:10 :   Obtaining #173: IPPB
+10/01/2024 : 11:10 :   173: IPPB downloaded, with 1 linked publications
+10/01/2024 : 11:10 :   Obtaining #174: ISCHEMIA-ISCHEMIA-CKD
+10/01/2024 : 11:10 :   174: ISCHEMIA-ISCHEMIA-CKD downloaded, with 0 linked publications
+10/01/2024 : 11:10 :   Obtaining #175: Intermacs
+10/01/2024 : 11:11 :   175: Intermacs downloaded, with 25 linked publications
+10/01/2024 : 11:11 :   Obtaining #176: JHS
+10/01/2024 : 11:11 :   176: JHS downloaded, with 8 linked publications
+10/01/2024 : 11:11 :   #177: LAM (non-BioLINCC) is a Non-BioLINCC Resource, not processed further
+10/01/2024 : 11:11 :   Obtaining #178: LHMP
+10/01/2024 : 11:11 :   178: LHMP downloaded, with 0 linked publications
+10/01/2024 : 11:11 :   Obtaining #179: LHS
+10/01/2024 : 11:11 :   179: LHS downloaded, with 11 linked publications
+10/01/2024 : 11:11 :   Obtaining #180: LOTT
+10/01/2024 : 11:11 :   180: LOTT downloaded, with 1 linked publications
+10/01/2024 : 11:11 :   files checked: 180
+10/01/2024 : 11:11 :   files downloaded: 176
+10/01/2024 : 11:11 :   Obtaining #181: LRC-CPPT
+10/01/2024 : 11:11 :   181: LRC-CPPT downloaded, with 10 linked publications
+10/01/2024 : 11:11 :   Obtaining #182: LRC-PS
+10/01/2024 : 11:12 :   182: LRC-PS downloaded, with 4 linked publications
+10/01/2024 : 11:12 :   Obtaining #183: LTRC
+10/01/2024 : 11:12 :   183: LTRC downloaded, with 0 linked publications
+10/01/2024 : 11:12 :   Obtaining #184: Lung HIV
+10/01/2024 : 11:12 :   184: Lung HIV downloaded, with 2 linked publications
+10/01/2024 : 11:12 :   Obtaining #185: MAGIC
+10/01/2024 : 11:12 :   185: MAGIC downloaded, with 5 linked publications
+10/01/2024 : 11:12 :   Obtaining #186: MASM
+10/01/2024 : 11:12 :   186: MASM downloaded, with 0 linked publications
+10/01/2024 : 11:12 :   Obtaining #187: MEDFOCUS
+10/01/2024 : 11:12 :   187: MEDFOCUS downloaded, with 0 linked publications
+10/01/2024 : 11:12 :   Obtaining #188: MESA
+10/01/2024 : 11:14 :   188: MESA downloaded, with 81 linked publications
+10/01/2024 : 11:14 :   Obtaining #189: MHCS
+10/01/2024 : 11:14 :   189: MHCS downloaded, with 5 linked publications
+10/01/2024 : 11:14 :   Obtaining #190: MRFIT
+10/01/2024 : 11:14 :   190: MRFIT downloaded, with 28 linked publications
+10/01/2024 : 11:14 :   files checked: 190
+10/01/2024 : 11:14 :   files downloaded: 186
+10/01/2024 : 11:14 :   Obtaining #191: MSH
+10/01/2024 : 11:15 :   191: MSH downloaded, with 13 linked publications
+10/01/2024 : 11:15 :   Obtaining #192: NANB-TAH
+10/01/2024 : 11:15 :   192: NANB-TAH downloaded, with 5 linked publications
+10/01/2024 : 11:15 :   Obtaining #193: NETT
+10/01/2024 : 11:15 :   193: NETT downloaded, with 13 linked publications
+10/01/2024 : 11:15 :   Obtaining #194: NGHS
+10/01/2024 : 11:16 :   194: NGHS downloaded, with 35 linked publications
+10/01/2024 : 11:16 :   Obtaining #195: NLMS
+10/01/2024 : 11:16 :   195: NLMS downloaded, with 1 linked publications
+10/01/2024 : 11:16 :   Obtaining #196: OAT
+10/01/2024 : 11:16 :   196: OAT downloaded, with 4 linked publications
+10/01/2024 : 11:16 :   Obtaining #197: OMNI Heart
+10/01/2024 : 11:16 :   197: OMNI Heart downloaded, with 9 linked publications
+10/01/2024 : 11:16 :   Obtaining #198: P2C2
+10/01/2024 : 11:16 :   198: P2C2 downloaded, with 1 linked publications
+10/01/2024 : 11:16 :   Obtaining #199: PACS
+10/01/2024 : 11:16 :   199: PACS downloaded, with 1 linked publications
+10/01/2024 : 11:16 :   Obtaining #200: PACTG
+10/01/2024 : 11:16 :   200: PACTG downloaded, with 1 linked publications
+10/01/2024 : 11:16 :   files checked: 200
+10/01/2024 : 11:16 :   files downloaded: 196
+10/01/2024 : 11:16 :   Obtaining #201: PAD
+10/01/2024 : 11:17 :   201: PAD downloaded, with 0 linked publications
+10/01/2024 : 11:17 :   Obtaining #202: PATHS
+10/01/2024 : 11:17 :   202: PATHS downloaded, with 1 linked publications
+10/01/2024 : 11:17 :   Obtaining #203: PEACE
+10/01/2024 : 11:17 :   203: PEACE downloaded, with 35 linked publications
+10/01/2024 : 11:17 :   Obtaining #204: PETAL-BLUE CORAL
+10/01/2024 : 11:17 :   !!!! Need to map BLUE CORAL Specimen Collection Processing in mn.document_types table !!!!
+10/01/2024 : 11:17 :   204: PETAL-BLUE CORAL downloaded, with 0 linked publications
+10/01/2024 : 11:17 :   Obtaining #205: PETAL-CLOVERS
+10/01/2024 : 11:17 :   205: PETAL-CLOVERS downloaded, with 0 linked publications
+10/01/2024 : 11:17 :   Obtaining #206: PETAL-FIRE CORAL
+10/01/2024 : 11:17 :   !!!! Need to map FIRE CORAL Manual of Operating Procedures in mn.document_types table !!!!
+10/01/2024 : 11:17 :   206: PETAL-FIRE CORAL downloaded, with 0 linked publications
+10/01/2024 : 11:17 :   Obtaining #207: PETAL-LOTUS FRUIT
+10/01/2024 : 11:17 :   207: PETAL-LOTUS FRUIT downloaded, with 0 linked publications
+10/01/2024 : 11:18 :   Obtaining #208: PETAL-ORCHID
+10/01/2024 : 11:18 :   208: PETAL-ORCHID downloaded, with 1 linked publications
+10/01/2024 : 11:18 :   Obtaining #209: PETAL-RED CORAL
+10/01/2024 : 11:18 :   209: PETAL-RED CORAL downloaded, with 0 linked publications
+10/01/2024 : 11:18 :   Obtaining #210: PETAL-ROSE
+10/01/2024 : 11:18 :   210: PETAL-ROSE downloaded, with 3 linked publications
+10/01/2024 : 11:18 :   files checked: 210
+10/01/2024 : 11:18 :   files downloaded: 206
+10/01/2024 : 11:18 :   Obtaining #211: PETAL-VIOLET
+10/01/2024 : 11:18 :   211: PETAL-VIOLET downloaded, with 1 linked publications
+10/01/2024 : 11:18 :   Obtaining #212: PF-ILD Proteomics
+10/01/2024 : 11:18 :   212: PF-ILD Proteomics downloaded, with 0 linked publications
+10/01/2024 : 11:18 :   Obtaining #213: PIMI
+10/01/2024 : 11:18 :   213: PIMI downloaded, with 2 linked publications
+10/01/2024 : 11:18 :   Obtaining #214: PIOPED
+10/01/2024 : 11:18 :   214: PIOPED downloaded, with 0 linked publications
+10/01/2024 : 11:18 :   Obtaining #215: PLADO
+10/01/2024 : 11:18 :   215: PLADO downloaded, with 0 linked publications
+10/01/2024 : 11:18 :   Obtaining #216: POWER-UP
+10/01/2024 : 11:18 :   216: POWER-UP downloaded, with 1 linked publications
+10/01/2024 : 11:18 :   Obtaining #217: PPH Registry
+10/01/2024 : 11:18 :   217: PPH Registry downloaded, with 5 linked publications
+10/01/2024 : 11:18 :   Obtaining #218: PREMIER
+10/01/2024 : 11:18 :   218: PREMIER downloaded, with 10 linked publications
+10/01/2024 : 11:18 :   Obtaining #219: PRHHP
+10/01/2024 : 11:19 :   219: PRHHP downloaded, with 22 linked publications
+10/01/2024 : 11:19 :   Obtaining #220: PRIDE
+10/01/2024 : 11:19 :   220: PRIDE downloaded, with 0 linked publications
+10/01/2024 : 11:19 :   files checked: 220
+10/01/2024 : 11:19 :   files downloaded: 216
+10/01/2024 : 11:19 :   Obtaining #221: PROMISE
+10/01/2024 : 11:19 :   221: PROMISE downloaded, with 2 linked publications
+10/01/2024 : 11:19 :   Obtaining #222: PROP
+10/01/2024 : 11:19 :   222: PROP downloaded, with 1 linked publications
+10/01/2024 : 11:19 :   Obtaining #223: REACT
+10/01/2024 : 11:19 :   223: REACT downloaded, with 0 linked publications
+10/01/2024 : 11:19 :   Obtaining #224: REDS II-CORE
+10/01/2024 : 11:20 :   224: REDS II-CORE downloaded, with 16 linked publications
+10/01/2024 : 11:20 :   Obtaining #225: REDS II-Chagas
+10/01/2024 : 11:20 :   225: REDS II-Chagas downloaded, with 0 linked publications
+10/01/2024 : 11:20 :   Obtaining #226: REDS II-LAPS
+10/01/2024 : 11:20 :   226: REDS II-LAPS downloaded, with 18 linked publications
+10/01/2024 : 11:20 :   Obtaining #227: REDS II-MS
+10/01/2024 : 11:20 :   227: REDS II-MS downloaded, with 17 linked publications
+10/01/2024 : 11:20 :   Obtaining #228: REDS II-RISE
+10/01/2024 : 11:21 :   228: REDS II-RISE downloaded, with 20 linked publications
+10/01/2024 : 11:21 :   Obtaining #229: REDS III
+10/01/2024 : 11:21 :   229: REDS III downloaded, with 2 linked publications
+10/01/2024 : 11:21 :   Obtaining #230: REDS III-U-S- Zika
+10/01/2024 : 11:21 :   230: REDS III-U-S- Zika downloaded, with 0 linked publications
+10/01/2024 : 11:21 :   files checked: 230
+10/01/2024 : 11:21 :   files downloaded: 226
+10/01/2024 : 11:21 :   #231: REDS III-U-S- Zika (non-BioLINCC) is a Non-BioLINCC Resource, not processed further
+10/01/2024 : 11:21 :   #232: REDS IV-RESPONSE (non-BioLINCC) is a Non-BioLINCC Resource, not processed further
+10/01/2024 : 11:21 :   Obtaining #233: REDS-GLPR
+10/01/2024 : 11:21 :   233: REDS-GLPR downloaded, with 19 linked publications
+10/01/2024 : 11:21 :   Obtaining #234: REDS-HTLV
+10/01/2024 : 11:22 :   234: REDS-HTLV downloaded, with 28 linked publications
+10/01/2024 : 11:22 :   Obtaining #235: REDS-RADAR
+10/01/2024 : 11:22 :   235: REDS-RADAR downloaded, with 18 linked publications
+10/01/2024 : 11:22 :   Obtaining #236: RESTORE
+10/01/2024 : 11:23 :   236: RESTORE downloaded, with 0 linked publications
+10/01/2024 : 11:23 :   Obtaining #237: REVIVAL
+10/01/2024 : 11:23 :   237: REVIVAL downloaded, with 0 linked publications
+10/01/2024 : 11:23 :   Obtaining #238: ROC-ALPS
+10/01/2024 : 11:23 :   238: ROC-ALPS downloaded, with 8 linked publications
+10/01/2024 : 11:23 :   Obtaining #239: ROC-CCC
+10/01/2024 : 11:23 :   239: ROC-CCC downloaded, with 10 linked publications
+10/01/2024 : 11:23 :   Obtaining #240: ROC-CPR
+10/01/2024 : 11:23 :   240: ROC-CPR downloaded, with 0 linked publications
+10/01/2024 : 11:23 :   files checked: 240
+10/01/2024 : 11:23 :   files downloaded: 234
+10/01/2024 : 11:23 :   Obtaining #241: ROC-Cardiac Epistry 1 and 2
+10/01/2024 : 11:23 :   241: ROC-Cardiac Epistry 1 and 2 downloaded, with 5 linked publications
+10/01/2024 : 11:23 :   Obtaining #242: ROC-Cardiac Epistry 3
+10/01/2024 : 11:23 :   242: ROC-Cardiac Epistry 3 downloaded, with 13 linked publications
+10/01/2024 : 11:24 :   Obtaining #243: ROC-HS-TBI
+10/01/2024 : 11:24 :   243: ROC-HS-TBI downloaded, with 5 linked publications
+10/01/2024 : 11:24 :   Obtaining #244: ROC-PART
+10/01/2024 : 11:24 :   244: ROC-PART downloaded, with 1 linked publications
+10/01/2024 : 11:24 :   Obtaining #245: ROC-PRIMED
+10/01/2024 : 11:24 :   245: ROC-PRIMED downloaded, with 15 linked publications
+10/01/2024 : 11:24 :   Obtaining #246: ROC-PROHS
+10/01/2024 : 11:24 :   246: ROC-PROHS downloaded, with 0 linked publications
+10/01/2024 : 11:24 :   Obtaining #247: ROC-PROPPR
+10/01/2024 : 11:24 :   247: ROC-PROPPR downloaded, with 0 linked publications
+10/01/2024 : 11:24 :   Obtaining #248: ROC-Trauma Epistry
+10/01/2024 : 11:24 :   248: ROC-Trauma Epistry downloaded, with 0 linked publications
+10/01/2024 : 11:24 :   Obtaining #249: ROMICAT-II
+10/01/2024 : 11:24 :   249: ROMICAT-II downloaded, with 1 linked publications
+10/01/2024 : 11:24 :   Obtaining #250: ROSTERS
+10/01/2024 : 11:24 :   250: ROSTERS downloaded, with 0 linked publications
+10/01/2024 : 11:24 :   files checked: 250
+10/01/2024 : 11:24 :   files downloaded: 244
+10/01/2024 : 11:24 :   Obtaining #251: RTS
+10/01/2024 : 11:24 :   251: RTS downloaded, with 0 linked publications
+10/01/2024 : 11:24 :   Obtaining #252: SCD-HeFT
+10/01/2024 : 11:25 :   252: SCD-HeFT downloaded, with 10 linked publications
+10/01/2024 : 11:25 :   Obtaining #253: SCDIC Registry
+10/01/2024 : 11:25 :   253: SCDIC Registry downloaded, with 0 linked publications
+10/01/2024 : 11:25 :   Obtaining #254: SHEP
+10/01/2024 : 11:25 :   254: SHEP downloaded, with 19 linked publications
+10/01/2024 : 11:25 :   Obtaining #255: SHHS
+10/01/2024 : 11:25 :   255: SHHS downloaded, with 2 linked publications
+10/01/2024 : 11:25 :   Obtaining #256: SNAP
+10/01/2024 : 11:25 :   256: SNAP downloaded, with 0 linked publications
+10/01/2024 : 11:25 :   Obtaining #257: SOLVD
+10/01/2024 : 11:26 :   257: SOLVD downloaded, with 26 linked publications
+10/01/2024 : 11:26 :   Obtaining #258: SOYA
+10/01/2024 : 11:26 :   258: SOYA downloaded, with 0 linked publications
+10/01/2024 : 11:26 :   Obtaining #259: SPIROMICS
+10/01/2024 : 11:26 :   259: SPIROMICS downloaded, with 1 linked publications
+10/01/2024 : 11:26 :   Obtaining #260: SPRINT
+10/01/2024 : 11:30 :   260: SPRINT downloaded, with 200 linked publications
+10/01/2024 : 11:30 :   files checked: 260
+10/01/2024 : 11:30 :   files downloaded: 254
+10/01/2024 : 11:30 :   Obtaining #261: STAN
+10/01/2024 : 11:30 :   261: STAN downloaded, with 0 linked publications
+10/01/2024 : 11:30 :   Obtaining #262: STICH
+10/01/2024 : 11:30 :   262: STICH downloaded, with 7 linked publications
+10/01/2024 : 11:30 :   Obtaining #263: STOP II
+10/01/2024 : 11:30 :   263: STOP II downloaded, with 0 linked publications
+10/01/2024 : 11:30 :   Obtaining #264: TAAG
+10/01/2024 : 11:30 :   264: TAAG downloaded, with 2 linked publications
+10/01/2024 : 11:30 :   Obtaining #265: TACT
+10/01/2024 : 11:30 :   265: TACT downloaded, with 0 linked publications
+10/01/2024 : 11:30 :   Obtaining #266: TCD
+10/01/2024 : 11:30 :   266: TCD downloaded, with 0 linked publications
+10/01/2024 : 11:30 :   Obtaining #267: THAPCA-IH
+10/01/2024 : 11:30 :   267: THAPCA-IH downloaded, with 0 linked publications
+10/01/2024 : 11:30 :   Obtaining #268: THAPCA-OH
+10/01/2024 : 11:30 :   268: THAPCA-OH downloaded, with 1 linked publications
+10/01/2024 : 11:31 :   Obtaining #269: TIMI II
+10/01/2024 : 11:31 :   269: TIMI II downloaded, with 6 linked publications
+10/01/2024 : 11:31 :   Obtaining #270: TIMI III
+10/01/2024 : 11:31 :   270: TIMI III downloaded, with 3 linked publications
+10/01/2024 : 11:31 :   files checked: 270
+10/01/2024 : 11:31 :   files downloaded: 264
+10/01/2024 : 11:31 :   Obtaining #271: TMH CTN-RECESS
+10/01/2024 : 11:31 :   271: TMH CTN-RECESS downloaded, with 0 linked publications
+10/01/2024 : 11:31 :   Obtaining #272: TMH CTN-RING
+10/01/2024 : 11:31 :   272: TMH CTN-RING downloaded, with 0 linked publications
+10/01/2024 : 11:31 :   Obtaining #273: TOHP
+10/01/2024 : 11:31 :   273: TOHP downloaded, with 6 linked publications
+10/01/2024 : 11:31 :   Obtaining #274: TOLSURF
+10/01/2024 : 11:31 :   274: TOLSURF downloaded, with 0 linked publications
+10/01/2024 : 11:31 :   Obtaining #275: TOP
+10/01/2024 : 11:31 :   275: TOP downloaded, with 0 linked publications
+10/01/2024 : 11:31 :   Obtaining #276: TOPCAT
+10/01/2024 : 11:32 :   276: TOPCAT downloaded, with 57 linked publications
+10/01/2024 : 11:32 :   Obtaining #277: TRAP
+10/01/2024 : 11:32 :   277: TRAP downloaded, with 5 linked publications
+10/01/2024 : 11:32 :   Obtaining #278: TRIM
+10/01/2024 : 11:32 :   278: TRIM downloaded, with 0 linked publications
+10/01/2024 : 11:32 :   Obtaining #279: TSS
+10/01/2024 : 11:33 :   279: TSS downloaded, with 27 linked publications
+10/01/2024 : 11:33 :   Obtaining #280: TTVS
+10/01/2024 : 11:34 :   280: TTVS downloaded, with 20 linked publications
+10/01/2024 : 11:34 :   files checked: 280
+10/01/2024 : 11:34 :   files downloaded: 274
+10/01/2024 : 11:34 :   Obtaining #281: VA2-TAH
+10/01/2024 : 11:34 :   281: VA2-TAH downloaded, with 0 linked publications
+10/01/2024 : 11:34 :   Obtaining #282: VATS
+10/01/2024 : 11:34 :   282: VATS downloaded, with 29 linked publications
+10/01/2024 : 11:34 :   Obtaining #283: WAVE
+10/01/2024 : 11:34 :   283: WAVE downloaded, with 1 linked publications
+10/01/2024 : 11:34 :   #284: WHI (non-BioLINCC) is a Non-BioLINCC Resource, not processed further
+10/01/2024 : 11:34 :   Obtaining #285: WHI-CTOS
+10/01/2024 : 11:35 :   285: WHI-CTOS downloaded, with 50 linked publications
+10/01/2024 : 11:35 :   Obtaining #286: WHI-LILAC
+10/01/2024 : 11:35 :   286: WHI-LILAC downloaded, with 0 linked publications
+10/01/2024 : 11:35 :   Obtaining #287: WISE
+10/01/2024 : 11:35 :   287: WISE downloaded, with 1 linked publications
+10/01/2024 : 11:35 :   Obtaining #288: WLM
+10/01/2024 : 11:36 :   288: WLM downloaded, with 2 linked publications
+10/01/2024 : 11:36 :   Obtaining #289: WNV
+10/01/2024 : 11:36 :   289: WNV downloaded, with 2 linked publications
+10/01/2024 : 11:36 :   Obtaining #290: WRAP-IPF
+10/01/2024 : 11:36 :   290: WRAP-IPF downloaded, with 0 linked publications
+10/01/2024 : 11:36 :   files checked: 290
+10/01/2024 : 11:36 :   files downloaded: 283
+10/01/2024 : 11:36 :   #291: YODA (non-BioLINCC) is a Non-BioLINCC Resource, not processed further
+10/01/2024 : 11:36 :   Obtaining #292: eMoms Roc
+10/01/2024 : 11:36 :   292: eMoms Roc downloaded, with 0 linked publications
+10/01/2024 : 11:36 :   Obtaining #293: iCOMPARE
+10/01/2024 : 11:36 :   293: iCOMPARE downloaded, with 0 linked publications
+10/01/2024 : 11:36 :   Obtaining #294: walk-PHaSST
+10/01/2024 : 11:36 :   294: walk-PHaSST downloaded, with 0 linked publications
+10/01/2024 : 11:36 :   Checked 10
+10/01/2024 : 11:36 :   Checked 20
+10/01/2024 : 11:36 :   Checked 30
+10/01/2024 : 11:36 :   Checked 40
+10/01/2024 : 11:36 :   Checked 50
+10/01/2024 : 11:36 :   Checked 60
+10/01/2024 : 11:36 :   Checked 70
+10/01/2024 : 11:36 :   Checked 80
+10/01/2024 : 11:36 :   Checked 90
+10/01/2024 : 11:36 :   Checked 100
+10/01/2024 : 11:36 :   Checked 110
+10/01/2024 : 11:36 :   Checked 120
+10/01/2024 : 11:36 :   Checked 130
+10/01/2024 : 11:36 :   Checked 140
+10/01/2024 : 11:36 :   Checked 150
+10/01/2024 : 11:36 :   Checked 160
+10/01/2024 : 11:36 :   Checked 170
+10/01/2024 : 11:36 :   Checked 180
+10/01/2024 : 11:36 :   Checked 190
+10/01/2024 : 11:36 :   Checked 200
+10/01/2024 : 11:36 :   Checked 210
+10/01/2024 : 11:36 :   Checked 220
+10/01/2024 : 11:36 :   Checked 230
+10/01/2024 : 11:36 :   Checked 240
+10/01/2024 : 11:36 :   Checked 250
+10/01/2024 : 11:36 :   Checked 260
+10/01/2024 : 11:36 :   Checked 270
+10/01/2024 : 11:36 :   Checked 280
+10/01/2024 : 11:36 :   Updated 28 as being in 'multiple biolincc to 1 NCT' group
+10/01/2024 : 11:36 :   ObtainDataFromSourceAsync ended!
+
+10/01/2024 : 11:36 :   **** Download Result ****
+10/01/2024 : 11:36 :   Source Id: 101900
+10/01/2024 : 11:36 :   Download Event Id: 102262
+10/01/2024 : 11:36 :   Start time: 10/01/2024 10:25:31
+10/01/2024 : 11:36 :   End time: 10/01/2024 11:36:17
+10/01/2024 : 11:36 :   Records checked: 294
+10/01/2024 : 11:36 :   Records downloaded: 286
+10/01/2024 : 11:36 :   Records added: 0
+
+10/01/2024 : 11:36 :   **** Closing Log ****

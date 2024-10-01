@@ -1,0 +1,538 @@
+﻿09/27/2024 : 11:06 :   ****** DOWNLOAD ******
+
+09/27/2024 : 11:06 :   **** Set up ****
+09/27/2024 : 11:06 :   Download event Id is 102220
+09/27/2024 : 11:06 :   
+09/27/2024 : 11:06 :   Source_id is 101901
+09/27/2024 : 11:06 :   Type_id is 102
+09/27/2024 : 11:06 :   search page: 1, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 2, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 3, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 4, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 5, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 6, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 7, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 8, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 9, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 10, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 11, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 12, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 13, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 14, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 15, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 16, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 17, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 18, yielding 10 study summaries
+09/27/2024 : 11:06 :   search page: 19, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 20, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 21, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 22, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 23, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 24, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 25, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 26, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 27, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 28, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 29, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 30, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 31, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 32, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 33, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 34, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 35, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 36, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 37, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 38, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 39, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 40, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 41, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 42, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 43, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 44, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 45, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 46, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 47, yielding 10 study summaries
+09/27/2024 : 11:07 :   search page: 48, yielding 0 study summaries
+09/27/2024 : 11:07 :   Studies to download: 470
+09/27/2024 : 11:07 :   1: Y-NCT00638690 downloaded
+09/27/2024 : 11:07 :   2: Y-NCT00887198 downloaded
+09/27/2024 : 11:07 :   3: Y-NCT00924469 downloaded
+09/27/2024 : 11:07 :   4: Y-NCT01424930 downloaded
+09/27/2024 : 11:07 :   5: Y-NCT01314118 downloaded
+09/27/2024 : 11:07 :   6: Y-NCT01695135 downloaded
+09/27/2024 : 11:07 :   7: Y-NCT02236637 downloaded
+09/27/2024 : 11:07 :   8: Y-NCT00485303 downloaded
+09/27/2024 : 11:07 :   9: Y-NCT01685983 downloaded
+09/27/2024 : 11:08 :   10: Y-NCT00474383 downloaded
+09/27/2024 : 11:08 :   11: Y-NCT00473746 downloaded
+09/27/2024 : 11:08 :   12: Y-NCT01795703 downloaded
+09/27/2024 : 11:08 :   13: Y-NCT00544440 downloaded
+09/27/2024 : 11:08 :   14: Y-NCT01867710 downloaded
+09/27/2024 : 11:08 :   15: Y-NCT01088529 downloaded
+09/27/2024 : 11:08 :   16: Y-NCT01715285 downloaded
+09/27/2024 : 11:08 :   17: Y-NCT01381874 downloaded
+09/27/2024 : 11:08 :   18: Y-NCT01591122 downloaded
+09/27/2024 : 11:08 :   19: Y-NCT00473512 downloaded
+09/27/2024 : 11:08 :   20: Y-NCT01385202 downloaded
+09/27/2024 : 11:08 :   21: Y-Kenvue-02-161 downloaded
+09/27/2024 : 11:08 :   22: Y-NCT04436276 downloaded
+09/27/2024 : 11:08 :   23: Y-NCT04505722 downloaded
+09/27/2024 : 11:08 :   24: Y-NCT04614948 downloaded
+09/27/2024 : 11:08 :   25: Y-NCT02257736 downloaded
+09/27/2024 : 11:08 :   26: Y-NCT02489318 downloaded
+09/27/2024 : 11:08 :   27: Y-NCT01946204 downloaded
+09/27/2024 : 11:08 :   28: Y-NCT01790126 downloaded
+09/27/2024 : 11:08 :   29: Y-NCT00575055 downloaded
+09/27/2024 : 11:08 :   30: Y-NCT00574132 downloaded
+09/27/2024 : 11:08 :   31: Y-NCT00449644 downloaded
+09/27/2024 : 11:08 :   32: Y-NCT00910871 downloaded
+09/27/2024 : 11:08 :   33: Y-NCT00523926 downloaded
+09/27/2024 : 11:08 :   34: Y-NCT04019041 downloaded
+09/27/2024 : 11:08 :   35: Y-NCT04021862 downloaded
+09/27/2024 : 11:08 :   36: Y-NCT00391443 downloaded
+09/27/2024 : 11:08 :   37: Y-NCT00319111 downloaded
+09/27/2024 : 11:08 :   38: Y-NCT00303459 downloaded
+09/27/2024 : 11:08 :   39: Y-NCT00433329 downloaded
+09/27/2024 : 11:08 :   40: Y-NCT00091715 downloaded
+09/27/2024 : 11:08 :   41: Y-NCT01009177 downloaded
+09/27/2024 : 11:08 :   42: Y-NCT00071461 downloaded
+09/27/2024 : 11:09 :   43: Y-NCT00631475 downloaded
+09/27/2024 : 11:09 :   44: Y-NCT00070590 downloaded
+09/27/2024 : 11:09 :   45: Y-NCT00077584 downloaded
+09/27/2024 : 11:09 :   46: Y-NCT00319033 downloaded
+09/27/2024 : 11:09 :   47: Y-NCT00319267 downloaded
+09/27/2024 : 11:09 :   48: Y-NCT00313222 downloaded
+09/27/2024 : 11:09 :   49: Y-NCT00319020 downloaded
+09/27/2024 : 11:09 :   50: Y-NCT01223352 downloaded
+09/27/2024 : 11:09 :   51: Y-NCT01338415 downloaded
+09/27/2024 : 11:09 :   52: Y-NCT00319696 downloaded
+09/27/2024 : 11:09 :   53: Y-NCT00642278 downloaded
+09/27/2024 : 11:09 :   54: Y-NCT01106625 downloaded
+09/27/2024 : 11:09 :   55: Y-NCT01064414 downloaded
+09/27/2024 : 11:09 :   56: Y-NCT01081834 downloaded
+09/27/2024 : 11:09 :   57: Y-NCT01106677 downloaded
+09/27/2024 : 11:09 :   58: Y-NCT00968812 downloaded
+09/27/2024 : 11:09 :   59: Y-NCT01106651 downloaded
+09/27/2024 : 11:09 :   60: Y-NCT01106690 downloaded
+09/27/2024 : 11:09 :   61: Y-NCT01137812 downloaded
+09/27/2024 : 11:09 :   62: Y-NCT01809327 downloaded
+09/27/2024 : 11:09 :   63: Y-NCT01381900 downloaded
+09/27/2024 : 11:09 :   64: Y-NCT01340664 downloaded
+09/27/2024 : 11:09 :   65: Y-NCT02025907 downloaded
+09/27/2024 : 11:09 :   66: Y-NCT01989754 downloaded
+09/27/2024 : 11:09 :   67: Y-NCT00650806 downloaded
+09/27/2024 : 11:09 :   68: Y-NCT02243202 downloaded
+09/27/2024 : 11:09 :   69: Y-NCT01032629 downloaded
+09/27/2024 : 11:09 :   70: Y-NCT02065791 downloaded
+09/27/2024 : 11:09 :   71: Y-NCT03267576 downloaded
+09/27/2024 : 11:09 :   72: Y-NCT02139943 downloaded
+09/27/2024 : 11:09 :   73: Y-NCT03548207 downloaded
+09/27/2024 : 11:09 :   74: Y-NCT02076009 downloaded
+09/27/2024 : 11:09 :   75: Y-NCT02136134 downloaded
+09/27/2024 : 11:09 :   76: Y-NCT01985126 downloaded
+09/27/2024 : 11:10 :   77: Y-NCT02252172 downloaded
+09/27/2024 : 11:10 :   78: Y-NCT03180736 downloaded
+09/27/2024 : 11:10 :   79: Y-NCT02195479 downloaded
+09/27/2024 : 11:10 :   80: Y-NCT03277105 downloaded
+09/27/2024 : 11:10 :   81: Y-NCT03412565 downloaded
+09/27/2024 : 11:10 :   82: Y-NCT01998971 downloaded
+09/27/2024 : 11:10 :   83: Y-NCT02951819 downloaded
+09/27/2024 : 11:10 :   84: Y-NCT00574288 downloaded
+09/27/2024 : 11:10 :   85: Y-NCT01615029 downloaded
+09/27/2024 : 11:10 :   86: Y-NCT00071097 downloaded
+09/27/2024 : 11:10 :   87: Y-NCT00650832 downloaded
+09/27/2024 : 11:10 :   88: Y-NCT00258557 downloaded
+09/27/2024 : 11:10 :   89: Y-NCT00919854 downloaded
+09/27/2024 : 11:10 :   90: Y-NCT00915655 downloaded
+09/27/2024 : 11:10 :   91: Y-NCT00355524 downloaded
+09/27/2024 : 11:10 :   92: Y-NCT02269917 downloaded
+09/27/2024 : 11:10 :   93: Y-NCT02431247 downloaded
+09/27/2024 : 11:10 :   94: Y-NCT02472145 downloaded
+09/27/2024 : 11:10 :   95: Y-NCT00653952 downloaded
+09/27/2024 : 11:10 :   96: Y-JandJ-30-49 downloaded
+09/27/2024 : 11:10 :   97: Y-NCT00211133 downloaded
+09/27/2024 : 11:10 :   98: Y-NCT00270127 downloaded
+09/27/2024 : 11:10 :   99: Y-NCT00270166 downloaded
+09/27/2024 : 11:10 :   100: Y-NCT00270049 downloaded
+09/27/2024 : 11:10 :   101: Y-NCT00270101 downloaded
+09/27/2024 : 11:10 :   102: Y-NCT00270283 downloaded
+09/27/2024 : 11:10 :   103: Y-NCT00091910 downloaded
+09/27/2024 : 11:10 :   104: Y-JandJ-EPO-2---PR98-15-014 downloaded
+09/27/2024 : 11:10 :   105: Y-NCT00210626 downloaded
+09/27/2024 : 11:10 :   106: Y-NCT00269997 downloaded
+09/27/2024 : 11:10 :   107: Y-NCT00266617 downloaded
+09/27/2024 : 11:10 :   108: Y-NCT01394991 downloaded
+09/27/2024 : 11:10 :   109: Y-NCT00211146 downloaded
+09/27/2024 : 11:11 :   110: Y-NCT00211120 downloaded
+09/27/2024 : 11:11 :   111: Y-JandJ-OBE-EPO-INT-02 downloaded
+09/27/2024 : 11:11 :   112: Y-NCT02365597 downloaded
+09/27/2024 : 11:11 :   113: Y-NCT02417064 downloaded
+09/27/2024 : 11:11 :   114: Y-NCT02418585 downloaded
+09/27/2024 : 11:11 :   115: Y-NCT02422186 downloaded
+09/27/2024 : 11:11 :   116: Y-NCT03039192 downloaded
+09/27/2024 : 11:11 :   117: Y-NCT02133001 downloaded
+09/27/2024 : 11:11 :   118: Y-NCT03097133 downloaded
+09/27/2024 : 11:11 :   119: Y-NCT03434041 downloaded
+09/27/2024 : 11:11 :   120: Y-NCT02497287 downloaded
+09/27/2024 : 11:11 :   121: Y-NCT02493868 downloaded
+09/27/2024 : 11:11 :   122: Y-NCT01998958 downloaded
+09/27/2024 : 11:11 :   123: Y-NCT02918318 downloaded
+09/27/2024 : 11:11 :   124: Y-NCT01627782 downloaded
+09/27/2024 : 11:11 :   125: Y-NCT01640080 downloaded
+09/27/2024 : 11:11 :   Further details required for A Randomized, Double-blind, Multicenter Active-controlled Study to Evaluate the Efficacy, Pharmacokinetics, Safety and Tolerability of Flexible Doses of Intranasal Esketamine Plus an Oral Antidepressant in Adult Subjects With Treatment-resistant Depression in mn.not_registered table, from https://yoda.yale.edu/clinical-trial/nct03434041-a-randomized-double-blind-multicenter-active-controlled-study-to-evaluate-the-efficacy-pharmacokinetics-safety-and-tolerability-of-flexible-doses-of-intranasal-esketamine-plus-an-ora-2/
+09/27/2024 : 11:11 :   126: Y-JandJ-ESKETINTRD3006 downloaded
+09/27/2024 : 11:11 :   127: Y-NCT01466673 downloaded
+09/27/2024 : 11:11 :   128: Y-NCT01876966 downloaded
+09/27/2024 : 11:11 :   129: Y-NCT00253201 downloaded
+09/27/2024 : 11:11 :   130: Y-NCT00304629 downloaded
+09/27/2024 : 11:11 :   131: Y-NCT00253227 downloaded
+09/27/2024 : 11:11 :   132: Y-NCT00216502 downloaded
+09/27/2024 : 11:11 :   133: Y-JandJ-GAL-INT-7 downloaded
+09/27/2024 : 11:11 :   134: Y-JandJ-GAL-INT-3 downloaded
+09/27/2024 : 11:11 :   135: Y-NCT00261573 downloaded
+09/27/2024 : 11:11 :   136: Y-NCT00253188 downloaded
+09/27/2024 : 11:11 :   137: Y-NCT00253214 downloaded
+09/27/2024 : 11:11 :   138: Y-NCT00236574 downloaded
+09/27/2024 : 11:11 :   139: Y-NCT00236431 downloaded
+09/27/2024 : 11:11 :   140: Y-JandJ-GAL-MVD-301 downloaded
+09/27/2024 : 11:12 :   141: Y-JandJ-GAL-MVD-302 downloaded
+09/27/2024 : 11:12 :   142: Y-NCT00679627 downloaded
+09/27/2024 : 11:12 :   143: Y-NCT00216593 downloaded
+09/27/2024 : 11:12 :   144: Y-NCT00645190 downloaded
+09/27/2024 : 11:12 :   145: Y-JandJ-GAL-CAN-5 downloaded
+09/27/2024 : 11:12 :   146: Y-JandJ-GAL-USA-10 downloaded
+09/27/2024 : 11:12 :   147: Y-NCT00082602 downloaded
+09/27/2024 : 11:12 :   148: Y-JandJ-GAL-93-01 downloaded
+09/27/2024 : 11:12 :   149: Y-NCT00264537 downloaded
+09/27/2024 : 11:12 :   150: Y-NCT00264550 downloaded
+09/27/2024 : 11:12 :   151: Y-NCT00265083 downloaded
+09/27/2024 : 11:12 :   152: Y-NCT00299546 downloaded
+09/27/2024 : 11:12 :   153: Y-NCT00361335 downloaded
+09/27/2024 : 11:12 :   154: Y-NCT00487539 downloaded
+09/27/2024 : 11:12 :   155: Y-NCT01248780 downloaded
+09/27/2024 : 11:12 :   156: Y-NCT01248793 downloaded
+09/27/2024 : 11:12 :   157: Y-NCT00265096 downloaded
+09/27/2024 : 11:12 :   158: Y-NCT00973479 downloaded
+09/27/2024 : 11:12 :   159: Y-NCT00488631 downloaded
+09/27/2024 : 11:12 :   160: Y-NCT00207714 downloaded
+09/27/2024 : 11:12 :   161: Y-NCT00488774 downloaded
+09/27/2024 : 11:12 :   162: Y-NCT01230827 downloaded
+09/27/2024 : 11:12 :   163: Y-NCT02181673 downloaded
+09/27/2024 : 11:12 :   164: Y-NCT01004432 downloaded
+09/27/2024 : 11:12 :   165: Y-NCT01863771 downloaded
+09/27/2024 : 11:12 :   166: Y-NCT01988961 downloaded
+09/27/2024 : 11:12 :   167: Y-NCT01962974 downloaded
+09/27/2024 : 11:12 :   168: Y-NCT00207740 downloaded
+09/27/2024 : 11:12 :   169: Y-NCT01453725 downloaded
+09/27/2024 : 11:12 :   170: Y-NCT02846545 downloaded
+09/27/2024 : 11:12 :   171: Y-NCT02186873 downloaded
+09/27/2024 : 11:12 :   172: Y-NCT01483599 downloaded
+09/27/2024 : 11:13 :   173: Y-NCT02207244 downloaded
+09/27/2024 : 11:13 :   174: Y-NCT02905331 downloaded
+09/27/2024 : 11:13 :   175: Y-NCT02951533 downloaded
+09/27/2024 : 11:13 :   176: Y-NCT02207231 downloaded
+09/27/2024 : 11:13 :   177: Y-NCT02325219 downloaded
+09/27/2024 : 11:13 :   178: Y-NCT03090100 downloaded
+09/27/2024 : 11:13 :   179: Y-NCT02203032 downloaded
+09/27/2024 : 11:13 :   180: Y-NCT03628924 downloaded
+09/27/2024 : 11:13 :   181: Y-NCT03162796 downloaded
+09/27/2024 : 11:13 :   182: Y-NCT03158285 downloaded
+09/27/2024 : 11:13 :   183: Y-NCT02319759 downloaded
+09/27/2024 : 11:13 :   184: Y-NCT03796858 downloaded
+09/27/2024 : 11:13 :   185: Y-NCT00051623 downloaded
+09/27/2024 : 11:13 :   186: Y-NCT00316121 downloaded
+09/27/2024 : 11:13 :   187: Y-NCT01722487 downloaded
+09/27/2024 : 11:13 :   188: Y-NCT01236391 downloaded
+09/27/2024 : 11:13 :   189: Y-NCT01105247 downloaded
+09/27/2024 : 11:13 :   190: Y-NCT01611090 downloaded
+09/27/2024 : 11:13 :   191: Y-NCT02195869 downloaded
+09/27/2024 : 11:13 :   192: Y-NCT02165397 downloaded
+09/27/2024 : 11:13 :   193: Y-NCT01578707 downloaded
+09/27/2024 : 11:13 :   194: Y-NCT02264574 downloaded
+09/27/2024 : 11:13 :   195: Y-NCT01855750 downloaded
+09/27/2024 : 11:13 :   196: Y-NCT01776840 downloaded
+09/27/2024 : 11:13 :   197: Y-NCT01646021 downloaded
+09/27/2024 : 11:13 :   198: Y-NCT01973387 downloaded
+09/27/2024 : 11:13 :   199: Y-Kenvue-97-024 downloaded
+09/27/2024 : 11:13 :   200: Y-Kenvue-91-113 downloaded
+09/27/2024 : 11:13 :   201: Y-NCT00036374 downloaded
+09/27/2024 : 11:13 :   202: Y-NCT00036439 downloaded
+09/27/2024 : 11:13 :   203: Y-NCT00096655 downloaded
+09/27/2024 : 11:13 :   204: Y-NCT00207675 downloaded
+09/27/2024 : 11:14 :   205: Y-NCT00094458 downloaded
+09/27/2024 : 11:14 :   206: Y-NCT00336492 downloaded
+09/27/2024 : 11:14 :   207: Y-NCT00207662 downloaded
+09/27/2024 : 11:14 :   208: Y-NCT00207766 downloaded
+09/27/2024 : 11:14 :   209: Y-NCT00004941 downloaded
+09/27/2024 : 11:14 :   210: Y-NCT00269867 downloaded
+09/27/2024 : 11:14 :   211: Y-NCT01551290 downloaded
+09/27/2024 : 11:14 :   212: Y-NCT01190839 downloaded
+09/27/2024 : 11:14 :   213: Y-NCT00269854 downloaded
+09/27/2024 : 11:14 :   214: Y-JandJ-C0168T16 downloaded
+09/27/2024 : 11:14 :   215: Y-NCT00207701 downloaded
+09/27/2024 : 11:14 :   216: Y-JandJ-C0168T14 downloaded
+09/27/2024 : 11:14 :   217: Y-NCT00036387 downloaded
+09/27/2024 : 11:14 :   218: Y-NCT00060502 downloaded
+09/27/2024 : 11:14 :   219: Y-NCT00073437 downloaded
+09/27/2024 : 11:14 :   220: Y-NCT00106834 downloaded
+09/27/2024 : 11:14 :   221: Y-NCT00230529 downloaded
+09/27/2024 : 11:14 :   222: Y-NCT00317538 downloaded
+09/27/2024 : 11:14 :   223: Y-NCT00236028 downloaded
+09/27/2024 : 11:14 :   224: Y-NCT00367237 downloaded
+09/27/2024 : 11:14 :   225: Y-XX-P02114 downloaded
+09/27/2024 : 11:14 :   226: Y-NCT00210886 downloaded
+09/27/2024 : 11:14 :   227: Y-NCT00034736 downloaded
+09/27/2024 : 11:14 :   228: Y-NCT00660179 downloaded
+09/27/2024 : 11:14 :   229: Y-NCT01743001 downloaded
+09/27/2024 : 11:14 :   230: Y-NCT00903331 downloaded
+09/27/2024 : 11:14 :   231: Y-NCT02070991 downloaded
+09/27/2024 : 11:14 :   232: Y-NCT01474109 downloaded
+09/27/2024 : 11:14 :   233: Y-NCT01474122 downloaded
+09/27/2024 : 11:14 :   234: Y-NCT02382016 downloaded
+09/27/2024 : 11:14 :   235: Y-NCT03359291 downloaded
+09/27/2024 : 11:14 :   236: Y-NCT02034162 downloaded
+09/27/2024 : 11:14 :   237: Y-NCT01173562 downloaded
+09/27/2024 : 11:15 :   238: Y-NCT02385058 downloaded
+09/27/2024 : 11:15 :   239: Y-NCT00307684 downloaded
+09/27/2024 : 11:15 :   240: Y-NCT00326300 downloaded
+09/27/2024 : 11:15 :   241: Y-NCT00246220 downloaded
+09/27/2024 : 11:15 :   242: Y-NCT00714688 downloaded
+09/27/2024 : 11:15 :   243: Y-NCT00866996 downloaded
+09/27/2024 : 11:15 :   244: Y-NCT00269815 downloaded
+09/27/2024 : 11:15 :   245: Y-NCT00799409 downloaded
+09/27/2024 : 11:15 :   246: Y-NCT00799487 downloaded
+09/27/2024 : 11:15 :   247: Y-NCT00937040 downloaded
+09/27/2024 : 11:15 :   248: Y-NCT00326391 downloaded
+09/27/2024 : 11:15 :   249: Y-NCT01323192 downloaded
+09/27/2024 : 11:15 :   250: Y-NCT00246233 downloaded
+09/27/2024 : 11:15 :   251: Y-JandJ-AC-056C501 downloaded
+09/27/2024 : 11:15 :   252: Y-NCT01145625 downloaded
+09/27/2024 : 11:15 :   253: Y-NCT01226459 downloaded
+09/27/2024 : 11:15 :   254: Y-NCT01156376 downloaded
+09/27/2024 : 11:15 :   255: Y-NCT01345292 downloaded
+09/27/2024 : 11:15 :   256: Y-NCT01727258 downloaded
+09/27/2024 : 11:15 :   257: Y-NCT02113579 downloaded
+09/27/2024 : 11:15 :   258: Y-8588157170b2a53200575bb0f201d272 downloaded
+09/27/2024 : 11:15 :   259: Y-NCT03896061 downloaded
+09/27/2024 : 11:15 :   260: Y-NCT00816166 downloaded
+09/27/2024 : 11:15 :   261: Y-NCT00553176 downloaded
+09/27/2024 : 11:15 :   262: Y-NCT00236769 downloaded
+09/27/2024 : 11:15 :   263: Y-NCT00745901 downloaded
+09/27/2024 : 11:15 :   264: Y-NCT00488319 downloaded
+09/27/2024 : 11:15 :   265: Y-NCT01009047 downloaded
+09/27/2024 : 11:15 :   266: Y-NCT00645099 downloaded
+09/27/2024 : 11:15 :   267: Y-NCT00518323 downloaded
+09/27/2024 : 11:15 :   268: Y-NCT01606228 downloaded
+09/27/2024 : 11:15 :   269: Y-NCT00334126 downloaded
+09/27/2024 : 11:15 :   270: Y-NCT00086320 downloaded
+09/27/2024 : 11:15 :   271: Y-NCT00650793 downloaded
+09/27/2024 : 11:16 :   272: Y-NCT00397033 downloaded
+09/27/2024 : 11:16 :   273: Y-NCT00412373 downloaded
+09/27/2024 : 11:16 :   274: Y-NCT00299715 downloaded
+09/27/2024 : 11:16 :   275: Y-NCT00309699 downloaded
+09/27/2024 : 11:16 :   276: Y-NCT00309686 downloaded
+09/27/2024 : 11:16 :   277: Y-NCT00752427 downloaded
+09/27/2024 : 11:16 :   278: Y-NCT00077714 downloaded
+09/27/2024 : 11:16 :   279: Y-NCT00083668 downloaded
+09/27/2024 : 11:16 :   280: Y-NCT00078039 downloaded
+09/27/2024 : 11:16 :   281: Y-NCT00085748 downloaded
+09/27/2024 : 11:16 :   282: Y-NCT01662310 downloaded
+09/27/2024 : 11:16 :   283: Y-NCT00490971 downloaded
+09/27/2024 : 11:16 :   284: Y-NCT00524043 downloaded
+09/27/2024 : 11:16 :   285: Y-NCT00105326 downloaded
+09/27/2024 : 11:16 :   286: Y-NCT00645307 downloaded
+09/27/2024 : 11:16 :   287: Y-NCT01157351 downloaded
+09/27/2024 : 11:16 :   288: Y-NCT00460512 downloaded
+09/27/2024 : 11:16 :   289: Y-NCT00566631 downloaded
+09/27/2024 : 11:16 :   290: Y-NCT03345342 downloaded
+09/27/2024 : 11:16 :   291: Y-NCT01559272 downloaded
+09/27/2024 : 11:16 :   292: Y-NCT00668837 downloaded
+09/27/2024 : 11:16 :   293: Y-NCT00589914 downloaded
+09/27/2024 : 11:16 :   294: Y-NCT00604279 downloaded
+09/27/2024 : 11:16 :   295: Y-NCT00590577 downloaded
+09/27/2024 : 11:16 :   296: Y-NCT00111189 downloaded
+09/27/2024 : 11:16 :   297: Y-NCT00210717 downloaded
+09/27/2024 : 11:16 :   298: Y-NCT00119756 downloaded
+09/27/2024 : 11:16 :   299: Y-NCT00210548 downloaded
+09/27/2024 : 11:16 :   300: Y-NCT00101634 downloaded
+09/27/2024 : 11:16 :   301: Y-NCT00074477 downloaded
+09/27/2024 : 11:16 :   302: Y-NCT01529515 downloaded
+09/27/2024 : 11:16 :   303: Y-NCT01193153 downloaded
+09/27/2024 : 11:17 :   304: Y-NCT01081769 downloaded
+09/27/2024 : 11:17 :   305: Y-NCT01281527 downloaded
+09/27/2024 : 11:17 :   306: Y-NCT01051531 downloaded
+09/27/2024 : 11:17 :   307: Y-NCT01527305 downloaded
+09/27/2024 : 11:17 :   308: Y-NCT01299389 downloaded
+09/27/2024 : 11:17 :   309: Y-NCT01258920 downloaded
+09/27/2024 : 11:17 :   310: Y-NCT01515423 downloaded
+09/27/2024 : 11:17 :   311: Y-NCT02713282 downloaded
+09/27/2024 : 11:17 :   312: Y-NCT00656097 downloaded
+09/27/2024 : 11:17 :   313: Y-NCT00708084 downloaded
+09/27/2024 : 11:17 :   314: Y-NCT01228383 downloaded
+09/27/2024 : 11:17 :   315: Y-NCT04068792 downloaded
+09/27/2024 : 11:17 :   316: Y-NCT00540449 downloaded
+09/27/2024 : 11:17 :   317: Y-NCT00543725 downloaded
+09/27/2024 : 11:17 :   318: Y-NCT00391222 downloaded
+09/27/2024 : 11:17 :   319: Y-NCT00034749 downloaded
+09/27/2024 : 11:17 :   320: Y-NCT00076115 downloaded
+09/27/2024 : 11:17 :   321: Y-NCT00132678 downloaded
+09/27/2024 : 11:17 :   322: Y-NCT00094926 downloaded
+09/27/2024 : 11:17 :   323: Y-NCT00236444 downloaded
+09/27/2024 : 11:17 :   324: Y-NCT00236470 downloaded
+09/27/2024 : 11:17 :   325: Y-NCT00250354 downloaded
+09/27/2024 : 11:17 :   326: Y-NCT00266552 downloaded
+09/27/2024 : 11:17 :   327: Y-NCT00249132 downloaded
+09/27/2024 : 11:17 :   328: Y-NCT00216476 downloaded
+09/27/2024 : 11:17 :   329: Y-NCT00216580 downloaded
+09/27/2024 : 11:17 :   330: Y-NCT00253162 downloaded
+09/27/2024 : 11:17 :   331: Y-NCT00378092 downloaded
+09/27/2024 : 11:17 :   332: Y-NCT00249158 downloaded
+09/27/2024 : 11:17 :   333: Y-JandJ-RIS-BEL-14 downloaded
+09/27/2024 : 11:17 :   334: Y-NCT00261508 downloaded
+09/27/2024 : 11:17 :   335: Y-NCT00249236 downloaded
+09/27/2024 : 11:17 :   336: Y-NCT00249145 downloaded
+09/27/2024 : 11:18 :   337: Y-NCT00250367 downloaded
+09/27/2024 : 11:18 :   338: Y-JandJ-RIS-INT-83 downloaded
+09/27/2024 : 11:18 :   339: Y-NCT00088075 downloaded
+09/27/2024 : 11:18 :   340: Y-JandJ-RIS-USA-1(RIS-USA-9001) downloaded
+09/27/2024 : 11:18 :   341: Y-NCT00253149 downloaded
+09/27/2024 : 11:18 :   342: Y-NCT00253136 downloaded
+09/27/2024 : 11:18 :   343: Y-JandJ-RIS-USA-150 downloaded
+09/27/2024 : 11:18 :   344: Y-NCT00034762 downloaded
+09/27/2024 : 11:18 :   345: Y-NCT00257075 downloaded
+09/27/2024 : 11:18 :   346: Y-JandJ-RIS-USA-240 downloaded
+09/27/2024 : 11:18 :   347: Y-NCT00253123 downloaded
+09/27/2024 : 11:18 :   348: Y-JandJ-RIS-USA-72 downloaded
+09/27/2024 : 11:18 :   349: Y-JandJ-RIS-USA-70(EXTENSIONOFRIS-USA-63)CR003361,RIS-USA-T216 downloaded
+09/27/2024 : 11:18 :   350: Y-NCT00246246 downloaded
+09/27/2024 : 11:18 :   351: Y-NCT00044681 downloaded
+09/27/2024 : 11:18 :   352: Y-NCT00249223 downloaded
+09/27/2024 : 11:18 :   353: Y-NCT00216671 downloaded
+09/27/2024 : 11:18 :   354: Y-NCT00369239 downloaded
+09/27/2024 : 11:18 :   355: Y-NCT00216632 downloaded
+09/27/2024 : 11:18 :   356: Y-NCT00236379 downloaded
+09/27/2024 : 11:18 :   357: Y-NCT00576732 downloaded
+09/27/2024 : 11:18 :   358: Y-NCT01050582 downloaded
+09/27/2024 : 11:18 :   359: Y-NCT00086112 downloaded
+09/27/2024 : 11:18 :   360: Y-NCT00216528 downloaded
+09/27/2024 : 11:18 :   361: Y-NCT00269919 downloaded
+09/27/2024 : 11:18 :   362: Y-NCT00992407 downloaded
+09/27/2024 : 11:18 :   363: Y-NCT00236353 downloaded
+09/27/2024 : 11:18 :   364: Y-NCT00495118 downloaded
+09/27/2024 : 11:18 :   365: Y-NCT01855074 downloaded
+09/27/2024 : 11:18 :   366: Y-NCT00236457 downloaded
+09/27/2024 : 11:18 :   367: Y-NCT00236587 downloaded
+09/27/2024 : 11:18 :   368: Y-NCT00297388 downloaded
+09/27/2024 : 11:18 :   369: Y-NCT00821600 downloaded
+09/27/2024 : 11:19 :   370: Y-NCT00299702 downloaded
+09/27/2024 : 11:19 :   371: Y-NCT00526877 downloaded
+09/27/2024 : 11:19 :   372: Y-NCT00061802 downloaded
+09/27/2024 : 11:19 :   373: Y-NCT01624675 downloaded
+09/27/2024 : 11:19 :   374: Y-JandJ-RIS-INT-85 downloaded
+09/27/2024 : 11:19 :   375: Y-NCT00034775 downloaded
+09/27/2024 : 11:19 :   376: Y-NCT00095134 downloaded
+09/27/2024 : 11:19 :   377: Y-NCT01106014 downloaded
+09/27/2024 : 11:19 :   378: Y-NCT02471183 downloaded
+09/27/2024 : 11:19 :   379: Y-NCT02260557 downloaded
+09/27/2024 : 11:19 :   380: Y-NCT03078907 downloaded
+09/27/2024 : 11:19 :   381: Y-NCT01604343 downloaded
+09/27/2024 : 11:19 :   382: Y-NCT01606761 downloaded
+09/27/2024 : 11:19 :   383: Y-NCT01689532 downloaded
+09/27/2024 : 11:19 :   384: Y-NCT02019472 downloaded
+09/27/2024 : 11:19 :   385: Y-NCT01867164 downloaded
+09/27/2024 : 11:19 :   386: Y-NCT00210782 downloaded
+09/27/2024 : 11:19 :   387: Y-NCT00210535 downloaded
+09/27/2024 : 11:19 :   388: Y-NCT00210860 downloaded
+09/27/2024 : 11:19 :   389: Y-NCT00237289 downloaded
+09/27/2024 : 11:19 :   390: Y-NCT00240721 downloaded
+09/27/2024 : 11:19 :   391: Y-NCT00236509 downloaded
+09/27/2024 : 11:19 :   392: Y-NCT00231595 downloaded
+09/27/2024 : 11:19 :   393: Y-NCT00236561 downloaded
+09/27/2024 : 11:19 :   394: Y-NCT00216606 downloaded
+09/27/2024 : 11:19 :   395: Y-NCT00212810 downloaded
+09/27/2024 : 11:19 :   396: Y-NCT00210912 downloaded
+09/27/2024 : 11:19 :   397: Y-NCT00037674 downloaded
+09/27/2024 : 11:19 :   398: Y-NCT00035230 downloaded
+09/27/2024 : 11:19 :   399: Y-JandJ-TOPMAT-PDMD-006 downloaded
+09/27/2024 : 11:19 :   400: Y-JandJ-YP downloaded
+09/27/2024 : 11:19 :   401: Y-NCT00113815 downloaded
+09/27/2024 : 11:19 :   402: Y-NCT00236639 downloaded
+09/27/2024 : 11:20 :   403: Y-NCT00216619 downloaded
+09/27/2024 : 11:20 :   404: Y-NCT00236600 downloaded
+09/27/2024 : 11:20 :   405: Y-NCT00231530 downloaded
+09/27/2024 : 11:20 :   406: Y-NCT00236665 downloaded
+09/27/2024 : 11:20 :   407: Y-NCT00210808 downloaded
+09/27/2024 : 11:20 :   408: Y-NCT00237302 downloaded
+09/27/2024 : 11:20 :   409: Y-NCT00210821 downloaded
+09/27/2024 : 11:20 :   410: Y-NCT00210496 downloaded
+09/27/2024 : 11:20 :   411: Y-NCT00231556 downloaded
+09/27/2024 : 11:20 :   412: Y-NCT00231647 downloaded
+09/27/2024 : 11:20 :   413: Y-NCT00231621 downloaded
+09/27/2024 : 11:20 :   414: Y-NCT00236626 downloaded
+09/27/2024 : 11:20 :   415: Y-NCT00231660 downloaded
+09/27/2024 : 11:20 :   416: Y-NCT00231634 downloaded
+09/27/2024 : 11:20 :   417: Y-NCT00231608 downloaded
+09/27/2024 : 11:20 :   418: Y-NCT00035802 downloaded
+09/27/2024 : 11:20 :   419: Y-NCT00236418 downloaded
+09/27/2024 : 11:20 :   420: Y-NCT00230698 downloaded
+09/27/2024 : 11:20 :   421: Y-NCT00253175 downloaded
+09/27/2024 : 11:20 :   422: Y-NCT00236704 downloaded
+09/27/2024 : 11:20 :   423: Y-NCT00236847 downloaded
+09/27/2024 : 11:20 :   424: Y-NCT00236756 downloaded
+09/27/2024 : 11:20 :   425: Y-NCT00236730 downloaded
+09/27/2024 : 11:20 :   426: Y-NCT00236873 downloaded
+09/27/2024 : 11:20 :   427: Y-NCT00236860 downloaded
+09/27/2024 : 11:20 :   428: Y-NCT00236613 downloaded
+09/27/2024 : 11:20 :   429: Y-NCT00210925 downloaded
+09/27/2024 : 11:20 :   430: Y-NCT00231673 downloaded
+09/27/2024 : 11:20 :   431: Y-NCT01497119 downloaded
+09/27/2024 : 11:20 :   432: Y-NCT02295865 downloaded
+09/27/2024 : 11:20 :   433: Y-NCT01343277 downloaded
+09/27/2024 : 11:20 :   434: Y-NCT00060944 downloaded
+09/27/2024 : 11:20 :   435: Y-NCT00210665 downloaded
+09/27/2024 : 11:20 :   436: Y-NCT00786838 downloaded
+09/27/2024 : 11:21 :   437: Y-JandJ-ET-B-005-98 downloaded
+09/27/2024 : 11:21 :   438: Y-JandJ-ET-B-008-98 downloaded
+09/27/2024 : 11:21 :   439: Y-JandJ-ET-B-017-99 downloaded
+09/27/2024 : 11:21 :   440: Y-NCT00579501 downloaded
+09/27/2024 : 11:21 :   441: Y-NCT00796120 downloaded
+09/27/2024 : 11:21 :   442: Y-JandJ-ET-B-010-99 downloaded
+09/27/2024 : 11:21 :   443: Y-NCT01009086 downloaded
+09/27/2024 : 11:21 :   444: Y-NCT01077362 downloaded
+09/27/2024 : 11:21 :   445: Y-NCT00771667 downloaded
+09/27/2024 : 11:21 :   446: Y-NCT01369329 downloaded
+09/27/2024 : 11:21 :   447: Y-NCT01369342 downloaded
+09/27/2024 : 11:21 :   448: Y-NCT01369355 downloaded
+09/27/2024 : 11:21 :   449: Y-NCT00267969 downloaded
+09/27/2024 : 11:21 :   450: Y-NCT00307437 downloaded
+09/27/2024 : 11:21 :   451: Y-NCT00267956 downloaded
+09/27/2024 : 11:21 :   452: Y-NCT01550744 downloaded
+09/27/2024 : 11:21 :   453: Y-NCT00723528 downloaded
+09/27/2024 : 11:21 :   454: Y-NCT00265122 downloaded
+09/27/2024 : 11:21 :   455: Y-NCT00320216 downloaded
+09/27/2024 : 11:21 :   456: Y-NCT00454584 downloaded
+09/27/2024 : 11:21 :   457: Y-NCT00747344 downloaded
+09/27/2024 : 11:21 :   458: Y-NCT01008995 downloaded
+09/27/2024 : 11:21 :   459: Y-NCT01059773 downloaded
+09/27/2024 : 11:21 :   460: Y-NCT01090427 downloaded
+09/27/2024 : 11:21 :   461: Y-NCT02437162 downloaded
+09/27/2024 : 11:21 :   462: Y-NCT02438787 downloaded
+09/27/2024 : 11:21 :   463: Y-NCT02407223 downloaded
+09/27/2024 : 11:21 :   464: Y-NCT00955279 downloaded
+09/27/2024 : 11:21 :   465: Y-NCT01645280 downloaded
+09/27/2024 : 11:21 :   466: Y-NCT02698475 downloaded
+09/27/2024 : 11:21 :   467: Y-NCT03464136 downloaded
+09/27/2024 : 11:21 :   468: Y-NCT03517722 downloaded
+09/27/2024 : 11:21 :   469: Y-NCT00207727 downloaded
+09/27/2024 : 11:22 :   470: Y-NCT02407236 downloaded
+
+09/27/2024 : 11:22 :   **** Download Result ****
+09/27/2024 : 11:22 :   Source Id: 101901
+09/27/2024 : 11:22 :   Download Event Id: 102220
+09/27/2024 : 11:22 :   Start time: 09/27/2024 11:06:30
+09/27/2024 : 11:22 :   End time: 09/27/2024 11:22:02
+09/27/2024 : 11:22 :   Records checked: 470
+09/27/2024 : 11:22 :   Records downloaded: 470
+09/27/2024 : 11:22 :   Records added: 1
+
+09/27/2024 : 11:22 :   **** Closing Log ****
