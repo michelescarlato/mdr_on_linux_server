@@ -17,7 +17,7 @@ COPY appsettings.json /app/
 COPY MDR_Sources/* /app/
 
 # Ensure all required directories exist
-RUN mkdir -p /app/isrctn /app/other_needed_directories
+RUN mkdir -p /app/biolincc /app/ctg /app/euctr /app/isrctn /app/pubmed /app/who /app/yoda
 
 # Restore NuGet packages
 RUN dotnet restore
