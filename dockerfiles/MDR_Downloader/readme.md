@@ -67,6 +67,7 @@ mkdir -p $HOME/MDR_Test
 mkdir -p $HOME/MDR_Source
 mkdir -p $HOME/MDR_Data/isrctn/
 mkdir -p $HOME/MDR_Data/euctr/
+mkdir -p $HOME/MDR_Data/ctg/
 
 ```
 
