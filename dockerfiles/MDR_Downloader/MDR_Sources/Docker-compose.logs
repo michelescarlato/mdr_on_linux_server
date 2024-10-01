@@ -1,0 +1,26 @@
+After running:
+
+```
+michelescarlato@krang:~/gitrepo/mdr_on_linux_server/dockerfiles/MDR_Downloader$ docker-compose up --remove-orphans who
+```
+
+
+these three directories have been created:
+
+```
+michelescarlato@krang:~$ ls -lah $HOME/MDR_Data/
+total 312K
+drwxrwxr-x  6 michelescarlato michelescarlato 4,0K set 29 15:03 .
+drwxr-x--- 51 michelescarlato michelescarlato 4,0K set 27 14:52 ..
+drwxr-xr-x  2 root            root             16K set 29 15:03 anzctr
+drwxr-xr-x  2 root            root             20K set 29 15:03 chictr
+drwxr-xr-x  2 root            root            260K set 29 15:03 nntr
+drwxrwxr-x  2 michelescarlato michelescarlato 4,0K set 23 14:44 test
+```
+
+```
+michelescarlato@krang:~/gitrepo/mdr_on_linux_server/dockerfiles/MDR_Downloader$ docker-compose up --remove-orphans isrctn
+```
+
+No the directories have been added to MDR_Data.
+Investigating why at the moment ..
