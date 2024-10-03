@@ -55,3 +55,48 @@ nano Properties/launchSettings.json
 dotnet run
 ```
 
+## MDR Harvester - building process:
+
+```
+cd MDR
+```
+
+```
+git clone https://github.com/michelescarlato/MDR_Downloader
+cd MDR_Downloader/
+```
+
+Put the appsettings.json in the root directory (with the proper password).
+
+```json
+{
+    "host": "localhost",
+    "user": "postgres",
+    "password": "",
+    "port": 5432,
+    
+    "logFilePath": "/app/MDR_Logs/",
+    "summaryFilePath": "/app/MDR_Logs/"
+}
+```
+
+Then `build` the project, checking first which `JDK` and which `dotnet` `version` are running.
+Dotnet `restore` is typically run before building the project to ensure all dependencies are in place.
+
+```
+dotnet --list-sdks 
+dotnet --version
+dotnet restore
+dotnet build
+```
+
+To run the app with command line arguments:
+```
+cd bin/Debug/net8.0/ 
+```
+
+Then call the executable created with the build - in this case specifying biolincc as a source with type 1:
+
+```
+./MDR_Harvester -s "101900" -t 1 
+```
