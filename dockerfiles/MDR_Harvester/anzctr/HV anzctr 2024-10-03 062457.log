@@ -1,0 +1,45 @@
+﻿10/03/2024 : 06:24 :   Source_id is 100116
+10/03/2024 : 06:24 :   Type_id is 2
+10/03/2024 : 06:24 :   
+
+10/03/2024 : 06:24 :   **** STARTING HARVESTER ****
+10/03/2024 : 06:24 :   
+10/03/2024 : 06:24 :   ======================================================================
+10/03/2024 : 06:24 :   For source: 100116: anzctr
+10/03/2024 : 06:24 :   ======================================================================
+10/03/2024 : 06:24 :   
+
+10/03/2024 : 06:24 :   **** RECREATE DATABASE TABLES ****
+10/03/2024 : 06:24 :   Study tables recreated
+10/03/2024 : 06:24 :   Object tables recreated
+10/03/2024 : 06:24 :   Harvest event 15762 began
+
+10/03/2024 : 06:24 :   **** PROCESS DATA ****
+10/03/2024 : 06:24 :   Records harvested: 100
+10/03/2024 : 06:25 :   Records harvested: 200
+10/03/2024 : 06:25 :   Number of source JSON files: 25794
+10/03/2024 : 06:25 :   Number of files harvested: 242
+10/03/2024 : 06:25 :   Harvest event 15762 ended
+10/03/2024 : 06:25 :   
+10/03/2024 : 06:25 :   TABLE RECORD NUMBERS
+
+10/03/2024 : 06:25 :   **** STUDY TABLES ****
+10/03/2024 : 06:25 :   
+10/03/2024 : 06:25 :   242 records found in sd.studies
+10/03/2024 : 06:25 :   305 records found in sd.study_identifiers, from 242 studies
+10/03/2024 : 06:25 :   435 records found in sd.study_titles, from 242 studies
+10/03/2024 : 06:25 :   798 records found in sd.study_features, from 221 studies
+10/03/2024 : 06:25 :   830 records found in sd.study_conditions, from 242 studies
+10/03/2024 : 06:25 :   568 records found in sd.study_organisations, from 242 studies
+10/03/2024 : 06:25 :   16 records found in sd.study_people, from 16 studies
+10/03/2024 : 06:25 :   273 records found in sd.study_countries, from 242 studies
+10/03/2024 : 06:25 :   3240 records found in sd.study_iec, from 242 studies
+
+10/03/2024 : 06:25 :   **** OBJECT TABLES ****
+10/03/2024 : 06:25 :   
+10/03/2024 : 06:25 :   242 records found in sd.data_objects
+10/03/2024 : 06:25 :   0 records found in sd.object_titles, from 0 object
+10/03/2024 : 06:25 :   242 records found in sd.object_instances, from 242 objects
+10/03/2024 : 06:25 :   484 records found in sd.object_dates, from 242 objects
+
+10/03/2024 : 06:25 :   **** CLOSING LOG ****
