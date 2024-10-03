@@ -9,7 +9,7 @@ services:
       - $HOME/MDR_Test:/app/test
       - $HOME/MDR_Sources:/app/MDR_Sources
       - $HOME/MDR_Data:/app/MDR_Data
-    command: ["dotnet", "MDR_Downloader.dll", "-s", "101900", "-t", "102", "-d", "2020-09-23"]
+    command: ["dotnet", "MDR_Downloader.dll", "-s", "101900", "-t", "102", "-d", "2019-09-23"]
 
   clinicaltrials:
     image: mdr-downloader-dotnet8
