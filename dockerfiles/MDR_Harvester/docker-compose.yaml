@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   biolincc:
-    image: mdr-downloader-dotnet8
+    image: mdr-harvester-dotnet8
     container_name: mdr-harvester-biolincc
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
