@@ -14,4 +14,10 @@ Seems to have run without issues.
 
 ## Yoda
 
+I removed 13 the entries with local_path pointing to F:\
 
+```
+DELETE FROM mn.source_data
+WHERE local_path LIKE 'F:\\%';
+```
+to avoid the Harvester throwing file not found errors.
