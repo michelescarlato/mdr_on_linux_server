@@ -1,0 +1,45 @@
+﻿10/03/2024 : 06:19 :   Source_id is 101901
+10/03/2024 : 06:19 :   Type_id is 1
+10/03/2024 : 06:19 :   
+
+10/03/2024 : 06:19 :   **** STARTING HARVESTER ****
+10/03/2024 : 06:19 :   
+10/03/2024 : 06:19 :   ======================================================================
+10/03/2024 : 06:19 :   For source: 101901: yoda
+10/03/2024 : 06:19 :   ======================================================================
+10/03/2024 : 06:19 :   
+
+10/03/2024 : 06:19 :   **** RECREATE DATABASE TABLES ****
+10/03/2024 : 06:19 :   Study tables recreated
+10/03/2024 : 06:19 :   Object tables recreated
+10/03/2024 : 06:19 :   Harvest event 15761 began
+
+10/03/2024 : 06:19 :   **** PROCESS DATA ****
+10/03/2024 : 06:19 :   Records harvested: 100
+10/03/2024 : 06:19 :   Records harvested: 200
+10/03/2024 : 06:19 :   Records harvested: 300
+10/03/2024 : 06:19 :   Records harvested: 400
+10/03/2024 : 06:19 :   Number of source JSON files: 470
+10/03/2024 : 06:19 :   Number of files harvested: 470
+10/03/2024 : 06:19 :   Harvest event 15761 ended
+10/03/2024 : 06:19 :   
+10/03/2024 : 06:19 :   TABLE RECORD NUMBERS
+
+10/03/2024 : 06:19 :   **** STUDY TABLES ****
+10/03/2024 : 06:19 :   
+10/03/2024 : 06:19 :   470 records found in sd.studies
+10/03/2024 : 06:19 :   906 records found in sd.study_identifiers, from 469 studies
+10/03/2024 : 06:19 :   470 records found in sd.study_titles, from 470 studies
+10/03/2024 : 06:19 :   924 records found in sd.study_topics, from 470 studies
+10/03/2024 : 06:19 :   467 records found in sd.study_conditions, from 467 studies
+10/03/2024 : 06:19 :   470 records found in sd.study_organisations, from 470 studies
+10/03/2024 : 06:19 :   269 records found in sd.study_references, from 269 studies
+
+10/03/2024 : 06:19 :   **** OBJECT TABLES ****
+10/03/2024 : 06:19 :   
+10/03/2024 : 06:19 :   2737 records found in sd.data_objects
+10/03/2024 : 06:19 :   0 records found in sd.object_titles, from 0 object
+10/03/2024 : 06:19 :   930 records found in sd.object_instances, from 930 objects
+10/03/2024 : 06:19 :   425 records found in sd.object_datasets, from 425 objects
+
+10/03/2024 : 06:19 :   **** CLOSING LOG ****
