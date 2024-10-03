@@ -13,7 +13,7 @@ services:
 
   ctg:
     image: mdr-harvester-dotnet8
-    container_name: mdr-harvester-isrctn
+    container_name: mdr-harvester-ctg
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
@@ -30,3 +30,13 @@ services:
       - $HOME/MDR_Sources:/app/MDR_Sources
       - $HOME/MDR_Data:/app/MDR_Data
     command: [ "dotnet", "MDR_Harvester.dll", "-s", "100126", "-t", "2"]
+
+  yoda:
+    image: mdr-harvester-dotnet8
+    container_name: mdr-harvester-yoda
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Harvester.dll", "-s", "101901", "-t", "1" ]

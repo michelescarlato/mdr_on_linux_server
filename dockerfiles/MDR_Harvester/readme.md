@@ -6,9 +6,12 @@ So the Harvester should mount the docker volume containing this file in its /app
 
 ## ClinicalTrial.gov (CTG)
 
-
+Seems to be running without issues.
 
 ## ISRCTN
 
-Seems to be running without issues.
+Seems to have run without issues.
+
+## Yoda
+
 
