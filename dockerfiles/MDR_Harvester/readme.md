@@ -4,5 +4,11 @@ The Harvester look at the position of the json files contained in the biolincc.m
 Now the Docker container store the MDR_Data in the /app/ directory.
 So the Harvester should mount the docker volume containing this file in its /app/ directory.
 
+## ClinicalTrial.gov (CTG)
+
+
+
 ## ISRCTN
+
+Seems to be running without issues.
 
