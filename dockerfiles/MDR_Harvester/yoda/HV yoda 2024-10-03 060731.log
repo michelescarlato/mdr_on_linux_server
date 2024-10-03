@@ -1,0 +1,58 @@
+﻿10/03/2024 : 06:07 :   Source_id is 101901
+10/03/2024 : 06:07 :   Type_id is 1
+10/03/2024 : 06:07 :   
+
+10/03/2024 : 06:07 :   **** STARTING HARVESTER ****
+10/03/2024 : 06:07 :   
+10/03/2024 : 06:07 :   ======================================================================
+10/03/2024 : 06:07 :   For source: 101901: yoda
+10/03/2024 : 06:07 :   ======================================================================
+10/03/2024 : 06:07 :   
+
+10/03/2024 : 06:07 :   **** RECREATE DATABASE TABLES ****
+10/03/2024 : 06:07 :   Study tables recreated
+10/03/2024 : 06:07 :   Object tables recreated
+10/03/2024 : 06:07 :   Harvest event 15759 began
+
+10/03/2024 : 06:07 :   **** PROCESS DATA ****
+10/03/2024 : 06:07 :   Records harvested: 100
+10/03/2024 : 06:07 :   Records harvested: 200
+10/03/2024 : 06:07 :   Records harvested: 300
+10/03/2024 : 06:07 :   Records harvested: 400
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-ISRCTN22975026.json does not seem to exist
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-JandJ-02-161.json does not seem to exist
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-JandJ-53718678RSV2006.json does not seem to exist
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-JandJ-91-113.json does not seem to exist
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-JandJ-97-024.json does not seem to exist
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-JandJ-CNTO1275PSO3013.json does not seem to exist
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-JandJ-TMC114FD2HTX3001-WK48.json does not seem to exist
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-JandJ-TMC114IFD3013-WK48.json does not seem to exist
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-NCT01640353.json does not seem to exist
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-NCT01681004.json does not seem to exist
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-NCT01741025.json does not seem to exist
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-NCT02270203.json does not seem to exist
+10/03/2024 : 06:07 :   WTF - the file at F:\MDR_Data\yoda\Y-NCT03122899.json does not seem to exist
+10/03/2024 : 06:07 :   Number of source JSON files: 483
+10/03/2024 : 06:07 :   Number of files harvested: 483
+10/03/2024 : 06:07 :   Harvest event 15759 ended
+10/03/2024 : 06:07 :   
+10/03/2024 : 06:07 :   TABLE RECORD NUMBERS
+
+10/03/2024 : 06:07 :   **** STUDY TABLES ****
+10/03/2024 : 06:07 :   
+10/03/2024 : 06:07 :   470 records found in sd.studies
+10/03/2024 : 06:07 :   906 records found in sd.study_identifiers, from 469 studies
+10/03/2024 : 06:07 :   470 records found in sd.study_titles, from 470 studies
+10/03/2024 : 06:07 :   924 records found in sd.study_topics, from 470 studies
+10/03/2024 : 06:07 :   467 records found in sd.study_conditions, from 467 studies
+10/03/2024 : 06:07 :   470 records found in sd.study_organisations, from 470 studies
+10/03/2024 : 06:07 :   269 records found in sd.study_references, from 269 studies
+
+10/03/2024 : 06:07 :   **** OBJECT TABLES ****
+10/03/2024 : 06:07 :   
+10/03/2024 : 06:07 :   2737 records found in sd.data_objects
+10/03/2024 : 06:07 :   0 records found in sd.object_titles, from 0 object
+10/03/2024 : 06:07 :   930 records found in sd.object_instances, from 930 objects
+10/03/2024 : 06:07 :   425 records found in sd.object_datasets, from 425 objects
+
+10/03/2024 : 06:07 :   **** CLOSING LOG ****
