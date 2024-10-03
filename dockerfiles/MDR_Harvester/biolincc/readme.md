@@ -58,3 +58,18 @@ previously then 2020-09-23 still have the Windows path:
 `F:\MDR_Data\biolincc\..`
 
 Re-running the downloader setting an earlier date. 
+
+The downloader re-run but didn't update the local_path for these three sources.
+
+So I manually deleted them with:
+```
+DELETE FROM mn.source_data
+WHERE id IN (10645027, 10659947, 10785164);
+```
+
+Double-checked that they were deleted with:
+```
+SELECT * FROM mn.source_data
+ORDER BY id ASC;
+```
+And re-run the downloader.
