@@ -1,0 +1,43 @@
+﻿10/04/2024 : 06:54 :   Source_id is 100124
+10/04/2024 : 06:54 :   Type_id is 2
+10/04/2024 : 06:54 :   
+
+10/04/2024 : 06:54 :   **** STARTING HARVESTER ****
+10/04/2024 : 06:54 :   
+10/04/2024 : 06:54 :   ======================================================================
+10/04/2024 : 06:54 :   For source: 100124: drks
+10/04/2024 : 06:54 :   ======================================================================
+10/04/2024 : 06:54 :   
+
+10/04/2024 : 06:54 :   **** RECREATE DATABASE TABLES ****
+10/04/2024 : 06:54 :   Study tables recreated
+10/04/2024 : 06:54 :   Object tables recreated
+10/04/2024 : 06:54 :   Harvest event 15763 began
+
+10/04/2024 : 06:54 :   **** PROCESS DATA ****
+10/04/2024 : 06:54 :   Number of source JSON files: 16913
+10/04/2024 : 06:54 :   Number of files harvested: 0
+10/04/2024 : 06:54 :   Harvest event 15763 ended
+10/04/2024 : 06:54 :   
+10/04/2024 : 06:54 :   TABLE RECORD NUMBERS
+
+10/04/2024 : 06:54 :   **** STUDY TABLES ****
+10/04/2024 : 06:54 :   
+10/04/2024 : 06:54 :   0 records found in sd.studies
+10/04/2024 : 06:54 :   0 records found in sd.study_identifiers, from 0 study
+10/04/2024 : 06:54 :   0 records found in sd.study_titles, from 0 study
+10/04/2024 : 06:54 :   0 records found in sd.study_features, from 0 study
+10/04/2024 : 06:54 :   0 records found in sd.study_conditions, from 0 study
+10/04/2024 : 06:54 :   0 records found in sd.study_organisations, from 0 study
+10/04/2024 : 06:54 :   0 records found in sd.study_people, from 0 study
+10/04/2024 : 06:54 :   0 records found in sd.study_countries, from 0 study
+10/04/2024 : 06:54 :   0 records found in sd.study_iec, from 0 study
+
+10/04/2024 : 06:54 :   **** OBJECT TABLES ****
+10/04/2024 : 06:54 :   
+10/04/2024 : 06:54 :   0 records found in sd.data_objects
+10/04/2024 : 06:54 :   0 records found in sd.object_titles, from 0 object
+10/04/2024 : 06:54 :   0 records found in sd.object_instances, from 0 object
+10/04/2024 : 06:54 :   0 records found in sd.object_dates, from 0 object
+
+10/04/2024 : 06:54 :   **** CLOSING LOG ****
