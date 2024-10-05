@@ -69,10 +69,12 @@ mkdir -p $HOME/MDR_Data/isrctn/
 mkdir -p $HOME/MDR_Data/euctr/
 mkdir -p $HOME/MDR_Data/ctg/
 mkdir -p $HOME/MDR_Data/biolincc/
+mkdir -p $HOME/MDR_Data/nntr/
 mkdir -p $HOME/MDR_Data/pubmed/
 mkdir -p $HOME/MDR_Data/yoda/
 mkdir -p $HOME/MDR_Data/who/
 ```
+
 
 ### Mount the Volumes
 
