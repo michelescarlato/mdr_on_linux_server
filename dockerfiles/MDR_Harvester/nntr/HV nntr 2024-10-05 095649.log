@@ -1,0 +1,104 @@
+﻿10/05/2024 : 09:56 :   Source_id is 100132
+10/05/2024 : 09:56 :   Type_id is 2
+10/05/2024 : 09:56 :   
+
+10/05/2024 : 09:56 :   **** STARTING HARVESTER ****
+10/05/2024 : 09:56 :   
+10/05/2024 : 09:56 :   ======================================================================
+10/05/2024 : 09:56 :   For source: 100132: nntr
+10/05/2024 : 09:56 :   ======================================================================
+10/05/2024 : 09:56 :   
+
+10/05/2024 : 09:56 :   **** RECREATE DATABASE TABLES ****
+10/05/2024 : 09:56 :   Study tables recreated
+10/05/2024 : 09:56 :   Object tables recreated
+10/05/2024 : 09:56 :   Harvest event 15767 began
+
+10/05/2024 : 09:56 :   **** PROCESS DATA ****
+10/05/2024 : 09:56 :   Records harvested: 100
+10/05/2024 : 09:56 :   Records harvested: 200
+10/05/2024 : 09:56 :   Records harvested: 300
+10/05/2024 : 09:56 :   Records harvested: 400
+10/05/2024 : 09:57 :   Records harvested: 500
+10/05/2024 : 09:57 :   Records harvested: 600
+10/05/2024 : 09:57 :   Records harvested: 700
+10/05/2024 : 09:57 :   Records harvested: 800
+10/05/2024 : 09:57 :   Records harvested: 900
+10/05/2024 : 09:57 :   Records harvested: 1000
+10/05/2024 : 09:57 :   Records harvested: 1100
+10/05/2024 : 09:57 :   Records harvested: 1200
+10/05/2024 : 09:57 :   Records harvested: 1300
+10/05/2024 : 09:57 :   Records harvested: 1400
+10/05/2024 : 09:57 :   Records harvested: 1500
+10/05/2024 : 09:57 :   Records harvested: 1600
+10/05/2024 : 09:57 :   Records harvested: 1700
+10/05/2024 : 09:57 :   Records harvested: 1800
+10/05/2024 : 09:57 :   Records harvested: 1900
+10/05/2024 : 09:57 :   Records harvested: 2000
+10/05/2024 : 09:57 :   Records harvested: 2100
+10/05/2024 : 09:57 :   Records harvested: 2200
+10/05/2024 : 09:57 :   Records harvested: 2300
+10/05/2024 : 09:57 :   Records harvested: 2400
+10/05/2024 : 09:57 :   Records harvested: 2500
+10/05/2024 : 09:57 :   Records harvested: 2600
+10/05/2024 : 09:57 :   Records harvested: 2700
+10/05/2024 : 09:57 :   Records harvested: 2800
+10/05/2024 : 09:57 :   Records harvested: 2900
+10/05/2024 : 09:57 :   Records harvested: 3000
+10/05/2024 : 09:57 :   Records harvested: 3100
+10/05/2024 : 09:57 :   Records harvested: 3200
+10/05/2024 : 09:57 :   Records harvested: 3300
+10/05/2024 : 09:57 :   Records harvested: 3400
+10/05/2024 : 09:57 :   Records harvested: 3500
+10/05/2024 : 09:57 :   Records harvested: 3600
+10/05/2024 : 09:57 :   Records harvested: 3700
+10/05/2024 : 09:57 :   Records harvested: 3800
+10/05/2024 : 09:57 :   Records harvested: 3900
+10/05/2024 : 09:57 :   Records harvested: 4000
+10/05/2024 : 09:58 :   Records harvested: 4100
+10/05/2024 : 09:58 :   Records harvested: 4200
+10/05/2024 : 09:58 :   Records harvested: 4300
+10/05/2024 : 09:58 :   Records harvested: 4400
+10/05/2024 : 09:58 :   Records harvested: 4500
+10/05/2024 : 09:58 :   Records harvested: 4600
+10/05/2024 : 09:58 :   Records harvested: 4700
+10/05/2024 : 09:58 :   Records harvested: 4800
+10/05/2024 : 09:58 :   Records harvested: 4900
+10/05/2024 : 09:58 :   Records harvested: 5000
+10/05/2024 : 09:58 :   Records harvested: 5100
+10/05/2024 : 09:58 :   Records harvested: 5200
+10/05/2024 : 09:58 :   Records harvested: 5300
+10/05/2024 : 09:58 :   Records harvested: 5400
+10/05/2024 : 09:58 :   Records harvested: 5500
+10/05/2024 : 09:58 :   Records harvested: 5600
+10/05/2024 : 09:58 :   Records harvested: 5700
+10/05/2024 : 09:58 :   Records harvested: 5800
+10/05/2024 : 09:58 :   Records harvested: 5900
+10/05/2024 : 09:58 :   Records harvested: 6000
+10/05/2024 : 09:58 :   Records harvested: 6100
+10/05/2024 : 09:58 :   Number of source JSON files: 46911
+10/05/2024 : 09:58 :   Number of files harvested: 6186
+10/05/2024 : 09:58 :   Harvest event 15767 ended
+10/05/2024 : 09:58 :   
+10/05/2024 : 09:58 :   TABLE RECORD NUMBERS
+
+10/05/2024 : 09:58 :   **** STUDY TABLES ****
+10/05/2024 : 09:58 :   
+10/05/2024 : 09:58 :   6186 records found in sd.studies
+10/05/2024 : 09:58 :   16334 records found in sd.study_identifiers, from 6186 studies
+10/05/2024 : 09:58 :   12369 records found in sd.study_titles, from 6186 studies
+10/05/2024 : 09:58 :   10655 records found in sd.study_features, from 4011 studies
+10/05/2024 : 09:58 :   18847 records found in sd.study_conditions, from 6186 studies
+10/05/2024 : 09:58 :   14561 records found in sd.study_organisations, from 6186 studies
+10/05/2024 : 09:58 :   25 records found in sd.study_people, from 25 studies
+10/05/2024 : 09:58 :   6186 records found in sd.study_countries, from 6186 studies
+10/05/2024 : 09:58 :   95600 records found in sd.study_iec, from 6183 studies
+
+10/05/2024 : 09:58 :   **** OBJECT TABLES ****
+10/05/2024 : 09:58 :   
+10/05/2024 : 09:58 :   6258 records found in sd.data_objects
+10/05/2024 : 09:58 :   0 records found in sd.object_titles, from 0 object
+10/05/2024 : 09:58 :   6258 records found in sd.object_instances, from 6258 objects
+10/05/2024 : 09:58 :   12488 records found in sd.object_dates, from 6258 objects
+
+10/05/2024 : 09:58 :   **** CLOSING LOG ****

@@ -1,0 +1,48 @@
+﻿10/05/2024 : 10:06 :   Source_id is 100118
+10/05/2024 : 10:06 :   Type_id is 2
+10/05/2024 : 10:06 :   
+
+10/05/2024 : 10:06 :   **** STARTING HARVESTER ****
+10/05/2024 : 10:06 :   
+10/05/2024 : 10:06 :   ======================================================================
+10/05/2024 : 10:06 :   For source: 100118: chictr
+10/05/2024 : 10:06 :   ======================================================================
+10/05/2024 : 10:06 :   
+
+10/05/2024 : 10:06 :   **** RECREATE DATABASE TABLES ****
+10/05/2024 : 10:06 :   Study tables recreated
+10/05/2024 : 10:06 :   Object tables recreated
+10/05/2024 : 10:06 :   Harvest event 15769 began
+
+10/05/2024 : 10:06 :   **** PROCESS DATA ****
+10/05/2024 : 10:07 :   Records harvested: 100
+10/05/2024 : 10:07 :   Records harvested: 200
+10/05/2024 : 10:07 :   Records harvested: 300
+10/05/2024 : 10:07 :   Number of source JSON files: 82903
+10/05/2024 : 10:07 :   Number of files harvested: 329
+10/05/2024 : 10:07 :   Harvest event 15769 ended
+10/05/2024 : 10:07 :   
+10/05/2024 : 10:07 :   TABLE RECORD NUMBERS
+
+10/05/2024 : 10:07 :   **** STUDY TABLES ****
+10/05/2024 : 10:07 :   
+10/05/2024 : 10:07 :   329 records found in sd.studies
+10/05/2024 : 10:07 :   343 records found in sd.study_identifiers, from 329 studies
+10/05/2024 : 10:07 :   377 records found in sd.study_titles, from 329 studies
+10/05/2024 : 10:07 :   405 records found in sd.study_features, from 278 studies
+10/05/2024 : 10:07 :   335 records found in sd.study_conditions, from 324 studies
+10/05/2024 : 10:07 :   616 records found in sd.study_organisations, from 329 studies
+10/05/2024 : 10:07 :   569 records found in sd.study_people, from 329 studies
+10/05/2024 : 10:07 :   329 records found in sd.study_countries, from 329 studies
+10/05/2024 : 10:07 :   0 records found in sd.study_iec_upto12, from 0 study
+10/05/2024 : 10:07 :   59 records found in sd.study_iec_13to19, from 4 studies
+10/05/2024 : 10:07 :   4215 records found in sd.study_iec_20on, from 325 studies
+
+10/05/2024 : 10:07 :   **** OBJECT TABLES ****
+10/05/2024 : 10:07 :   
+10/05/2024 : 10:07 :   329 records found in sd.data_objects
+10/05/2024 : 10:07 :   0 records found in sd.object_titles, from 0 object
+10/05/2024 : 10:07 :   329 records found in sd.object_instances, from 329 objects
+10/05/2024 : 10:07 :   658 records found in sd.object_dates, from 329 objects
+
+10/05/2024 : 10:07 :   **** CLOSING LOG ****
