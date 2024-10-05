@@ -20,7 +20,12 @@ So the Harvester should mount the docker volume containing this file in its /app
 Seems to be running without issues.
 
 ## China CTR (Chictr)
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\chictr\', '/app/MDR_Data/chictr/');
+```
 
+Query run to change the path.
 
 ## DRKS
 
@@ -40,8 +45,11 @@ Seems to have run without issues.
 ## NNTR
 
 Run without issues.
-
-
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\nntr\', '/app/MDR_Data/nntr/');
+```
+Query run to change the path.
 
 ## Yoda
 
