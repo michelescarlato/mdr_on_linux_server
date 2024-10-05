@@ -2,6 +2,13 @@
 
 Seems to have run without issues.
 
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\anzctr\', '/app/MDR_Data/anzctr/');
+```
+Query run to change the path.
+Furthermore, MDR_Data (in krang) has been populated with more JSONs (coming from the prod environments).
+
 ## Biolincc
 The Harvester look at the position of the json files contained in the biolincc.mn.source_data table.
 
@@ -15,6 +22,13 @@ Seems to be running without issues.
 ## DRKS
 
 0 files harvested. To investigate why.
+
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\drks\', '/app/MDR_Data/drks/');
+```
+Query run to change the path.
+Furthermore, MDR_Data (in krang) has been populated with more JSONs (coming from the prod environments).
 
 ## ISRCTN
 
