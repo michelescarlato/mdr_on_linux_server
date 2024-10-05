@@ -19,6 +19,9 @@ So the Harvester should mount the docker volume containing this file in its /app
 
 Seems to be running without issues.
 
+## China CTR (Chictr)
+
+
 ## DRKS
 
 0 files harvested. To investigate why.
@@ -33,6 +36,12 @@ Furthermore, MDR_Data (in krang) has been populated with more JSONs (coming from
 ## ISRCTN
 
 Seems to have run without issues.
+
+## NNTR
+
+Run without issues.
+
+
 
 ## Yoda
 
