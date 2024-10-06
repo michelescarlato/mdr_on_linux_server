@@ -38,6 +38,24 @@ SET local_path = REPLACE(local_path, 'F:\MDR_Data\drks\', '/app/MDR_Data/drks/')
 Query run to change the path.
 Furthermore, MDR_Data (in krang) has been populated with more JSONs (coming from the prod environments).
 
+
+## EUCTR
+
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\euctr\', '/app/MDR_Data/euctr/');
+```
+
+```
+UPDATE 43581
+
+Query returned successfully in 1 secs 20 msec.
+```
+
+-s "100123" -t 2
+
+
+
 ## ISRCTN
 
 Seems to have run without issues.
@@ -203,6 +221,39 @@ UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\nntr\', '/app/MDR_Data/nntr/');
 ```
 Query run to change the path.
+
+## Pubmed
+
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\pubmed\', '/app/MDR_Data/pubmed/');
+```
+
+```
+UPDATE 283684
+
+Query returned successfully in 4 secs 844 msec.
+```
+
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, '\', '/');
+```
+
+
+```
+UPDATE 283684
+
+Query returned successfully in 3 secs 551 msec.
+```
+
+To double-check that every local_path has been updated to the Linux fs format.
+
+```
+SELECT local_path
+FROM mn.source_data
+WHERE local_path LIKE '%\\%';
+```
 
 ## Yoda
 
