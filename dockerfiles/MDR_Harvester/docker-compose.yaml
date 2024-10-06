@@ -62,6 +62,16 @@ services:
       - $HOME/MDR_Data:/app/MDR_Data
     command: [ "dotnet", "MDR_Harvester.dll", "-s", "100126", "-t", "2"]
 
+  japctr:
+    image: mdr-harvester-dotnet8
+    container_name: mdr-harvester-japctr
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Harvester.dll", "-s", "100127", "-t", "2" ]
+
   nntr:
     image: mdr-harvester-dotnet8
     container_name: mdr-harvester-nntr

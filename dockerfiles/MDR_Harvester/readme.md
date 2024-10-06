@@ -42,6 +42,24 @@ Furthermore, MDR_Data (in krang) has been populated with more JSONs (coming from
 
 Seems to have run without issues.
 
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\isrctn\', '/app/MDR_Data/isrctn/');
+```
+Still data needs to be fully imported from Prod DB.
+
+## JapCTR
+
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\jprn\', '/app/MDR_Data/jprn/');
+```
+```
+UPDATE 69280
+Query returned successfully in 1 secs 602 msec.
+```
+MDR_Data updated from Prod env.
+
 ## NNTR
 
 Run without issues.
