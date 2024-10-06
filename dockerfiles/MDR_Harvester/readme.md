@@ -125,6 +125,8 @@ UPDATE 40572
 Query returned successfully in 1 secs 323 msec.
 ```
 
+For the 4 sources data have been updated from Prod.
+
 ## NNTR
 
 Run without issues.
