@@ -60,6 +60,71 @@ Query returned successfully in 1 secs 602 msec.
 ```
 MDR_Data updated from Prod env.
 
+## Leb, SriLnkn, Thai, PAfr, Iranian CTRs Harvest
+
+Lebanon db update:
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\lebctr\', '/app/MDR_Data/lebctr/');
+```
+```
+UPDATE 171
+
+Query returned successfully in 504 msec.
+```
+
+SriLnkn db update:
+
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\slctr\', '/app/MDR_Data/slctr/');
+```
+
+```
+UPDATE 479
+
+Query returned successfully in 907 msec.
+```
+
+Thai db:
+
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\thctr\', '/app/MDR_Data/thctr/');
+```
+
+```
+UPDATE 9538
+
+Query returned successfully in 581 msec.
+```
+
+Pactr db:
+
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\pactr\', '/app/MDR_Data/pactr/');
+```
+
+```
+UPDATE 4635
+
+Query returned successfully in 535 msec.
+```
+
+Iran ctr db:
+
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\irct\', '/app/MDR_Data/irct/');
+```
+
+```
+UPDATE 40572
+
+Query returned successfully in 1 secs 323 msec.
+```
+
 ## NNTR
 
 Run without issues.
