@@ -22,6 +22,16 @@ services:
       - $HOME/MDR_Data:/app/MDR_Data
     command: ["dotnet", "MDR_Harvester.dll", "-s", "101900", "-t", "1"]
 
+  braz:
+    image: mdr-harvester-dotnet8
+    container_name: mdr-harvester-braz
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Harvester.dll", "-s", "100117, 100119, 100122, 100129, 109108", "-t", "2" ]
+
   chictr:
     image: mdr-harvester-dotnet8
     container_name: mdr-harvester-chictr

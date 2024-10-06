@@ -27,7 +27,7 @@ SET local_path = REPLACE(local_path, 'F:\MDR_Data\chictr\', '/app/MDR_Data/chict
 
 Query run to change the path.
 
-## DRKS
+## DRKS (Deutch)
 
 0 files harvested. To investigate why.
 
@@ -126,6 +126,74 @@ Query returned successfully in 1 secs 323 msec.
 ```
 
 For the 4 sources data have been updated from Prod.
+
+
+## Braz (rebec)
+
+Braz (rebec db):
+
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\rebec\', '/app/MDR_Data/rebec/');
+```
+
+```
+UPDATE 7292
+
+Query returned successfully in 621 msec.
+```
+
+Cuban rpcec db:
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\rpcec\', '/app/MDR_Data/rpcec/');
+```
+
+```
+UPDATE 447
+
+Query returned successfully in 568 msec.
+```
+
+Peruvian rpuec db:
+
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\rpuec\', '/app/MDR_Data/rpuec/');
+```
+
+```
+UPDATE 2063
+
+Query returned successfully in 421 msec.
+```
+
+Korean (cris) db:
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\cris\', '/app/MDR_Data/cris/');
+```
+
+```
+UPDATE 9680
+
+Query returned successfully in 865 msec.
+```
+
+ITM db:
+
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, 'F:\MDR_Data\itmctr\', '/app/MDR_Data/itmctr/');
+```
+
+```
+UPDATE 4486
+
+Query returned successfully in 733 msec.
+```
+
+For the 4 sources MDR_data JSONs have been imported from Prod server.
 
 ## NNTR
 
