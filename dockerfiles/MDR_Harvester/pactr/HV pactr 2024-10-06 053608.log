@@ -1,0 +1,43 @@
+﻿10/06/2024 : 05:36 :   Source_ids are 100125,100128,100130,100131,101989
+10/06/2024 : 05:36 :   Type_id is 2
+10/06/2024 : 05:36 :   
+
+10/06/2024 : 05:36 :   **** STARTING HARVESTER ****
+10/06/2024 : 05:36 :   
+10/06/2024 : 05:36 :   ======================================================================
+10/06/2024 : 05:36 :   For source: 100128: pactr
+10/06/2024 : 05:36 :   ======================================================================
+10/06/2024 : 05:36 :   
+
+10/06/2024 : 05:36 :   **** RECREATE DATABASE TABLES ****
+10/06/2024 : 05:36 :   Study tables recreated
+10/06/2024 : 05:36 :   Object tables recreated
+10/06/2024 : 05:36 :   Harvest event 15772 began
+
+10/06/2024 : 05:36 :   **** PROCESS DATA ****
+10/06/2024 : 05:36 :   Number of source JSON files: 4635
+10/06/2024 : 05:36 :   Number of files harvested: 0
+10/06/2024 : 05:36 :   Harvest event 15772 ended
+10/06/2024 : 05:36 :   
+10/06/2024 : 05:36 :   TABLE RECORD NUMBERS
+
+10/06/2024 : 05:36 :   **** STUDY TABLES ****
+10/06/2024 : 05:36 :   
+10/06/2024 : 05:36 :   0 records found in sd.studies
+10/06/2024 : 05:36 :   0 records found in sd.study_identifiers, from 0 study
+10/06/2024 : 05:36 :   0 records found in sd.study_titles, from 0 study
+10/06/2024 : 05:36 :   0 records found in sd.study_features, from 0 study
+10/06/2024 : 05:36 :   0 records found in sd.study_conditions, from 0 study
+10/06/2024 : 05:36 :   0 records found in sd.study_organisations, from 0 study
+10/06/2024 : 05:36 :   0 records found in sd.study_people, from 0 study
+10/06/2024 : 05:36 :   0 records found in sd.study_countries, from 0 study
+10/06/2024 : 05:36 :   0 records found in sd.study_iec, from 0 study
+
+10/06/2024 : 05:36 :   **** OBJECT TABLES ****
+10/06/2024 : 05:36 :   
+10/06/2024 : 05:36 :   0 records found in sd.data_objects
+10/06/2024 : 05:36 :   0 records found in sd.object_titles, from 0 object
+10/06/2024 : 05:36 :   0 records found in sd.object_instances, from 0 object
+10/06/2024 : 05:36 :   0 records found in sd.object_dates, from 0 object
+
+10/06/2024 : 05:36 :   **** CLOSING LOG ****
