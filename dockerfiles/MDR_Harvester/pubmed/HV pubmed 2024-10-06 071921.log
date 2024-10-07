@@ -1,0 +1,225 @@
+﻿10/06/2024 : 07:19 :   Source_id is 100135
+10/06/2024 : 07:19 :   Type_id is 2
+10/06/2024 : 07:19 :   
+
+10/06/2024 : 07:19 :   **** STARTING HARVESTER ****
+10/06/2024 : 07:19 :   
+10/06/2024 : 07:19 :   ======================================================================
+10/06/2024 : 07:19 :   For source: 100135: pubmed
+10/06/2024 : 07:19 :   ======================================================================
+10/06/2024 : 07:19 :   
+
+10/06/2024 : 07:19 :   **** RECREATE DATABASE TABLES ****
+10/06/2024 : 07:19 :   Object tables recreated
+10/06/2024 : 07:19 :   Harvest event 15792 began
+
+10/06/2024 : 07:19 :   **** PROCESS DATA ****
+10/06/2024 : 07:19 :   Records harvested: 1000
+10/06/2024 : 07:19 :   Records harvested: 2000
+10/06/2024 : 07:20 :   Records harvested: 3000
+10/06/2024 : 07:20 :   Records harvested: 4000
+10/06/2024 : 07:20 :   Records harvested: 5000
+10/06/2024 : 07:20 :   Records harvested: 6000
+10/06/2024 : 07:21 :   Records harvested: 7000
+10/06/2024 : 07:21 :   Records harvested: 8000
+10/06/2024 : 07:21 :   Records harvested: 9000
+10/06/2024 : 07:21 :   Records harvested: 10000
+10/06/2024 : 07:21 :   Records harvested: 11000
+10/06/2024 : 07:21 :   Records harvested: 12000
+10/06/2024 : 07:22 :   Records harvested: 13000
+10/06/2024 : 07:22 :   Records harvested: 14000
+10/06/2024 : 07:22 :   Records harvested: 15000
+10/06/2024 : 07:22 :   Records harvested: 16000
+10/06/2024 : 07:23 :   Records harvested: 17000
+10/06/2024 : 07:23 :   Records harvested: 18000
+10/06/2024 : 07:23 :   Records harvested: 19000
+10/06/2024 : 07:23 :   Records harvested: 20000
+10/06/2024 : 07:24 :   Records harvested: 21000
+10/06/2024 : 07:24 :   Records harvested: 22000
+10/06/2024 : 07:24 :   Records harvested: 23000
+10/06/2024 : 07:24 :   Records harvested: 24000
+10/06/2024 : 07:24 :   Records harvested: 25000
+10/06/2024 : 07:25 :   Records harvested: 26000
+10/06/2024 : 07:25 :   Records harvested: 27000
+10/06/2024 : 07:25 :   Records harvested: 28000
+10/06/2024 : 07:25 :   Records harvested: 29000
+10/06/2024 : 07:25 :   Records harvested: 30000
+10/06/2024 : 07:25 :   Records harvested: 31000
+10/06/2024 : 07:26 :   Records harvested: 32000
+10/06/2024 : 07:26 :   Records harvested: 33000
+10/06/2024 : 07:26 :   Records harvested: 34000
+10/06/2024 : 07:26 :   Records harvested: 35000
+10/06/2024 : 07:27 :   Records harvested: 36000
+10/06/2024 : 07:27 :   Records harvested: 37000
+10/06/2024 : 07:27 :   Records harvested: 38000
+10/06/2024 : 07:27 :   Records harvested: 39000
+10/06/2024 : 07:27 :   Records harvested: 40000
+10/06/2024 : 07:28 :   Records harvested: 41000
+10/06/2024 : 07:28 :   Records harvested: 42000
+10/06/2024 : 07:28 :   Records harvested: 43000
+10/06/2024 : 07:28 :   Records harvested: 44000
+10/06/2024 : 07:28 :   Records harvested: 45000
+10/06/2024 : 07:29 :   Records harvested: 46000
+10/06/2024 : 07:29 :   Records harvested: 47000
+10/06/2024 : 07:29 :   Two different doi s have been supplied: 10.1097/AOG.0b013e31827a072c from ELocation, and 10.1097/aog.0b013e31827a072c from Article Ids, pmid 23262925
+10/06/2024 : 07:29 :   Records harvested: 48000
+10/06/2024 : 07:29 :   Records harvested: 49000
+10/06/2024 : 07:30 :   Records harvested: 50000
+10/06/2024 : 07:30 :   Records harvested: 51000
+10/06/2024 : 07:30 :   Records harvested: 52000
+10/06/2024 : 07:30 :   Records harvested: 53000
+10/06/2024 : 07:31 :   Records harvested: 54000
+10/06/2024 : 07:31 :   Records harvested: 55000
+10/06/2024 : 07:31 :   Records harvested: 56000
+10/06/2024 : 07:31 :   Records harvested: 57000
+10/06/2024 : 07:31 :   Records harvested: 58000
+10/06/2024 : 07:32 :   Records harvested: 59000
+10/06/2024 : 07:32 :   Records harvested: 60000
+10/06/2024 : 07:32 :   Records harvested: 61000
+10/06/2024 : 07:32 :   Records harvested: 62000
+10/06/2024 : 07:32 :   Records harvested: 63000
+10/06/2024 : 07:33 :   Records harvested: 64000
+10/06/2024 : 07:33 :   Records harvested: 65000
+10/06/2024 : 07:33 :   Records harvested: 66000
+10/06/2024 : 07:33 :   Records harvested: 67000
+10/06/2024 : 07:33 :   Records harvested: 68000
+10/06/2024 : 07:34 :   Records harvested: 69000
+10/06/2024 : 07:34 :   Records harvested: 70000
+10/06/2024 : 07:34 :   Records harvested: 71000
+10/06/2024 : 07:34 :   Records harvested: 72000
+10/06/2024 : 07:35 :   Records harvested: 73000
+10/06/2024 : 07:35 :   Records harvested: 74000
+10/06/2024 : 07:35 :   Records harvested: 75000
+10/06/2024 : 07:35 :   Records harvested: 76000
+10/06/2024 : 07:35 :   Records harvested: 77000
+10/06/2024 : 07:36 :   Records harvested: 78000
+10/06/2024 : 07:36 :   Records harvested: 79000
+10/06/2024 : 07:36 :   Records harvested: 80000
+10/06/2024 : 07:37 :   Records harvested: 81000
+10/06/2024 : 07:37 :   Records harvested: 82000
+10/06/2024 : 07:37 :   Records harvested: 83000
+10/06/2024 : 07:37 :   Records harvested: 84000
+10/06/2024 : 07:37 :   Records harvested: 85000
+10/06/2024 : 07:38 :   Records harvested: 86000
+10/06/2024 : 07:38 :   Records harvested: 87000
+10/06/2024 : 07:38 :   Records harvested: 88000
+10/06/2024 : 07:38 :   Records harvested: 89000
+10/06/2024 : 07:39 :   Records harvested: 90000
+10/06/2024 : 07:39 :   Records harvested: 91000
+10/06/2024 : 07:39 :   Records harvested: 92000
+10/06/2024 : 07:39 :   Records harvested: 93000
+10/06/2024 : 07:40 :   Records harvested: 94000
+10/06/2024 : 07:40 :   Records harvested: 95000
+10/06/2024 : 07:40 :   Records harvested: 96000
+10/06/2024 : 07:40 :   Records harvested: 97000
+10/06/2024 : 07:41 :   Records harvested: 98000
+10/06/2024 : 07:41 :   Records harvested: 99000
+10/06/2024 : 07:41 :   Records harvested: 100000
+10/06/2024 : 07:41 :   Records harvested: 101000
+10/06/2024 : 07:42 :   Records harvested: 102000
+10/06/2024 : 07:42 :   Records harvested: 103000
+10/06/2024 : 07:42 :   Records harvested: 104000
+10/06/2024 : 07:42 :   Records harvested: 105000
+10/06/2024 : 07:43 :   Records harvested: 106000
+10/06/2024 : 07:43 :   Records harvested: 107000
+10/06/2024 : 07:43 :   Records harvested: 108000
+10/06/2024 : 07:43 :   Records harvested: 109000
+10/06/2024 : 07:44 :   Records harvested: 110000
+10/06/2024 : 07:44 :   Records harvested: 111000
+10/06/2024 : 07:44 :   Records harvested: 112000
+10/06/2024 : 07:44 :   Records harvested: 113000
+10/06/2024 : 07:44 :   Records harvested: 114000
+10/06/2024 : 07:45 :   Records harvested: 115000
+10/06/2024 : 07:45 :   Records harvested: 116000
+10/06/2024 : 07:45 :   Records harvested: 117000
+10/06/2024 : 07:45 :   Records harvested: 118000
+10/06/2024 : 07:46 :   Records harvested: 119000
+10/06/2024 : 07:46 :   Records harvested: 120000
+10/06/2024 : 07:46 :   Records harvested: 121000
+10/06/2024 : 07:46 :   Records harvested: 122000
+10/06/2024 : 07:46 :   Records harvested: 123000
+10/06/2024 : 07:47 :   Records harvested: 124000
+10/06/2024 : 07:47 :   Records harvested: 125000
+10/06/2024 : 07:47 :   Records harvested: 126000
+10/06/2024 : 07:48 :   Records harvested: 127000
+10/06/2024 : 07:48 :   Records harvested: 128000
+10/06/2024 : 07:48 :   Records harvested: 129000
+10/06/2024 : 07:48 :   Records harvested: 130000
+10/06/2024 : 07:49 :   Records harvested: 131000
+10/06/2024 : 07:49 :   Records harvested: 132000
+10/06/2024 : 07:49 :   Records harvested: 133000
+10/06/2024 : 07:49 :   Records harvested: 134000
+10/06/2024 : 07:49 :   Records harvested: 135000
+10/06/2024 : 07:50 :   Records harvested: 136000
+10/06/2024 : 07:50 :   Records harvested: 137000
+10/06/2024 : 07:50 :   Records harvested: 138000
+10/06/2024 : 07:51 :   Records harvested: 139000
+10/06/2024 : 07:51 :   Records harvested: 140000
+10/06/2024 : 07:51 :   Records harvested: 141000
+10/06/2024 : 07:51 :   Records harvested: 142000
+10/06/2024 : 07:51 :   Records harvested: 143000
+10/06/2024 : 07:52 :   Records harvested: 144000
+10/06/2024 : 07:52 :   Records harvested: 145000
+10/06/2024 : 07:52 :   Records harvested: 146000
+10/06/2024 : 07:52 :   Records harvested: 147000
+10/06/2024 : 07:53 :   Records harvested: 148000
+10/06/2024 : 07:53 :   Records harvested: 149000
+10/06/2024 : 07:53 :   Records harvested: 150000
+10/06/2024 : 07:54 :   Records harvested: 151000
+10/06/2024 : 07:54 :   Records harvested: 152000
+10/06/2024 : 07:54 :   Records harvested: 153000
+10/06/2024 : 07:54 :   Records harvested: 154000
+10/06/2024 : 07:54 :   Records harvested: 155000
+10/06/2024 : 07:55 :   Records harvested: 156000
+10/06/2024 : 07:55 :   Records harvested: 157000
+10/06/2024 : 07:55 :   Records harvested: 158000
+10/06/2024 : 07:55 :   Records harvested: 159000
+10/06/2024 : 07:55 :   The article and vernacular titles seem identical, for pmid 34962245
+10/06/2024 : 07:56 :   Records harvested: 160000
+10/06/2024 : 07:56 :   Records harvested: 161000
+10/06/2024 : 07:56 :   Records harvested: 162000
+10/06/2024 : 07:56 :   Records harvested: 163000
+10/06/2024 : 07:57 :   Records harvested: 164000
+10/06/2024 : 07:57 :   Records harvested: 165000
+10/06/2024 : 07:57 :   Records harvested: 166000
+10/06/2024 : 07:57 :   Records harvested: 167000
+10/06/2024 : 07:57 :   Records harvested: 168000
+10/06/2024 : 07:58 :   Records harvested: 169000
+10/06/2024 : 07:58 :   The article and vernacular titles seem identical, for pmid 35792849
+10/06/2024 : 07:58 :   Records harvested: 170000
+10/06/2024 : 07:58 :   Records harvested: 171000
+10/06/2024 : 07:58 :   Records harvested: 172000
+10/06/2024 : 07:59 :   Records harvested: 173000
+10/06/2024 : 07:59 :   Records harvested: 174000
+10/06/2024 : 07:59 :   Records harvested: 175000
+10/06/2024 : 08:00 :   Records harvested: 176000
+10/06/2024 : 08:00 :   Records harvested: 177000
+10/06/2024 : 08:00 :   Records harvested: 178000
+10/06/2024 : 08:00 :   Records harvested: 179000
+10/06/2024 : 08:01 :   Records harvested: 180000
+10/06/2024 : 08:01 :   Records harvested: 181000
+10/06/2024 : 08:01 :   Records harvested: 182000
+10/06/2024 : 08:01 :   Number of source JSON files: 283684
+10/06/2024 : 08:01 :   Number of files harvested: 182576
+10/06/2024 : 08:01 :   Harvest event 15792 ended
+10/06/2024 : 08:01 :   
+10/06/2024 : 08:01 :   TABLE RECORD NUMBERS
+
+10/06/2024 : 08:01 :   **** OBJECT TABLES ****
+10/06/2024 : 08:01 :   
+10/06/2024 : 08:01 :   182576 records found in sd.data_objects
+10/06/2024 : 08:01 :   183053 records found in sd.object_titles, from 182576 objects
+10/06/2024 : 08:01 :   291649 records found in sd.object_instances, from 182576 objects
+10/06/2024 : 08:01 :   1577153 records found in sd.object_dates, from 182576 objects
+10/06/2024 : 08:01 :   182576 records found in sd.journal_details, from 182576 objects
+10/06/2024 : 08:01 :   12780 records found in sd.object_organisations, from 12386 objects
+10/06/2024 : 08:01 :   1802685 records found in sd.object_people, from 181661 objects
+10/06/2024 : 08:01 :   2256805 records found in sd.object_topics, from 179000 objects
+10/06/2024 : 08:01 :   68018 records found in sd.object_comments, from 36096 objects
+10/06/2024 : 08:01 :   182576 records found in sd.object_descriptions, from 182576 objects
+10/06/2024 : 08:01 :   492266 records found in sd.object_identifiers, from 182576 objects
+10/06/2024 : 08:01 :   135099 records found in sd.object_db_links, from 109816 objects
+10/06/2024 : 08:01 :   372194 records found in sd.object_publication_types, from 182575 objects
+10/06/2024 : 08:01 :   182576 records found in sd.object_descriptions, from 182576 objects
+
+10/06/2024 : 08:01 :   **** CLOSING LOG ****

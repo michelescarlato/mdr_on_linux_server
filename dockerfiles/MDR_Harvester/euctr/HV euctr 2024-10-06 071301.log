@@ -1,0 +1,277 @@
+﻿10/06/2024 : 07:13 :   Source_id is 100123
+10/06/2024 : 07:13 :   Type_id is 2
+10/06/2024 : 07:13 :   
+
+10/06/2024 : 07:13 :   **** STARTING HARVESTER ****
+10/06/2024 : 07:13 :   
+10/06/2024 : 07:13 :   ======================================================================
+10/06/2024 : 07:13 :   For source: 100123: euctr
+10/06/2024 : 07:13 :   ======================================================================
+10/06/2024 : 07:13 :   
+
+10/06/2024 : 07:13 :   **** RECREATE DATABASE TABLES ****
+10/06/2024 : 07:13 :   Study tables recreated
+10/06/2024 : 07:13 :   Object tables recreated
+10/06/2024 : 07:13 :   Harvest event 15791 began
+
+10/06/2024 : 07:13 :   **** PROCESS DATA ****
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2007-001987-55
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2012-000810-12
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2012-005637-36
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2013-000314-38
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2013-000319-26
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2014-000345-70
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2014-001634-28
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2014-002471-28
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2014-003277-42
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2014-003527-22
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2014-005130-55
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2015-000431-32
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2015-000575-27
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2015-001537-24
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2015-002429-20
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2015-002740-13
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2015-002874-19
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2015-004438-93
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2015-004505-16
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2016-000222-19
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2016-001448-21
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2016-001681-28
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2016-001694-32
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2016-002312-41
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2016-002919-18
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2016-003202-14
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2016-003329-40
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2016-003447-11
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2016-005119-42
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2017-000759-20
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2017-001111-36
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2017-001288-18
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2017-001691-39
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2017-001746-10
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2017-003295-31
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2017-003334-82
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2017-003583-12
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2017-003652-22
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2017-004092-31
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2017-004305-40
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2017-004851-22
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2017-005006-35
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-000040-26
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-000340-26
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-000413-20
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-000444-26
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2018-000515-24
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-000539-29
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-001006-28
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2018-001337-41
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2018-001393-16
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-001400-11
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-001423-40
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-001863-21
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2018-002089-37
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2018-002572-41
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2018-003099-10
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-003171-35
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2018-003221-29
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-003351-37
+10/06/2024 : 07:13 :   Records harvested: 100
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-003711-21
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2018-003987-29
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2018-004207-39
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-004362-34
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2018-004459-19
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-004479-11
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-004565-14
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2018-004590-27
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2018-004721-88
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-000333-39
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2019-000602-30
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-001341-40
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-001363-67
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-001832-77
+10/06/2024 : 07:13 :   For info: Study recruitment status given as NA for 2019-001889-15
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-001906-61
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-002089-11
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-002190-66
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2019-002430-36
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-002463-10
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-002549-39
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-002735-28
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-003107-35
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-003117-33
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2019-003152-37
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2019-003153-28
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2019-003301-97
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2019-003596-19
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-003727-38
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2019-003851-12
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-003914-15
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2019-004126-13
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2019-004259-35
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2019-004594-44
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2019-004683-22
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2019-004980-36
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-000119-66
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-000177-25
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-000349-14
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-000417-33
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-000419-56
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-000622-26
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-000637-41
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-001019-26
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-001049-38
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-001175-32
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-001288-99
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-001400-41
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-001819-24
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-001942-20
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-002075-35
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-002090-10
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-002118-42
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-002127-10
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-002372-13
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-002393-27
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-002620-36
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-002667-53
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-002798-92
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-002855-40
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-002931-32
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-003063-26
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-003117-35
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-003359-13
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-003361-19
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-003639-41
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-003652-32
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-003657-30
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-003688-25
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-003726-23
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-003733-38
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-003745-11
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-003973-23
+10/06/2024 : 07:13 :   Records harvested: 200
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-004129-22
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-004179-42
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-004225-22
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-004335-24
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-004360-26
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-004394-49
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-004498-29
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-004506-64
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-004527-16
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-004553-72
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-004686-39
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-004694-46
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-004736-24
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-004775-40
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-004809-31
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-004873-29
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-004883-25
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-004891-16
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-004952-14
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-005011-52
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-005048-46
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-005364-57
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2020-005450-18
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2020-005649-17
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-000007-21
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-000028-36
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-000079-35
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-000168-31
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-000421-27
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-000434-34
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-000546-17
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-000591-10
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-000665-32
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-000857-23
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-001242-35
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-001285-38
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-001309-60
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-001796-17
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-002045-15
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-002071-19
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-002326-24
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-002339-44
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-002460-46
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-002672-40
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-002713-34
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-002871-20
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-002905-89
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-003031-29
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-003063-10
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-003210-39
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-003226-71
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-003254-23
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-003369-37
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-003409-23
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-003771-34
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-004156-42
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-004262-35
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-004265-12
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-004310-19
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-004529-57
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-004530-11
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-004594-32
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-004732-29
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-004919-11
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-005037-16
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-005223-21
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-005607-13
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-005617-14
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-005726-15
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-005742-14
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-005914-33
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-006052-14
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-006386-38
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2021-006511-29
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-006597-23
+10/06/2024 : 07:13 :   Records harvested: 300
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-006861-39
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2021-006881-19
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2022-000223-20
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2022-000801-28
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2022-000909-28
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2022-000956-12
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2022-000996-38
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2022-001144-18
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2022-001262-35
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2022-001363-27
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2022-001672-34
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2022-001771-14
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2022-001796-14
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2022-001809-50
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2022-002222-27
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2022-002253-26
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2022-002378-95
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2022-002482-15
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2022-002489-34
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Authorised-recruitment may be ongoing or finished for 2022-002593-89
+10/06/2024 : 07:13 :   For info: Study recruitment status given as Not Recruiting for 2022-003289-18
+10/06/2024 : 07:13 :   Number of source JSON files: 43581
+10/06/2024 : 07:13 :   Number of files harvested: 327
+10/06/2024 : 07:13 :   Harvest event 15791 ended
+10/06/2024 : 07:13 :   
+10/06/2024 : 07:13 :   TABLE RECORD NUMBERS
+
+10/06/2024 : 07:13 :   **** STUDY TABLES ****
+10/06/2024 : 07:13 :   
+10/06/2024 : 07:13 :   327 records found in sd.studies
+10/06/2024 : 07:13 :   773 records found in sd.study_identifiers, from 327 studies
+10/06/2024 : 07:13 :   815 records found in sd.study_titles, from 327 studies
+10/06/2024 : 07:13 :   735 records found in sd.study_topics, from 324 studies
+10/06/2024 : 07:13 :   1069 records found in sd.study_features, from 327 studies
+10/06/2024 : 07:13 :   825 records found in sd.study_conditions, from 327 studies
+10/06/2024 : 07:13 :   712 records found in sd.study_organisations, from 327 studies
+10/06/2024 : 07:13 :   5013 records found in sd.study_countries, from 327 studies
+10/06/2024 : 07:13 :   540 records found in sd.study_iec_upto12, from 20 studies
+10/06/2024 : 07:13 :   2992 records found in sd.study_iec_13to19, from 106 studies
+10/06/2024 : 07:13 :   6651 records found in sd.study_iec_20on, from 200 studies
+
+10/06/2024 : 07:13 :   **** OBJECT TABLES ****
+10/06/2024 : 07:13 :   
+10/06/2024 : 07:13 :   402 records found in sd.data_objects
+10/06/2024 : 07:13 :   6 records found in sd.object_titles, from 6 objects
+10/06/2024 : 07:13 :   402 records found in sd.object_instances, from 402 objects
+10/06/2024 : 07:13 :   401 records found in sd.object_dates, from 364 objects
+
+10/06/2024 : 07:13 :   **** CLOSING LOG ****
