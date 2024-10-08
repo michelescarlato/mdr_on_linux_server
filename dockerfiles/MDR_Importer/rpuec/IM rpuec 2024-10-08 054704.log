@@ -1,0 +1,106 @@
+﻿
+10/08/2024 : 05:47 :   **** STARTING IMPORTER ****
+
+10/08/2024 : 05:47 :   Source_ids are 100117,100119,100122,100129,109108
+10/08/2024 : 05:47 :   Rebuild AD tables is: False
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   ======================================================================
+10/08/2024 : 05:47 :   For source: 100129: rpuec
+10/08/2024 : 05:47 :   ======================================================================
+10/08/2024 : 05:47 :   
+
+10/08/2024 : 05:47 :   **** SETUP ****
+
+
+10/08/2024 : 05:47 :   **** START IMPORT PROCESS ****
+
+10/08/2024 : 05:47 :   Foreign (mon) tables established in database
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.studies data, as a single batch
+10/08/2024 : 05:47 :   Compaction required for studies, (max id: 2063, actual size: 2934)
+10/08/2024 : 05:47 :   Transferring 2063 records to ad.studies_new from ad.studies, as a single batch
+10/08/2024 : 05:47 :   Compacted sequence for ad.studies, to 2063 rows
+10/08/2024 : 05:47 :   Adding 0 records to ad.studies, as a single batch
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.study_identifiers data, as a single batch
+10/08/2024 : 05:47 :   Compaction required for study_identifiers, (max id: 3781, actual size: 6256)
+10/08/2024 : 05:47 :   Transferring 3781 records to ad.study_identifiers_new from ad.study_identifiers, as a single batch
+10/08/2024 : 05:47 :   Compacted sequence for ad.study_identifiers, to 3781 rows
+10/08/2024 : 05:47 :   Adding 0 records to ad.study_identifiers, as a single batch
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.study_titles data, as a single batch
+10/08/2024 : 05:47 :   Compaction required for study_titles, (max id: 2723, actual size: 3888)
+10/08/2024 : 05:47 :   Transferring 2723 records to ad.study_titles_new from ad.study_titles, as a single batch
+10/08/2024 : 05:47 :   Compacted sequence for ad.study_titles, to 2723 rows
+10/08/2024 : 05:47 :   Adding 0 records to ad.study_titles, as a single batch
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.study_people data, as a single batch
+10/08/2024 : 05:47 :   Compaction required for study_people, (max id: 1837, actual size: 2938)
+10/08/2024 : 05:47 :   Transferring 1837 records to ad.study_people_new from ad.study_people, as a single batch
+10/08/2024 : 05:47 :   Compacted sequence for ad.study_people, to 1837 rows
+10/08/2024 : 05:47 :   Adding 0 records to ad.study_people, as a single batch
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.study_organisations data, as a single batch
+10/08/2024 : 05:47 :   Compaction required for study_organisations, (max id: 2256, actual size: 3954)
+10/08/2024 : 05:47 :   Transferring 2256 records to ad.study_organisations_new from ad.study_organisations, as a single batch
+10/08/2024 : 05:47 :   Compacted sequence for ad.study_organisations, to 2256 rows
+10/08/2024 : 05:47 :   Adding 0 records to ad.study_organisations, as a single batch
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.study_features data, as a single batch
+10/08/2024 : 05:47 :   Compaction required for study_features, (max id: 6169, actual size: 9325)
+10/08/2024 : 05:47 :   Transferring 6169 records to ad.study_features_new from ad.study_features, as a single batch
+10/08/2024 : 05:47 :   Compacted sequence for ad.study_features, to 6169 rows
+10/08/2024 : 05:47 :   Adding 0 records to ad.study_features, as a single batch
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.study_countries data, as a single batch
+10/08/2024 : 05:47 :   Compaction required for study_countries, (max id: 22372, actual size: 35900)
+10/08/2024 : 05:47 :   Transferring 22372 records to ad.study_countries_new from ad.study_countries, as a single batch
+10/08/2024 : 05:47 :   Compacted sequence for ad.study_countries, to 22372 rows
+10/08/2024 : 05:47 :   Adding 0 records to ad.study_countries, as a single batch
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.study_conditions data, as a single batch
+10/08/2024 : 05:47 :   Compaction required for study_conditions, (max id: 3559, actual size: 5272)
+10/08/2024 : 05:47 :   Transferring 3559 records to ad.study_conditions_new from ad.study_conditions, as a single batch
+10/08/2024 : 05:47 :   Compacted sequence for ad.study_conditions, to 3559 rows
+10/08/2024 : 05:47 :   Adding 0 records to ad.study_conditions, as a single batch
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.study_iec data, as a single batch
+10/08/2024 : 05:47 :   Compaction required for study_iec, (max id: 44437, actual size: 66915)
+10/08/2024 : 05:47 :   Transferring 44437 records to ad.study_iec_new from ad.study_iec, as a single batch
+10/08/2024 : 05:47 :   Compacted sequence for ad.study_iec, to 44437 rows
+10/08/2024 : 05:47 :   Adding 0 records to ad.study_iec, as a single batch
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.data_objects data, as a single batch
+10/08/2024 : 05:47 :   Compaction required for data_objects, (max id: 2100, actual size: 3302)
+10/08/2024 : 05:47 :   Transferring 2100 records to ad.data_objects_new from ad.data_objects, as a single batch
+10/08/2024 : 05:47 :   Compacted sequence for ad.data_objects, to 2100 rows
+10/08/2024 : 05:47 :   Adding 0 records to ad.data_objects, as a single batch
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.object_titles data, as a single batch
+10/08/2024 : 05:47 :   Id sequence for ad.object_titles reset to 1
+10/08/2024 : 05:47 :   Adding 0 records to ad.object_titles, as a single batch
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.object_instances data, as a single batch
+10/08/2024 : 05:47 :   Compaction required for object_instances, (max id: 2100, actual size: 3302)
+10/08/2024 : 05:47 :   Transferring 2100 records to ad.object_instances_new from ad.object_instances, as a single batch
+10/08/2024 : 05:47 :   Compacted sequence for ad.object_instances, to 2100 rows
+10/08/2024 : 05:47 :   Adding 0 records to ad.object_instances, as a single batch
+10/08/2024 : 05:47 :   
+10/08/2024 : 05:47 :   Deleting 0 records of ad.object_dates data, as a single batch
+10/08/2024 : 05:47 :   Compaction required for object_dates, (max id: 4132, actual size: 5898)
+10/08/2024 : 05:47 :   Transferring 4132 records to ad.object_dates_new from ad.object_dates, as a single batch
+10/08/2024 : 05:47 :   Compacted sequence for ad.object_dates, to 4132 rows
+10/08/2024 : 05:47 :   Adding 0 records to ad.object_dates, as a single batch
+
+10/08/2024 : 05:47 :   **** NEW DATA ADDED TO AD TABLES ****
+
+
+10/08/2024 : 05:47 :   **** TIDY UP AND FINISH ****
+
+10/08/2024 : 05:47 :   Updating monitor records with import date / time,  0 records, as a single query
+10/08/2024 : 05:47 :   Foreign (mon) tables removed from database
+
+10/08/2024 : 05:47 :   **** CLOSING LOG ****
+
