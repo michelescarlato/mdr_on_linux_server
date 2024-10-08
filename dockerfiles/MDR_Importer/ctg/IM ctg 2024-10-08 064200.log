@@ -1,0 +1,803 @@
+﻿
+10/08/2024 : 06:42 :   **** STARTING IMPORTER ****
+
+10/08/2024 : 06:42 :   Source_id is 100120
+10/08/2024 : 06:42 :   Rebuild AD tables is: False
+10/08/2024 : 06:42 :   
+10/08/2024 : 06:42 :   
+10/08/2024 : 06:42 :   ======================================================================
+10/08/2024 : 06:42 :   For source: 100120: ctg
+10/08/2024 : 06:42 :   ======================================================================
+10/08/2024 : 06:42 :   
+
+10/08/2024 : 06:42 :   **** SETUP ****
+
+
+10/08/2024 : 06:42 :   **** START IMPORT PROCESS ****
+
+10/08/2024 : 06:42 :   Foreign (mon) tables established in database
+10/08/2024 : 06:42 :   
+10/08/2024 : 06:42 :   
+10/08/2024 : 06:42 :   Deleting 21724 records of ad.studies data, in ids 1 to 200000
+10/08/2024 : 06:42 :   Deleting 130470 records of ad.studies data, in ids 200001 to 400000
+10/08/2024 : 06:42 :   Deleting 108048 records of ad.studies data, in ids 400001 to 513661
+10/08/2024 : 06:42 :   Deleted 260242 records in total
+10/08/2024 : 06:42 :   Compaction required for studies, (max id: 247454, actual size: 513083)
+10/08/2024 : 06:42 :   Transferring 178235 records to ad.studies_new from ad.studies, ids 0 to 199999
+10/08/2024 : 06:42 :   Transferring 69197 records to ad.studies_new from ad.studies, ids 200000 to 399999
+10/08/2024 : 06:42 :   Transferring 22 records to ad.studies_new from ad.studies, ids 400000 to 513083
+10/08/2024 : 06:42 :   Compacted sequence for ad.studies, to 247454 rows
+10/08/2024 : 06:42 :   Adding 100000 records to ad.studies, sd ids 1 to 100000
+10/08/2024 : 06:42 :   Adding 100000 records to ad.studies, sd ids 100001 to 200000
+10/08/2024 : 06:42 :   Adding 63356 records to ad.studies, sd ids 200001 to 263356
+10/08/2024 : 06:42 :   Added 263356 records in total
+10/08/2024 : 06:42 :   
+10/08/2024 : 06:42 :   Deleting 15033 records of ad.study_identifiers data, in ids 1 to 200000
+10/08/2024 : 06:42 :   Deleting 22884 records of ad.study_identifiers data, in ids 200001 to 400000
+10/08/2024 : 06:42 :   Deleting 52699 records of ad.study_identifiers data, in ids 400001 to 600000
+10/08/2024 : 06:42 :   Deleting 131854 records of ad.study_identifiers data, in ids 600001 to 800000
+10/08/2024 : 06:42 :   Deleting 194199 records of ad.study_identifiers data, in ids 800001 to 1000000
+10/08/2024 : 06:42 :   Deleting 146187 records of ad.study_identifiers data, in ids 1000001 to 1200000
+10/08/2024 : 06:42 :   Deleting 21689 records of ad.study_identifiers data, in ids 1200001 to 1233134
+10/08/2024 : 06:42 :   Deleted 584545 records in total
+10/08/2024 : 06:42 :   Compaction required for study_identifiers, (max id: 574571, actual size: 1231904)
+10/08/2024 : 06:42 :   Transferring 184566 records to ad.study_identifiers_new from ad.study_identifiers, ids 0 to 199999
+10/08/2024 : 06:42 :   Transferring 176873 records to ad.study_identifiers_new from ad.study_identifiers, ids 200000 to 399999
+10/08/2024 : 06:42 :   Transferring 146575 records to ad.study_identifiers_new from ad.study_identifiers, ids 400000 to 599999
+10/08/2024 : 06:42 :   Transferring 66448 records to ad.study_identifiers_new from ad.study_identifiers, ids 600000 to 799999
+10/08/2024 : 06:42 :   Transferring 73 records to ad.study_identifiers_new from ad.study_identifiers, ids 800000 to 999999
+10/08/2024 : 06:42 :   Transferring 34 records to ad.study_identifiers_new from ad.study_identifiers, ids 1000000 to 1199999
+10/08/2024 : 06:42 :   Transferring 2 records to ad.study_identifiers_new from ad.study_identifiers, ids 1200000 to 1231904
+10/08/2024 : 06:42 :   Compacted sequence for ad.study_identifiers, to 574571 rows
+10/08/2024 : 06:42 :   Adding 250000 records to ad.study_identifiers, sd ids 1 to 250000
+10/08/2024 : 06:42 :   Adding 250000 records to ad.study_identifiers, sd ids 250001 to 500000
+10/08/2024 : 06:42 :   Adding 91426 records to ad.study_identifiers, sd ids 500001 to 591426
+10/08/2024 : 06:42 :   Added 591426 records in total
+10/08/2024 : 06:42 :   
+10/08/2024 : 06:42 :   Deleting 15013 records of ad.study_titles data, in ids 1 to 200000
+10/08/2024 : 06:42 :   Deleting 30065 records of ad.study_titles data, in ids 200001 to 400000
+10/08/2024 : 06:42 :   Deleting 76670 records of ad.study_titles data, in ids 400001 to 600000
+10/08/2024 : 06:42 :   Deleting 181990 records of ad.study_titles data, in ids 600001 to 800000
+10/08/2024 : 06:42 :   Deleting 198099 records of ad.study_titles data, in ids 800001 to 1000000
+10/08/2024 : 06:42 :   Deleting 43220 records of ad.study_titles data, in ids 1000001 to 1053312
+10/08/2024 : 06:42 :   Deleted 545057 records in total
+10/08/2024 : 06:42 :   Compaction required for study_titles, (max id: 495590, actual size: 1052100)
+10/08/2024 : 06:42 :   Transferring 184956 records to ad.study_titles_new from ad.study_titles, ids 0 to 199999
+10/08/2024 : 06:42 :   Transferring 169875 records to ad.study_titles_new from ad.study_titles, ids 200000 to 399999
+10/08/2024 : 06:42 :   Transferring 123114 records to ad.study_titles_new from ad.study_titles, ids 400000 to 599999
+10/08/2024 : 06:42 :   Transferring 17596 records to ad.study_titles_new from ad.study_titles, ids 600000 to 799999
+10/08/2024 : 06:42 :   Transferring 47 records to ad.study_titles_new from ad.study_titles, ids 800000 to 999999
+10/08/2024 : 06:42 :   Transferring 2 records to ad.study_titles_new from ad.study_titles, ids 1000000 to 1052100
+10/08/2024 : 06:42 :   Compacted sequence for ad.study_titles, to 495590 rows
+10/08/2024 : 06:43 :   Adding 250000 records to ad.study_titles, sd ids 1 to 250000
+10/08/2024 : 06:43 :   Adding 250000 records to ad.study_titles, sd ids 250001 to 500000
+10/08/2024 : 06:43 :   Adding 51612 records to ad.study_titles, sd ids 500001 to 551612
+10/08/2024 : 06:43 :   Added 551612 records in total
+10/08/2024 : 06:43 :   
+10/08/2024 : 06:43 :   Deleting 53001 records of ad.study_references data, in ids 1 to 200000
+10/08/2024 : 06:43 :   Deleting 57037 records of ad.study_references data, in ids 200001 to 274288
+10/08/2024 : 06:43 :   Deleted 110038 records in total
+10/08/2024 : 06:43 :   Compaction required for study_references, (max id: 145756, actual size: 218985)
+10/08/2024 : 06:43 :   Transferring 145756 records to ad.study_references_new from ad.study_references, as a single batch
+10/08/2024 : 06:43 :   Compacted sequence for ad.study_references, to 145756 rows
+10/08/2024 : 06:43 :   Adding 110245 records to ad.study_references, as a single batch
+10/08/2024 : 06:43 :   
+10/08/2024 : 06:43 :   Deleting 20180 records of ad.study_people data, in ids 1 to 200000
+10/08/2024 : 06:43 :   Deleting 89715 records of ad.study_people data, in ids 200001 to 400000
+10/08/2024 : 06:43 :   Deleting 182427 records of ad.study_people data, in ids 400001 to 588074
+10/08/2024 : 06:43 :   Deleted 292322 records in total
+10/08/2024 : 06:43 :   Compaction required for study_people, (max id: 289901, actual size: 587539)
+10/08/2024 : 06:43 :   Transferring 179792 records to ad.study_people_new from ad.study_people, ids 0 to 199999
+10/08/2024 : 06:43 :   Transferring 110066 records to ad.study_people_new from ad.study_people, ids 200000 to 399999
+10/08/2024 : 06:43 :   Transferring 43 records to ad.study_people_new from ad.study_people, ids 400000 to 587539
+10/08/2024 : 06:43 :   Compacted sequence for ad.study_people, to 289901 rows
+10/08/2024 : 06:43 :   Adding 250000 records to ad.study_people, sd ids 1 to 250000
+10/08/2024 : 06:43 :   Adding 45839 records to ad.study_people, sd ids 250001 to 295839
+10/08/2024 : 06:43 :   Added 295839 records in total
+10/08/2024 : 06:43 :   
+10/08/2024 : 06:43 :   Deleting 17138 records of ad.study_organisations data, in ids 1 to 200000
+10/08/2024 : 06:43 :   Deleting 49805 records of ad.study_organisations data, in ids 200001 to 400000
+10/08/2024 : 06:43 :   Deleting 155675 records of ad.study_organisations data, in ids 400001 to 600000
+10/08/2024 : 06:43 :   Deleting 199952 records of ad.study_organisations data, in ids 600001 to 800000
+10/08/2024 : 06:43 :   Deleting 7163 records of ad.study_organisations data, in ids 800001 to 807165
+10/08/2024 : 06:43 :   Deleted 429733 records in total
+10/08/2024 : 06:43 :   Compaction required for study_organisations, (max id: 377432, actual size: 806368)
+10/08/2024 : 06:43 :   Transferring 182862 records to ad.study_organisations_new from ad.study_organisations, ids 0 to 199999
+10/08/2024 : 06:43 :   Transferring 150195 records to ad.study_organisations_new from ad.study_organisations, ids 200000 to 399999
+10/08/2024 : 06:43 :   Transferring 44325 records to ad.study_organisations_new from ad.study_organisations, ids 400000 to 599999
+10/08/2024 : 06:43 :   Transferring 48 records to ad.study_organisations_new from ad.study_organisations, ids 600000 to 799999
+10/08/2024 : 06:43 :   Transferring 2 records to ad.study_organisations_new from ad.study_organisations, ids 800000 to 806368
+10/08/2024 : 06:43 :   Compacted sequence for ad.study_organisations, to 377432 rows
+10/08/2024 : 06:43 :   Adding 250000 records to ad.study_organisations, sd ids 1 to 250000
+10/08/2024 : 06:43 :   Adding 184583 records to ad.study_organisations, sd ids 250001 to 434583
+10/08/2024 : 06:43 :   Added 434583 records in total
+10/08/2024 : 06:43 :   
+10/08/2024 : 06:43 :   Deleting 15510 records of ad.study_topics data, in ids 1 to 200000
+10/08/2024 : 06:43 :   Deleting 17678 records of ad.study_topics data, in ids 200001 to 400000
+10/08/2024 : 06:43 :   Deleting 29622 records of ad.study_topics data, in ids 400001 to 600000
+10/08/2024 : 06:43 :   Deleting 68260 records of ad.study_topics data, in ids 600001 to 800000
+10/08/2024 : 06:43 :   Deleting 162309 records of ad.study_topics data, in ids 800001 to 1000000
+10/08/2024 : 06:43 :   Deleting 198674 records of ad.study_topics data, in ids 1000001 to 1200000
+10/08/2024 : 06:43 :   Deleting 119012 records of ad.study_topics data, in ids 1200001 to 1336104
+10/08/2024 : 06:43 :   Deleted 611065 records in total
+10/08/2024 : 06:43 :   Compaction required for study_topics, (max id: 706095, actual size: 1248040)
+10/08/2024 : 06:43 :   Transferring 184471 records to ad.study_topics_new from ad.study_topics, ids 0 to 199999
+10/08/2024 : 06:43 :   Transferring 182281 records to ad.study_topics_new from ad.study_topics, ids 200000 to 399999
+10/08/2024 : 06:43 :   Transferring 170334 records to ad.study_topics_new from ad.study_topics, ids 400000 to 599999
+10/08/2024 : 06:43 :   Transferring 131532 records to ad.study_topics_new from ad.study_topics, ids 600000 to 799999
+10/08/2024 : 06:43 :   Transferring 37393 records to ad.study_topics_new from ad.study_topics, ids 800000 to 999999
+10/08/2024 : 06:43 :   Transferring 76 records to ad.study_topics_new from ad.study_topics, ids 1000000 to 1199999
+10/08/2024 : 06:43 :   Transferring 8 records to ad.study_topics_new from ad.study_topics, ids 1200000 to 1248040
+10/08/2024 : 06:43 :   Compacted sequence for ad.study_topics, to 706095 rows
+10/08/2024 : 06:43 :   Adding 250000 records to ad.study_topics, sd ids 1 to 250000
+10/08/2024 : 06:43 :   Adding 250000 records to ad.study_topics, sd ids 250001 to 500000
+10/08/2024 : 06:43 :   Adding 151022 records to ad.study_topics, sd ids 500001 to 651022
+10/08/2024 : 06:43 :   Added 651022 records in total
+10/08/2024 : 06:43 :   
+10/08/2024 : 06:43 :   Deleting 13545 records of ad.study_features data, in ids 1 to 200000
+10/08/2024 : 06:43 :   Deleting 16217 records of ad.study_features data, in ids 200001 to 400000
+10/08/2024 : 06:43 :   Deleting 21574 records of ad.study_features data, in ids 400001 to 600000
+10/08/2024 : 06:43 :   Deleting 31024 records of ad.study_features data, in ids 600001 to 800000
+10/08/2024 : 06:43 :   Deleting 51201 records of ad.study_features data, in ids 800001 to 1000000
+10/08/2024 : 06:43 :   Deleting 77560 records of ad.study_features data, in ids 1000001 to 1200000
+10/08/2024 : 06:43 :   Deleting 123543 records of ad.study_features data, in ids 1200001 to 1400000
+10/08/2024 : 06:43 :   Deleting 199604 records of ad.study_features data, in ids 1400001 to 1600000
+10/08/2024 : 06:43 :   Deleting 198990 records of ad.study_features data, in ids 1600001 to 1800000
+10/08/2024 : 06:43 :   Deleting 198583 records of ad.study_features data, in ids 1800001 to 2000000
+10/08/2024 : 06:43 :   Deleting 176785 records of ad.study_features data, in ids 2000001 to 2200000
+10/08/2024 : 06:43 :   Deleting 17826 records of ad.study_features data, in ids 2200001 to 2217828
+10/08/2024 : 06:43 :   Deleted 1126452 records in total
+10/08/2024 : 06:43 :   Compaction required for study_features, (max id: 1064758, actual size: 2215393)
+10/08/2024 : 06:43 :   Transferring 186431 records to ad.study_features_new from ad.study_features, ids 0 to 199999
+10/08/2024 : 06:43 :   Transferring 183760 records to ad.study_features_new from ad.study_features, ids 200000 to 399999
+10/08/2024 : 06:43 :   Transferring 178400 records to ad.study_features_new from ad.study_features, ids 400000 to 599999
+10/08/2024 : 06:44 :   Transferring 168908 records to ad.study_features_new from ad.study_features, ids 600000 to 799999
+10/08/2024 : 06:44 :   Transferring 148709 records to ad.study_features_new from ad.study_features, ids 800000 to 999999
+10/08/2024 : 06:44 :   Transferring 122162 records to ad.study_features_new from ad.study_features, ids 1000000 to 1199999
+10/08/2024 : 06:44 :   Transferring 76155 records to ad.study_features_new from ad.study_features, ids 1200000 to 1399999
+10/08/2024 : 06:44 :   Transferring 46 records to ad.study_features_new from ad.study_features, ids 1400000 to 1599999
+10/08/2024 : 06:44 :   Transferring 121 records to ad.study_features_new from ad.study_features, ids 1600000 to 1799999
+10/08/2024 : 06:44 :   Transferring 39 records to ad.study_features_new from ad.study_features, ids 1800000 to 1999999
+10/08/2024 : 06:44 :   Transferring 25 records to ad.study_features_new from ad.study_features, ids 2000000 to 2199999
+10/08/2024 : 06:44 :   Transferring 2 records to ad.study_features_new from ad.study_features, ids 2200000 to 2215393
+10/08/2024 : 06:44 :   Compacted sequence for ad.study_features, to 1064758 rows
+10/08/2024 : 06:44 :   Adding 250000 records to ad.study_features, sd ids 1 to 250000
+10/08/2024 : 06:44 :   Adding 250000 records to ad.study_features, sd ids 250001 to 500000
+10/08/2024 : 06:44 :   Adding 250000 records to ad.study_features, sd ids 500001 to 750000
+10/08/2024 : 06:44 :   Adding 250000 records to ad.study_features, sd ids 750001 to 1000000
+10/08/2024 : 06:44 :   Adding 139737 records to ad.study_features, sd ids 1000001 to 1139737
+10/08/2024 : 06:44 :   Added 1139737 records in total
+10/08/2024 : 06:44 :   
+10/08/2024 : 06:44 :   Deleting 2650 records of ad.study_relationships data, as a single batch
+10/08/2024 : 06:44 :   Compaction required for study_relationships, (max id: 603, actual size: 3474)
+10/08/2024 : 06:44 :   Transferring 603 records to ad.study_relationships_new from ad.study_relationships, as a single batch
+10/08/2024 : 06:44 :   Compacted sequence for ad.study_relationships, to 603 rows
+10/08/2024 : 06:44 :   Adding 1224 records to ad.study_relationships, as a single batch
+10/08/2024 : 06:44 :   
+10/08/2024 : 06:44 :   Deleting 33339 records of ad.study_links data, as a single batch
+10/08/2024 : 06:44 :   Compaction required for study_links, (max id: 27112, actual size: 53098)
+10/08/2024 : 06:44 :   Transferring 27112 records to ad.study_links_new from ad.study_links, as a single batch
+10/08/2024 : 06:44 :   Compacted sequence for ad.study_links, to 27112 rows
+10/08/2024 : 06:44 :   Adding 33712 records to ad.study_links, as a single batch
+10/08/2024 : 06:44 :   
+10/08/2024 : 06:44 :   Deleting 20862 records of ad.study_countries data, in ids 1 to 200000
+10/08/2024 : 06:44 :   Deleting 76579 records of ad.study_countries data, in ids 200001 to 400000
+10/08/2024 : 06:44 :   Deleting 193401 records of ad.study_countries data, in ids 400001 to 600000
+10/08/2024 : 06:44 :   Deleting 65506 records of ad.study_countries data, in ids 600001 to 679426
+10/08/2024 : 06:44 :   Deleted 356348 records in total
+10/08/2024 : 06:44 :   Compaction required for study_countries, (max id: 307399, actual size: 679073)
+10/08/2024 : 06:44 :   Transferring 179104 records to ad.study_countries_new from ad.study_countries, ids 0 to 199999
+10/08/2024 : 06:44 :   Transferring 123259 records to ad.study_countries_new from ad.study_countries, ids 200000 to 399999
+10/08/2024 : 06:44 :   Transferring 5034 records to ad.study_countries_new from ad.study_countries, ids 400000 to 599999
+10/08/2024 : 06:44 :   Transferring 2 records to ad.study_countries_new from ad.study_countries, ids 600000 to 679073
+10/08/2024 : 06:44 :   Compacted sequence for ad.study_countries, to 307399 rows
+10/08/2024 : 06:44 :   Adding 250000 records to ad.study_countries, sd ids 1 to 250000
+10/08/2024 : 06:44 :   Adding 110012 records to ad.study_countries, sd ids 250001 to 360012
+10/08/2024 : 06:44 :   Added 360012 records in total
+10/08/2024 : 06:44 :   
+10/08/2024 : 06:44 :   Deleting 31147 records of ad.study_locations data, in ids 1 to 200000
+10/08/2024 : 06:44 :   Deleting 21156 records of ad.study_locations data, in ids 200001 to 400000
+10/08/2024 : 06:44 :   Deleting 23483 records of ad.study_locations data, in ids 400001 to 600000
+10/08/2024 : 06:44 :   Deleting 27226 records of ad.study_locations data, in ids 600001 to 800000
+10/08/2024 : 06:44 :   Deleting 33111 records of ad.study_locations data, in ids 800001 to 1000000
+10/08/2024 : 06:44 :   Deleting 42757 records of ad.study_locations data, in ids 1000001 to 1200000
+10/08/2024 : 06:44 :   Deleting 50921 records of ad.study_locations data, in ids 1200001 to 1400000
+10/08/2024 : 06:44 :   Deleting 84726 records of ad.study_locations data, in ids 1400001 to 1600000
+10/08/2024 : 06:44 :   Deleting 126608 records of ad.study_locations data, in ids 1600001 to 1800000
+10/08/2024 : 06:44 :   Deleting 161375 records of ad.study_locations data, in ids 1800001 to 2000000
+10/08/2024 : 06:44 :   Deleting 198276 records of ad.study_locations data, in ids 2000001 to 2200000
+10/08/2024 : 06:44 :   Deleting 198304 records of ad.study_locations data, in ids 2200001 to 2400000
+10/08/2024 : 06:44 :   Deleting 193726 records of ad.study_locations data, in ids 2400001 to 2600000
+10/08/2024 : 06:44 :   Deleting 184843 records of ad.study_locations data, in ids 2600001 to 2800000
+10/08/2024 : 06:44 :   Deleting 174479 records of ad.study_locations data, in ids 2800001 to 3000000
+10/08/2024 : 06:44 :   Deleting 118265 records of ad.study_locations data, in ids 3000001 to 3200000
+10/08/2024 : 06:44 :   Deleting 36780 records of ad.study_locations data, in ids 3200001 to 3236781
+10/08/2024 : 06:44 :   Deleted 1707183 records in total
+10/08/2024 : 06:44 :   Compaction required for study_locations, (max id: 1397015, actual size: 3236105)
+10/08/2024 : 06:44 :   Transferring 168807 records to ad.study_locations_new from ad.study_locations, ids 0 to 199999
+10/08/2024 : 06:44 :   Transferring 178844 records to ad.study_locations_new from ad.study_locations, ids 200000 to 399999
+10/08/2024 : 06:44 :   Transferring 176513 records to ad.study_locations_new from ad.study_locations, ids 400000 to 599999
+10/08/2024 : 06:44 :   Transferring 172773 records to ad.study_locations_new from ad.study_locations, ids 600000 to 799999
+10/08/2024 : 06:44 :   Transferring 166794 records to ad.study_locations_new from ad.study_locations, ids 800000 to 999999
+10/08/2024 : 06:44 :   Transferring 157227 records to ad.study_locations_new from ad.study_locations, ids 1000000 to 1199999
+10/08/2024 : 06:44 :   Transferring 149049 records to ad.study_locations_new from ad.study_locations, ids 1200000 to 1399999
+10/08/2024 : 06:44 :   Transferring 115249 records to ad.study_locations_new from ad.study_locations, ids 1400000 to 1599999
+10/08/2024 : 06:44 :   Transferring 73013 records to ad.study_locations_new from ad.study_locations, ids 1600000 to 1799999
+10/08/2024 : 06:44 :   Transferring 38413 records to ad.study_locations_new from ad.study_locations, ids 1800000 to 1999999
+10/08/2024 : 06:44 :   Transferring 61 records to ad.study_locations_new from ad.study_locations, ids 2000000 to 2199999
+10/08/2024 : 06:44 :   Transferring 95 records to ad.study_locations_new from ad.study_locations, ids 2200000 to 2399999
+10/08/2024 : 06:44 :   Transferring 174 records to ad.study_locations_new from ad.study_locations, ids 2400000 to 2599999
+10/08/2024 : 06:44 :   Transferring 2 records to ad.study_locations_new from ad.study_locations, ids 2600000 to 2799999
+10/08/2024 : 06:44 :   Transferring 0 records to ad.study_locations_new from ad.study_locations, ids 2800000 to 2999999
+10/08/2024 : 06:44 :   Transferring 0 records to ad.study_locations_new from ad.study_locations, ids 3000000 to 3199999
+10/08/2024 : 06:44 :   Transferring 1 records to ad.study_locations_new from ad.study_locations, ids 3200000 to 3236105
+10/08/2024 : 06:44 :   Compacted sequence for ad.study_locations, to 1397015 rows
+10/08/2024 : 06:45 :   Adding 250000 records to ad.study_locations, sd ids 1 to 250000
+10/08/2024 : 06:45 :   Adding 250000 records to ad.study_locations, sd ids 250001 to 500000
+10/08/2024 : 06:45 :   Adding 250000 records to ad.study_locations, sd ids 500001 to 750000
+10/08/2024 : 06:45 :   Adding 250000 records to ad.study_locations, sd ids 750001 to 1000000
+10/08/2024 : 06:45 :   Adding 250000 records to ad.study_locations, sd ids 1000001 to 1250000
+10/08/2024 : 06:45 :   Adding 250000 records to ad.study_locations, sd ids 1250001 to 1500000
+10/08/2024 : 06:45 :   Adding 220178 records to ad.study_locations, sd ids 1500001 to 1720178
+10/08/2024 : 06:45 :   Added 1720178 records in total
+10/08/2024 : 06:45 :   
+10/08/2024 : 06:45 :   Deleting 14902 records of ad.study_conditions data, in ids 1 to 200000
+10/08/2024 : 06:45 :   Deleting 22820 records of ad.study_conditions data, in ids 200001 to 400000
+10/08/2024 : 06:45 :   Deleting 44997 records of ad.study_conditions data, in ids 400001 to 600000
+10/08/2024 : 06:45 :   Deleting 88065 records of ad.study_conditions data, in ids 600001 to 800000
+10/08/2024 : 06:45 :   Deleting 173390 records of ad.study_conditions data, in ids 800001 to 1000000
+10/08/2024 : 06:45 :   Deleting 164460 records of ad.study_conditions data, in ids 1000001 to 1200000
+10/08/2024 : 06:45 :   Deleting 199960 records of ad.study_conditions data, in ids 1200001 to 1400000
+10/08/2024 : 06:45 :   Deleting 140261 records of ad.study_conditions data, in ids 1400001 to 1600000
+10/08/2024 : 06:45 :   Deleting 178415 records of ad.study_conditions data, in ids 1600001 to 1800000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 1800001 to 2000000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 2000001 to 2200000
+10/08/2024 : 06:45 :   Deleting 150891 records of ad.study_conditions data, in ids 2200001 to 2400000
+10/08/2024 : 06:45 :   Deleting 171869 records of ad.study_conditions data, in ids 2400001 to 2600000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 2600001 to 2800000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 2800001 to 3000000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 3000001 to 3200000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 3200001 to 3400000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 3400001 to 3600000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 3600001 to 3800000
+10/08/2024 : 06:45 :   Deleting 192623 records of ad.study_conditions data, in ids 3800001 to 4000000
+10/08/2024 : 06:45 :   Deleting 73612 records of ad.study_conditions data, in ids 4000001 to 4200000
+10/08/2024 : 06:45 :   Deleting 270 records of ad.study_conditions data, in ids 4200001 to 4400000
+10/08/2024 : 06:45 :   Deleting 173695 records of ad.study_conditions data, in ids 4400001 to 4600000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 4600001 to 4800000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 4800001 to 5000000
+10/08/2024 : 06:45 :   Deleting 127500 records of ad.study_conditions data, in ids 5000001 to 5200000
+10/08/2024 : 06:45 :   Deleting 32358 records of ad.study_conditions data, in ids 5200001 to 5400000
+10/08/2024 : 06:45 :   Deleting 0 records of ad.study_conditions data, in ids 5400001 to 5600000
+10/08/2024 : 06:45 :   Deleting 0 records of ad.study_conditions data, in ids 5600001 to 5800000
+10/08/2024 : 06:45 :   Deleting 0 records of ad.study_conditions data, in ids 5800001 to 6000000
+10/08/2024 : 06:45 :   Deleting 0 records of ad.study_conditions data, in ids 6000001 to 6200000
+10/08/2024 : 06:45 :   Deleting 0 records of ad.study_conditions data, in ids 6200001 to 6400000
+10/08/2024 : 06:45 :   Deleting 0 records of ad.study_conditions data, in ids 6400001 to 6600000
+10/08/2024 : 06:45 :   Deleting 0 records of ad.study_conditions data, in ids 6600001 to 6800000
+10/08/2024 : 06:45 :   Deleting 9463 records of ad.study_conditions data, in ids 6800001 to 7000000
+10/08/2024 : 06:45 :   Deleting 193952 records of ad.study_conditions data, in ids 7000001 to 7200000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 7200001 to 7400000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 7400001 to 7600000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 7600001 to 7800000
+10/08/2024 : 06:45 :   Deleting 200000 records of ad.study_conditions data, in ids 7800001 to 8000000
+10/08/2024 : 06:45 :   Deleting 63414 records of ad.study_conditions data, in ids 8000001 to 8200000
+10/08/2024 : 06:45 :   Deleting 26703 records of ad.study_conditions data, in ids 8200001 to 8400000
+10/08/2024 : 06:45 :   Deleting 0 records of ad.study_conditions data, in ids 8400001 to 8600000
+10/08/2024 : 06:45 :   Deleting 91082 records of ad.study_conditions data, in ids 8600001 to 8800000
+10/08/2024 : 06:45 :   Deleting 74425 records of ad.study_conditions data, in ids 8800001 to 9000000
+10/08/2024 : 06:45 :   Deleting 0 records of ad.study_conditions data, in ids 9000001 to 9200000
+10/08/2024 : 06:45 :   Deleting 0 records of ad.study_conditions data, in ids 9200001 to 9400000
+10/08/2024 : 06:45 :   Deleting 136896 records of ad.study_conditions data, in ids 9400001 to 9600000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 9600001 to 9800000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 9800001 to 10000000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 10000001 to 10200000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 10200001 to 10400000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 10400001 to 10600000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 10600001 to 10800000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 10800001 to 11000000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 11000001 to 11200000
+10/08/2024 : 06:46 :   Deleting 139226 records of ad.study_conditions data, in ids 11200001 to 11400000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 11400001 to 11600000
+10/08/2024 : 06:46 :   Deleting 20186 records of ad.study_conditions data, in ids 11600001 to 11800000
+10/08/2024 : 06:46 :   Deleting 84861 records of ad.study_conditions data, in ids 11800001 to 12000000
+10/08/2024 : 06:46 :   Deleting 3 records of ad.study_conditions data, in ids 12000001 to 12200000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 12200001 to 12400000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 12400001 to 12600000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 12600001 to 12800000
+10/08/2024 : 06:46 :   Deleting 194307 records of ad.study_conditions data, in ids 12800001 to 13000000
+10/08/2024 : 06:46 :   Deleting 199976 records of ad.study_conditions data, in ids 13000001 to 13200000
+10/08/2024 : 06:46 :   Deleting 29995 records of ad.study_conditions data, in ids 13200001 to 13400000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 13400001 to 13600000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 13600001 to 13800000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 13800001 to 14000000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 14000001 to 14200000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 14200001 to 14400000
+10/08/2024 : 06:46 :   Deleting 8064 records of ad.study_conditions data, in ids 14400001 to 14600000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 14600001 to 14800000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 14800001 to 15000000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 15000001 to 15200000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 15200001 to 15400000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 15400001 to 15600000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 15600001 to 15800000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 15800001 to 16000000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 16000001 to 16200000
+10/08/2024 : 06:46 :   Deleting 512 records of ad.study_conditions data, in ids 16200001 to 16400000
+10/08/2024 : 06:46 :   Deleting 143996 records of ad.study_conditions data, in ids 16400001 to 16600000
+10/08/2024 : 06:46 :   Deleting 177926 records of ad.study_conditions data, in ids 16600001 to 16800000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 16800001 to 17000000
+10/08/2024 : 06:46 :   Deleting 166638 records of ad.study_conditions data, in ids 17000001 to 17200000
+10/08/2024 : 06:46 :   Deleting 39394 records of ad.study_conditions data, in ids 17200001 to 17400000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 17400001 to 17600000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 17600001 to 17800000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 17800001 to 18000000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 18000001 to 18200000
+10/08/2024 : 06:46 :   Deleting 0 records of ad.study_conditions data, in ids 18200001 to 18400000
+10/08/2024 : 06:46 :   Deleting 702 records of ad.study_conditions data, in ids 18400001 to 18600000
+10/08/2024 : 06:46 :   Deleting 134892 records of ad.study_conditions data, in ids 18600001 to 18800000
+10/08/2024 : 06:46 :   Deleting 89347 records of ad.study_conditions data, in ids 18800001 to 19000000
+10/08/2024 : 06:46 :   Deleting 173904 records of ad.study_conditions data, in ids 19000001 to 19200000
+10/08/2024 : 06:46 :   Deleting 180119 records of ad.study_conditions data, in ids 19200001 to 19400000
+10/08/2024 : 06:46 :   Deleting 199856 records of ad.study_conditions data, in ids 19400001 to 19600000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 19600001 to 19800000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 19800001 to 20000000
+10/08/2024 : 06:46 :   Deleting 177366 records of ad.study_conditions data, in ids 20000001 to 20200000
+10/08/2024 : 06:46 :   Deleting 199978 records of ad.study_conditions data, in ids 20200001 to 20400000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 20400001 to 20600000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 20600001 to 20800000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 20800001 to 21000000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 21000001 to 21200000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 21200001 to 21400000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 21400001 to 21600000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 21600001 to 21800000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 21800001 to 22000000
+10/08/2024 : 06:46 :   Deleting 192320 records of ad.study_conditions data, in ids 22000001 to 22200000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 22200001 to 22400000
+10/08/2024 : 06:46 :   Deleting 200000 records of ad.study_conditions data, in ids 22400001 to 22600000
+10/08/2024 : 06:47 :   Deleting 199972 records of ad.study_conditions data, in ids 22600001 to 22800000
+10/08/2024 : 06:47 :   Deleting 79863 records of ad.study_conditions data, in ids 22800001 to 23000000
+10/08/2024 : 06:47 :   Deleting 178920 records of ad.study_conditions data, in ids 23000001 to 23200000
+10/08/2024 : 06:47 :   Deleting 15 records of ad.study_conditions data, in ids 23200001 to 23400000
+10/08/2024 : 06:47 :   Deleting 780 records of ad.study_conditions data, in ids 23400001 to 23600000
+10/08/2024 : 06:47 :   Deleting 192361 records of ad.study_conditions data, in ids 23600001 to 23800000
+10/08/2024 : 06:47 :   Deleting 197956 records of ad.study_conditions data, in ids 23800001 to 24000000
+10/08/2024 : 06:47 :   Deleting 40315 records of ad.study_conditions data, in ids 24000001 to 24200000
+10/08/2024 : 06:47 :   Deleting 2181 records of ad.study_conditions data, in ids 24200001 to 24400000
+10/08/2024 : 06:47 :   Deleting 127416 records of ad.study_conditions data, in ids 24400001 to 24600000
+10/08/2024 : 06:47 :   Deleting 199977 records of ad.study_conditions data, in ids 24600001 to 24800000
+10/08/2024 : 06:47 :   Deleting 33162 records of ad.study_conditions data, in ids 24800001 to 25000000
+10/08/2024 : 06:47 :   Deleting 0 records of ad.study_conditions data, in ids 25000001 to 25200000
+10/08/2024 : 06:47 :   Deleting 0 records of ad.study_conditions data, in ids 25200001 to 25400000
+10/08/2024 : 06:47 :   Deleting 0 records of ad.study_conditions data, in ids 25400001 to 25600000
+10/08/2024 : 06:47 :   Deleting 0 records of ad.study_conditions data, in ids 25600001 to 25800000
+10/08/2024 : 06:47 :   Deleting 0 records of ad.study_conditions data, in ids 25800001 to 26000000
+10/08/2024 : 06:47 :   Deleting 0 records of ad.study_conditions data, in ids 26000001 to 26200000
+10/08/2024 : 06:47 :   Deleting 0 records of ad.study_conditions data, in ids 26200001 to 26400000
+10/08/2024 : 06:47 :   Deleting 0 records of ad.study_conditions data, in ids 26400001 to 26600000
+10/08/2024 : 06:47 :   Deleting 90327 records of ad.study_conditions data, in ids 26600001 to 26800000
+10/08/2024 : 06:47 :   Deleting 128888 records of ad.study_conditions data, in ids 26800001 to 27000000
+10/08/2024 : 06:47 :   Deleting 129783 records of ad.study_conditions data, in ids 27000001 to 27200000
+10/08/2024 : 06:47 :   Deleting 45943 records of ad.study_conditions data, in ids 27200001 to 27400000
+10/08/2024 : 06:47 :   Deleting 8 records of ad.study_conditions data, in ids 27400001 to 27600000
+10/08/2024 : 06:47 :   Deleting 1556 records of ad.study_conditions data, in ids 27600001 to 27800000
+10/08/2024 : 06:47 :   Deleting 41842 records of ad.study_conditions data, in ids 27800001 to 27843059
+10/08/2024 : 06:47 :   Deleted 13790856 records in total
+10/08/2024 : 06:47 :   Compaction required for study_conditions, (max id: 14052203, actual size: 27840177)
+10/08/2024 : 06:47 :   Transferring 185098 records to ad.study_conditions_new from ad.study_conditions, ids 0 to 199999
+10/08/2024 : 06:47 :   Transferring 177180 records to ad.study_conditions_new from ad.study_conditions, ids 200000 to 399999
+10/08/2024 : 06:47 :   Transferring 155003 records to ad.study_conditions_new from ad.study_conditions, ids 400000 to 599999
+10/08/2024 : 06:47 :   Transferring 111935 records to ad.study_conditions_new from ad.study_conditions, ids 600000 to 799999
+10/08/2024 : 06:47 :   Transferring 26610 records to ad.study_conditions_new from ad.study_conditions, ids 800000 to 999999
+10/08/2024 : 06:47 :   Transferring 35540 records to ad.study_conditions_new from ad.study_conditions, ids 1000000 to 1199999
+10/08/2024 : 06:47 :   Transferring 40 records to ad.study_conditions_new from ad.study_conditions, ids 1200000 to 1399999
+10/08/2024 : 06:47 :   Transferring 59739 records to ad.study_conditions_new from ad.study_conditions, ids 1400000 to 1599999
+10/08/2024 : 06:47 :   Transferring 21585 records to ad.study_conditions_new from ad.study_conditions, ids 1600000 to 1799999
+10/08/2024 : 06:47 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 1800000 to 1999999
+10/08/2024 : 06:47 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 2000000 to 2199999
+10/08/2024 : 06:47 :   Transferring 49109 records to ad.study_conditions_new from ad.study_conditions, ids 2200000 to 2399999
+10/08/2024 : 06:47 :   Transferring 28131 records to ad.study_conditions_new from ad.study_conditions, ids 2400000 to 2599999
+10/08/2024 : 06:47 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 2600000 to 2799999
+10/08/2024 : 06:47 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 2800000 to 2999999
+10/08/2024 : 06:47 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 3000000 to 3199999
+10/08/2024 : 06:47 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 3200000 to 3399999
+10/08/2024 : 06:47 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 3400000 to 3599999
+10/08/2024 : 06:47 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 3600000 to 3799999
+10/08/2024 : 06:47 :   Transferring 7377 records to ad.study_conditions_new from ad.study_conditions, ids 3800000 to 3999999
+10/08/2024 : 06:47 :   Transferring 126388 records to ad.study_conditions_new from ad.study_conditions, ids 4000000 to 4199999
+10/08/2024 : 06:47 :   Transferring 199730 records to ad.study_conditions_new from ad.study_conditions, ids 4200000 to 4399999
+10/08/2024 : 06:48 :   Transferring 26305 records to ad.study_conditions_new from ad.study_conditions, ids 4400000 to 4599999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 4600000 to 4799999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 4800000 to 4999999
+10/08/2024 : 06:48 :   Transferring 72500 records to ad.study_conditions_new from ad.study_conditions, ids 5000000 to 5199999
+10/08/2024 : 06:48 :   Transferring 167642 records to ad.study_conditions_new from ad.study_conditions, ids 5200000 to 5399999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 5400000 to 5599999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 5600000 to 5799999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 5800000 to 5999999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 6000000 to 6199999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 6200000 to 6399999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 6400000 to 6599999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 6600000 to 6799999
+10/08/2024 : 06:48 :   Transferring 190537 records to ad.study_conditions_new from ad.study_conditions, ids 6800000 to 6999999
+10/08/2024 : 06:48 :   Transferring 6048 records to ad.study_conditions_new from ad.study_conditions, ids 7000000 to 7199999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 7200000 to 7399999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 7400000 to 7599999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 7600000 to 7799999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 7800000 to 7999999
+10/08/2024 : 06:48 :   Transferring 136586 records to ad.study_conditions_new from ad.study_conditions, ids 8000000 to 8199999
+10/08/2024 : 06:48 :   Transferring 173297 records to ad.study_conditions_new from ad.study_conditions, ids 8200000 to 8399999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 8400000 to 8599999
+10/08/2024 : 06:48 :   Transferring 108918 records to ad.study_conditions_new from ad.study_conditions, ids 8600000 to 8799999
+10/08/2024 : 06:48 :   Transferring 125575 records to ad.study_conditions_new from ad.study_conditions, ids 8800000 to 8999999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 9000000 to 9199999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 9200000 to 9399999
+10/08/2024 : 06:48 :   Transferring 63104 records to ad.study_conditions_new from ad.study_conditions, ids 9400000 to 9599999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 9600000 to 9799999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 9800000 to 9999999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 10000000 to 10199999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 10200000 to 10399999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 10400000 to 10599999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 10600000 to 10799999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 10800000 to 10999999
+10/08/2024 : 06:48 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 11000000 to 11199999
+10/08/2024 : 06:48 :   Transferring 60774 records to ad.study_conditions_new from ad.study_conditions, ids 11200000 to 11399999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 11400000 to 11599999
+10/08/2024 : 06:48 :   Transferring 179814 records to ad.study_conditions_new from ad.study_conditions, ids 11600000 to 11799999
+10/08/2024 : 06:48 :   Transferring 115139 records to ad.study_conditions_new from ad.study_conditions, ids 11800000 to 11999999
+10/08/2024 : 06:48 :   Transferring 199997 records to ad.study_conditions_new from ad.study_conditions, ids 12000000 to 12199999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 12200000 to 12399999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 12400000 to 12599999
+10/08/2024 : 06:48 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 12600000 to 12799999
+10/08/2024 : 06:48 :   Transferring 5693 records to ad.study_conditions_new from ad.study_conditions, ids 12800000 to 12999999
+10/08/2024 : 06:48 :   Transferring 24 records to ad.study_conditions_new from ad.study_conditions, ids 13000000 to 13199999
+10/08/2024 : 06:48 :   Transferring 170005 records to ad.study_conditions_new from ad.study_conditions, ids 13200000 to 13399999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 13400000 to 13599999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 13600000 to 13799999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 13800000 to 13999999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 14000000 to 14199999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 14200000 to 14399999
+10/08/2024 : 06:49 :   Transferring 191936 records to ad.study_conditions_new from ad.study_conditions, ids 14400000 to 14599999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 14600000 to 14799999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 14800000 to 14999999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 15000000 to 15199999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 15200000 to 15399999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 15400000 to 15599999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 15600000 to 15799999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 15800000 to 15999999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 16000000 to 16199999
+10/08/2024 : 06:49 :   Transferring 199488 records to ad.study_conditions_new from ad.study_conditions, ids 16200000 to 16399999
+10/08/2024 : 06:49 :   Transferring 56004 records to ad.study_conditions_new from ad.study_conditions, ids 16400000 to 16599999
+10/08/2024 : 06:49 :   Transferring 22074 records to ad.study_conditions_new from ad.study_conditions, ids 16600000 to 16799999
+10/08/2024 : 06:49 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 16800000 to 16999999
+10/08/2024 : 06:49 :   Transferring 33362 records to ad.study_conditions_new from ad.study_conditions, ids 17000000 to 17199999
+10/08/2024 : 06:49 :   Transferring 160606 records to ad.study_conditions_new from ad.study_conditions, ids 17200000 to 17399999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 17400000 to 17599999
+10/08/2024 : 06:49 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 17600000 to 17799999
+10/08/2024 : 06:50 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 17800000 to 17999999
+10/08/2024 : 06:50 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 18000000 to 18199999
+10/08/2024 : 06:50 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 18200000 to 18399999
+10/08/2024 : 06:50 :   Transferring 199298 records to ad.study_conditions_new from ad.study_conditions, ids 18400000 to 18599999
+10/08/2024 : 06:50 :   Transferring 65108 records to ad.study_conditions_new from ad.study_conditions, ids 18600000 to 18799999
+10/08/2024 : 06:50 :   Transferring 110653 records to ad.study_conditions_new from ad.study_conditions, ids 18800000 to 18999999
+10/08/2024 : 06:50 :   Transferring 26096 records to ad.study_conditions_new from ad.study_conditions, ids 19000000 to 19199999
+10/08/2024 : 06:50 :   Transferring 19881 records to ad.study_conditions_new from ad.study_conditions, ids 19200000 to 19399999
+10/08/2024 : 06:50 :   Transferring 144 records to ad.study_conditions_new from ad.study_conditions, ids 19400000 to 19599999
+10/08/2024 : 06:50 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 19600000 to 19799999
+10/08/2024 : 06:50 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 19800000 to 19999999
+10/08/2024 : 06:50 :   Transferring 22634 records to ad.study_conditions_new from ad.study_conditions, ids 20000000 to 20199999
+10/08/2024 : 06:50 :   Transferring 22 records to ad.study_conditions_new from ad.study_conditions, ids 20200000 to 20399999
+10/08/2024 : 06:50 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 20400000 to 20599999
+10/08/2024 : 06:50 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 20600000 to 20799999
+10/08/2024 : 06:50 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 20800000 to 20999999
+10/08/2024 : 06:50 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 21000000 to 21199999
+10/08/2024 : 06:50 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 21200000 to 21399999
+10/08/2024 : 06:50 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 21400000 to 21599999
+10/08/2024 : 06:50 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 21600000 to 21799999
+10/08/2024 : 06:50 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 21800000 to 21999999
+10/08/2024 : 06:50 :   Transferring 7680 records to ad.study_conditions_new from ad.study_conditions, ids 22000000 to 22199999
+10/08/2024 : 06:50 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 22200000 to 22399999
+10/08/2024 : 06:50 :   Transferring 0 records to ad.study_conditions_new from ad.study_conditions, ids 22400000 to 22599999
+10/08/2024 : 06:50 :   Transferring 28 records to ad.study_conditions_new from ad.study_conditions, ids 22600000 to 22799999
+10/08/2024 : 06:50 :   Transferring 120137 records to ad.study_conditions_new from ad.study_conditions, ids 22800000 to 22999999
+10/08/2024 : 06:50 :   Transferring 21080 records to ad.study_conditions_new from ad.study_conditions, ids 23000000 to 23199999
+10/08/2024 : 06:50 :   Transferring 199985 records to ad.study_conditions_new from ad.study_conditions, ids 23200000 to 23399999
+10/08/2024 : 06:50 :   Transferring 199220 records to ad.study_conditions_new from ad.study_conditions, ids 23400000 to 23599999
+10/08/2024 : 06:50 :   Transferring 7639 records to ad.study_conditions_new from ad.study_conditions, ids 23600000 to 23799999
+10/08/2024 : 06:50 :   Transferring 2044 records to ad.study_conditions_new from ad.study_conditions, ids 23800000 to 23999999
+10/08/2024 : 06:50 :   Transferring 159685 records to ad.study_conditions_new from ad.study_conditions, ids 24000000 to 24199999
+10/08/2024 : 06:50 :   Transferring 197819 records to ad.study_conditions_new from ad.study_conditions, ids 24200000 to 24399999
+10/08/2024 : 06:50 :   Transferring 72584 records to ad.study_conditions_new from ad.study_conditions, ids 24400000 to 24599999
+10/08/2024 : 06:50 :   Transferring 23 records to ad.study_conditions_new from ad.study_conditions, ids 24600000 to 24799999
+10/08/2024 : 06:50 :   Transferring 166838 records to ad.study_conditions_new from ad.study_conditions, ids 24800000 to 24999999
+10/08/2024 : 06:50 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 25000000 to 25199999
+10/08/2024 : 06:50 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 25200000 to 25399999
+10/08/2024 : 06:50 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 25400000 to 25599999
+10/08/2024 : 06:50 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 25600000 to 25799999
+10/08/2024 : 06:50 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 25800000 to 25999999
+10/08/2024 : 06:50 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 26000000 to 26199999
+10/08/2024 : 06:50 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 26200000 to 26399999
+10/08/2024 : 06:51 :   Transferring 200000 records to ad.study_conditions_new from ad.study_conditions, ids 26400000 to 26599999
+10/08/2024 : 06:51 :   Transferring 109673 records to ad.study_conditions_new from ad.study_conditions, ids 26600000 to 26799999
+10/08/2024 : 06:51 :   Transferring 71112 records to ad.study_conditions_new from ad.study_conditions, ids 26800000 to 26999999
+10/08/2024 : 06:51 :   Transferring 70217 records to ad.study_conditions_new from ad.study_conditions, ids 27000000 to 27199999
+10/08/2024 : 06:51 :   Transferring 154057 records to ad.study_conditions_new from ad.study_conditions, ids 27200000 to 27399999
+10/08/2024 : 06:51 :   Transferring 199992 records to ad.study_conditions_new from ad.study_conditions, ids 27400000 to 27599999
+10/08/2024 : 06:51 :   Transferring 198444 records to ad.study_conditions_new from ad.study_conditions, ids 27600000 to 27799999
+10/08/2024 : 06:51 :   Transferring 1217 records to ad.study_conditions_new from ad.study_conditions, ids 27800000 to 27840177
+10/08/2024 : 06:51 :   Compacted sequence for ad.study_conditions, to 14052203 rows
+10/08/2024 : 06:51 :   Adding 250000 records to ad.study_conditions, sd ids 1 to 250000
+10/08/2024 : 06:51 :   Adding 250000 records to ad.study_conditions, sd ids 250001 to 500000
+10/08/2024 : 06:51 :   Adding 250000 records to ad.study_conditions, sd ids 500001 to 750000
+10/08/2024 : 06:51 :   Adding 52276 records to ad.study_conditions, sd ids 750001 to 802276
+10/08/2024 : 06:51 :   Added 802276 records in total
+10/08/2024 : 06:51 :   
+10/08/2024 : 06:51 :   Deleting 648 records of ad.study_ipd_available data, as a single batch
+10/08/2024 : 06:51 :   Compaction required for study_ipd_available, (max id: 610, actual size: 776)
+10/08/2024 : 06:51 :   Transferring 610 records to ad.study_ipd_available_new from ad.study_ipd_available, as a single batch
+10/08/2024 : 06:51 :   Compacted sequence for ad.study_ipd_available, to 610 rows
+10/08/2024 : 06:51 :   Adding 661 records to ad.study_ipd_available, as a single batch
+10/08/2024 : 06:51 :   
+10/08/2024 : 06:51 :   Deleting 20468 records of ad.study_iec_null data, as a single batch
+10/08/2024 : 06:51 :   Compaction required for study_iec_null, (max id: 41374, actual size: 56762)
+10/08/2024 : 06:51 :   Transferring 41374 records to ad.study_iec_null_new from ad.study_iec_null, as a single batch
+10/08/2024 : 06:51 :   Compacted sequence for ad.study_iec_null, to 41374 rows
+10/08/2024 : 06:51 :   Adding 20547 records to ad.study_iec_null, as a single batch
+10/08/2024 : 06:51 :   
+10/08/2024 : 06:51 :   Deleting 12576 records of ad.study_iec_pre06 data, in ids 1 to 200000
+10/08/2024 : 06:51 :   Deleting 19958 records of ad.study_iec_pre06 data, in ids 200001 to 400000
+10/08/2024 : 06:51 :   Deleting 14918 records of ad.study_iec_pre06 data, in ids 400001 to 432865
+10/08/2024 : 06:51 :   Deleted 47452 records in total
+10/08/2024 : 06:51 :   Adding 47523 records to ad.study_iec_pre06, as a single batch
+10/08/2024 : 06:51 :   
+10/08/2024 : 06:51 :   Deleting 15000 records of ad.study_iec_0608 data, in ids 1 to 200000
+10/08/2024 : 06:51 :   Deleting 15225 records of ad.study_iec_0608 data, in ids 200001 to 400000
+10/08/2024 : 06:51 :   Deleting 22984 records of ad.study_iec_0608 data, in ids 400001 to 552071
+10/08/2024 : 06:51 :   Deleted 53209 records in total
+10/08/2024 : 06:51 :   Compaction required for study_iec_0608, (max id: 455597, actual size: 507388)
+10/08/2024 : 06:51 :   Transferring 179656 records to ad.study_iec_0608_new from ad.study_iec_0608, ids 0 to 199999
+10/08/2024 : 06:51 :   Transferring 178835 records to ad.study_iec_0608_new from ad.study_iec_0608, ids 200000 to 399999
+10/08/2024 : 06:51 :   Transferring 97106 records to ad.study_iec_0608_new from ad.study_iec_0608, ids 400000 to 507388
+10/08/2024 : 06:51 :   Compacted sequence for ad.study_iec_0608, to 455597 rows
+10/08/2024 : 06:51 :   Adding 53261 records to ad.study_iec_0608, as a single batch
+10/08/2024 : 06:51 :   
+10/08/2024 : 06:51 :   Deleting 18807 records of ad.study_iec_0910 data, in ids 1 to 200000
+10/08/2024 : 06:51 :   Deleting 18149 records of ad.study_iec_0910 data, in ids 200001 to 400000
+10/08/2024 : 06:51 :   Deleting 20075 records of ad.study_iec_0910 data, in ids 400001 to 490697
+10/08/2024 : 06:51 :   Deleted 57031 records in total
+10/08/2024 : 06:51 :   Compaction required for study_iec_0910, (max id: 389786, actual size: 444386)
+10/08/2024 : 06:51 :   Transferring 175478 records to ad.study_iec_0910_new from ad.study_iec_0910, ids 0 to 199999
+10/08/2024 : 06:51 :   Transferring 174952 records to ad.study_iec_0910_new from ad.study_iec_0910, ids 200000 to 399999
+10/08/2024 : 06:51 :   Transferring 39356 records to ad.study_iec_0910_new from ad.study_iec_0910, ids 400000 to 444386
+10/08/2024 : 06:51 :   Compacted sequence for ad.study_iec_0910, to 389786 rows
+10/08/2024 : 06:51 :   Adding 57075 records to ad.study_iec_0910, as a single batch
+10/08/2024 : 06:51 :   
+10/08/2024 : 06:51 :   Deleting 24609 records of ad.study_iec_1112 data, in ids 1 to 200000
+10/08/2024 : 06:51 :   Deleting 25935 records of ad.study_iec_1112 data, in ids 200001 to 400000
+10/08/2024 : 06:51 :   Deleting 35995 records of ad.study_iec_1112 data, in ids 400001 to 512671
+10/08/2024 : 06:51 :   Deleted 86539 records in total
+10/08/2024 : 06:51 :   Compaction required for study_iec_1112, (max id: 416957, actual size: 478338)
+10/08/2024 : 06:51 :   Transferring 174623 records to ad.study_iec_1112_new from ad.study_iec_1112, ids 0 to 199999
+10/08/2024 : 06:51 :   Transferring 172991 records to ad.study_iec_1112_new from ad.study_iec_1112, ids 200000 to 399999
+10/08/2024 : 06:51 :   Transferring 69343 records to ad.study_iec_1112_new from ad.study_iec_1112, ids 400000 to 478338
+10/08/2024 : 06:51 :   Compacted sequence for ad.study_iec_1112, to 416957 rows
+10/08/2024 : 06:51 :   Adding 86610 records to ad.study_iec_1112, as a single batch
+10/08/2024 : 06:51 :   
+10/08/2024 : 06:51 :   Deleting 33611 records of ad.study_iec_1314 data, in ids 1 to 200000
+10/08/2024 : 06:51 :   Deleting 36560 records of ad.study_iec_1314 data, in ids 200001 to 400000
+10/08/2024 : 06:51 :   Deleting 59469 records of ad.study_iec_1314 data, in ids 400001 to 600000
+10/08/2024 : 06:51 :   Deleting 9921 records of ad.study_iec_1314 data, in ids 600001 to 611107
+10/08/2024 : 06:51 :   Deleted 139561 records in total
+10/08/2024 : 06:51 :   Compaction required for study_iec_1314, (max id: 435918, actual size: 537377)
+10/08/2024 : 06:51 :   Transferring 163185 records to ad.study_iec_1314_new from ad.study_iec_1314, ids 0 to 199999
+10/08/2024 : 06:51 :   Transferring 159561 records to ad.study_iec_1314_new from ad.study_iec_1314, ids 200000 to 399999
+10/08/2024 : 06:51 :   Transferring 113172 records to ad.study_iec_1314_new from ad.study_iec_1314, ids 400000 to 537377
+10/08/2024 : 06:51 :   Compacted sequence for ad.study_iec_1314, to 435918 rows
+10/08/2024 : 06:51 :   Adding 139597 records to ad.study_iec_1314, as a single batch
+10/08/2024 : 06:51 :   
+10/08/2024 : 06:51 :   Deleting 53087 records of ad.study_iec_15 data, in ids 1 to 200000
+10/08/2024 : 06:51 :   Deleting 56994 records of ad.study_iec_15 data, in ids 200001 to 330243
+10/08/2024 : 06:51 :   Deleted 110081 records in total
+10/08/2024 : 06:51 :   Compaction required for study_iec_15, (max id: 218233, actual size: 296517)
+10/08/2024 : 06:52 :   Transferring 146564 records to ad.study_iec_15_new from ad.study_iec_15, ids 0 to 199999
+10/08/2024 : 06:52 :   Transferring 71669 records to ad.study_iec_15_new from ad.study_iec_15, ids 200000 to 296517
+10/08/2024 : 06:52 :   Compacted sequence for ad.study_iec_15, to 218233 rows
+10/08/2024 : 06:52 :   Adding 110117 records to ad.study_iec_15, as a single batch
+10/08/2024 : 06:52 :   
+10/08/2024 : 06:52 :   Deleting 67013 records of ad.study_iec_16 data, in ids 1 to 200000
+10/08/2024 : 06:52 :   Deleting 80452 records of ad.study_iec_16 data, in ids 200001 to 355739
+10/08/2024 : 06:52 :   Deleted 147465 records in total
+10/08/2024 : 06:52 :   Compaction required for study_iec_16, (max id: 206139, actual size: 336275)
+10/08/2024 : 06:52 :   Transferring 132647 records to ad.study_iec_16_new from ad.study_iec_16, ids 0 to 199999
+10/08/2024 : 06:52 :   Transferring 73492 records to ad.study_iec_16_new from ad.study_iec_16, ids 200000 to 336275
+10/08/2024 : 06:52 :   Compacted sequence for ad.study_iec_16, to 206139 rows
+10/08/2024 : 06:52 :   Adding 147415 records to ad.study_iec_16, as a single batch
+10/08/2024 : 06:52 :   
+10/08/2024 : 06:52 :   Deleting 85501 records of ad.study_iec_17 data, in ids 1 to 200000
+10/08/2024 : 06:52 :   Deleting 116109 records of ad.study_iec_17 data, in ids 200001 to 382911
+10/08/2024 : 06:52 :   Deleted 201610 records in total
+10/08/2024 : 06:52 :   Compaction required for study_iec_17, (max id: 177964, actual size: 308661)
+10/08/2024 : 06:52 :   Transferring 177964 records to ad.study_iec_17_new from ad.study_iec_17, as a single batch
+10/08/2024 : 06:52 :   Compacted sequence for ad.study_iec_17, to 177964 rows
+10/08/2024 : 06:52 :   Adding 200000 records to ad.study_iec_17, sd ids 1 to 200000
+10/08/2024 : 06:52 :   Adding 1813 records to ad.study_iec_17, sd ids 200001 to 201813
+10/08/2024 : 06:52 :   Added 201813 records in total
+10/08/2024 : 06:52 :   
+10/08/2024 : 06:52 :   Deleting 101246 records of ad.study_iec_18 data, in ids 1 to 200000
+10/08/2024 : 06:52 :   Deleting 141226 records of ad.study_iec_18 data, in ids 200001 to 400000
+10/08/2024 : 06:52 :   Deleting 12988 records of ad.study_iec_18 data, in ids 400001 to 414116
+10/08/2024 : 06:52 :   Deleted 255460 records in total
+10/08/2024 : 06:52 :   Compaction required for study_iec_18, (max id: 153667, actual size: 393492)
+10/08/2024 : 06:52 :   Transferring 153667 records to ad.study_iec_18_new from ad.study_iec_18, as a single batch
+10/08/2024 : 06:52 :   Compacted sequence for ad.study_iec_18, to 153667 rows
+10/08/2024 : 06:52 :   Adding 200000 records to ad.study_iec_18, sd ids 1 to 200000
+10/08/2024 : 06:52 :   Adding 55617 records to ad.study_iec_18, sd ids 200001 to 255617
+10/08/2024 : 06:52 :   Added 255617 records in total
+10/08/2024 : 06:52 :   
+10/08/2024 : 06:52 :   Deleting 122021 records of ad.study_iec_19 data, in ids 1 to 200000
+10/08/2024 : 06:52 :   Deleting 162662 records of ad.study_iec_19 data, in ids 200001 to 400000
+10/08/2024 : 06:52 :   Deleting 39648 records of ad.study_iec_19 data, in ids 400001 to 442252
+10/08/2024 : 06:52 :   Deleted 324331 records in total
+10/08/2024 : 06:52 :   Compaction required for study_iec_19, (max id: 111435, actual size: 279335)
+10/08/2024 : 06:52 :   Transferring 111435 records to ad.study_iec_19_new from ad.study_iec_19, as a single batch
+10/08/2024 : 06:52 :   Compacted sequence for ad.study_iec_19, to 111435 rows
+10/08/2024 : 06:52 :   Adding 200000 records to ad.study_iec_19, sd ids 1 to 200000
+10/08/2024 : 06:52 :   Adding 124587 records to ad.study_iec_19, sd ids 200001 to 324587
+10/08/2024 : 06:52 :   Added 324587 records in total
+10/08/2024 : 06:52 :   
+10/08/2024 : 06:52 :   Deleting 138666 records of ad.study_iec_20 data, in ids 1 to 200000
+10/08/2024 : 06:52 :   Deleting 182952 records of ad.study_iec_20 data, in ids 200001 to 400000
+10/08/2024 : 06:52 :   Deleting 74307 records of ad.study_iec_20 data, in ids 400001 to 494348
+10/08/2024 : 06:52 :   Deleted 395925 records in total
+10/08/2024 : 06:52 :   Compaction required for study_iec_20, (max id: 52631, actual size: 305148)
+10/08/2024 : 06:52 :   Transferring 52631 records to ad.study_iec_20_new from ad.study_iec_20, as a single batch
+10/08/2024 : 06:52 :   Compacted sequence for ad.study_iec_20, to 52631 rows
+10/08/2024 : 06:52 :   Adding 200000 records to ad.study_iec_20, sd ids 1 to 200000
+10/08/2024 : 06:52 :   Adding 196250 records to ad.study_iec_20, sd ids 200001 to 396250
+10/08/2024 : 06:52 :   Added 396250 records in total
+10/08/2024 : 06:52 :   
+10/08/2024 : 06:52 :   Deleting 189316 records of ad.study_iec_21 data, in ids 1 to 200000
+10/08/2024 : 06:52 :   Deleting 188433 records of ad.study_iec_21 data, in ids 200001 to 400000
+10/08/2024 : 06:52 :   Deleting 144282 records of ad.study_iec_21 data, in ids 400001 to 569919
+10/08/2024 : 06:52 :   Deleted 522031 records in total
+10/08/2024 : 06:52 :   Compaction required for study_iec_21, (max id: 1812, actual size: 425029)
+10/08/2024 : 06:52 :   Transferring 1812 records to ad.study_iec_21_new from ad.study_iec_21, as a single batch
+10/08/2024 : 06:52 :   Compacted sequence for ad.study_iec_21, to 1812 rows
+10/08/2024 : 06:52 :   Adding 200000 records to ad.study_iec_21, sd ids 1 to 200000
+10/08/2024 : 06:53 :   Adding 200000 records to ad.study_iec_21, sd ids 200001 to 400000
+10/08/2024 : 06:53 :   Adding 122843 records to ad.study_iec_21, sd ids 400001 to 522843
+10/08/2024 : 06:53 :   Added 522843 records in total
+10/08/2024 : 06:53 :   
+10/08/2024 : 06:53 :   Deleting 197582 records of ad.study_iec_22 data, in ids 1 to 200000
+10/08/2024 : 06:53 :   Deleting 195891 records of ad.study_iec_22 data, in ids 200001 to 400000
+10/08/2024 : 06:53 :   Deleting 107204 records of ad.study_iec_22 data, in ids 400001 to 514112
+10/08/2024 : 06:53 :   Deleted 500677 records in total
+10/08/2024 : 06:53 :   Compaction required for study_iec_22, (max id: 237, actual size: 275654)
+10/08/2024 : 06:53 :   Transferring 237 records to ad.study_iec_22_new from ad.study_iec_22, as a single batch
+10/08/2024 : 06:53 :   Compacted sequence for ad.study_iec_22, to 237 rows
+10/08/2024 : 06:53 :   Adding 200000 records to ad.study_iec_22, sd ids 1 to 200000
+10/08/2024 : 06:53 :   Adding 200000 records to ad.study_iec_22, sd ids 200001 to 400000
+10/08/2024 : 06:53 :   Adding 102252 records to ad.study_iec_22, sd ids 400001 to 502252
+10/08/2024 : 06:53 :   Added 502252 records in total
+10/08/2024 : 06:53 :   
+10/08/2024 : 06:53 :   Deleting 196505 records of ad.study_iec_23 data, in ids 1 to 200000
+10/08/2024 : 06:53 :   Deleting 194622 records of ad.study_iec_23 data, in ids 200001 to 400000
+10/08/2024 : 06:53 :   Deleting 105011 records of ad.study_iec_23 data, in ids 400001 to 513218
+10/08/2024 : 06:53 :   Deleted 496138 records in total
+10/08/2024 : 06:53 :   Compaction required for study_iec_23, (max id: 329, actual size: 512666)
+10/08/2024 : 06:53 :   Transferring 329 records to ad.study_iec_23_new from ad.study_iec_23, as a single batch
+10/08/2024 : 06:53 :   Compacted sequence for ad.study_iec_23, to 329 rows
+10/08/2024 : 06:53 :   Adding 200000 records to ad.study_iec_23, sd ids 1 to 200000
+10/08/2024 : 06:53 :   Adding 200000 records to ad.study_iec_23, sd ids 200001 to 400000
+10/08/2024 : 06:53 :   Adding 99691 records to ad.study_iec_23, sd ids 400001 to 499691
+10/08/2024 : 06:53 :   Added 499691 records in total
+10/08/2024 : 06:53 :   
+10/08/2024 : 06:53 :   Deleting 192169 records of ad.study_iec_24 data, in ids 1 to 200000
+10/08/2024 : 06:53 :   Deleting 182071 records of ad.study_iec_24 data, in ids 200001 to 400000
+10/08/2024 : 06:53 :   Deleting 45169 records of ad.study_iec_24 data, in ids 400001 to 445800
+10/08/2024 : 06:53 :   Deleted 419409 records in total
+10/08/2024 : 06:53 :   Compaction required for study_iec_24, (max id: 253, actual size: 210529)
+10/08/2024 : 06:53 :   Transferring 253 records to ad.study_iec_24_new from ad.study_iec_24, as a single batch
+10/08/2024 : 06:53 :   Compacted sequence for ad.study_iec_24, to 253 rows
+10/08/2024 : 06:53 :   Adding 200000 records to ad.study_iec_24, sd ids 1 to 200000
+10/08/2024 : 06:53 :   Adding 200000 records to ad.study_iec_24, sd ids 200001 to 400000
+10/08/2024 : 06:53 :   Adding 48344 records to ad.study_iec_24, sd ids 400001 to 448344
+10/08/2024 : 06:53 :   Added 448344 records in total
+10/08/2024 : 06:53 :   
+10/08/2024 : 06:53 :   Deleting 14086 records of ad.study_iec_25 data, as a single batch
+10/08/2024 : 06:53 :   Compaction required for study_iec_25, (max id: 52, actual size: 94)
+10/08/2024 : 06:53 :   Transferring 52 records to ad.study_iec_25_new from ad.study_iec_25, as a single batch
+10/08/2024 : 06:53 :   Compacted sequence for ad.study_iec_25, to 52 rows
+10/08/2024 : 06:53 :   Adding 18984 records to ad.study_iec_25, as a single batch
+10/08/2024 : 06:53 :   
+10/08/2024 : 06:53 :   Deleting 930 records of ad.study_iec_26 data, as a single batch
+10/08/2024 : 06:53 :   Id sequence for ad.study_iec_26 reset to 1
+10/08/2024 : 06:53 :   Adding 1068 records to ad.study_iec_26, as a single batch
+10/08/2024 : 06:53 :   
+10/08/2024 : 06:53 :   Deleting 166 records of ad.study_iec_27 data, as a single batch
+10/08/2024 : 06:53 :   Id sequence for ad.study_iec_27 reset to 1
+10/08/2024 : 06:53 :   Adding 166 records to ad.study_iec_27, as a single batch
+10/08/2024 : 06:53 :   
+10/08/2024 : 06:53 :   Deleting 39 records of ad.study_iec_28 data, as a single batch
+10/08/2024 : 06:53 :   Id sequence for ad.study_iec_28 reset to 1
+10/08/2024 : 06:53 :   Adding 39 records to ad.study_iec_28, as a single batch
+10/08/2024 : 06:53 :   
+10/08/2024 : 06:53 :   Deleting 11 records of ad.study_iec_29 data, as a single batch
+10/08/2024 : 06:53 :   Id sequence for ad.study_iec_29 reset to 1
+10/08/2024 : 06:53 :   Adding 11 records to ad.study_iec_29, as a single batch
+10/08/2024 : 06:53 :   
+10/08/2024 : 06:53 :   Deleting 20387 records of ad.data_objects data, in ids 1 to 200000
+10/08/2024 : 06:53 :   Deleting 72651 records of ad.data_objects data, in ids 200001 to 400000
+10/08/2024 : 06:53 :   Deleting 163046 records of ad.data_objects data, in ids 400001 to 600000
+10/08/2024 : 06:53 :   Deleting 75926 records of ad.data_objects data, in ids 600001 to 707970
+10/08/2024 : 06:53 :   Deleted 332010 records in total
+10/08/2024 : 06:53 :   Compaction required for data_objects, (max id: 310159, actual size: 707891)
+10/08/2024 : 06:54 :   Transferring 177935 records to ad.data_objects_new from ad.data_objects, ids 0 to 199999
+10/08/2024 : 06:54 :   Transferring 122467 records to ad.data_objects_new from ad.data_objects, ids 200000 to 399999
+10/08/2024 : 06:54 :   Transferring 9642 records to ad.data_objects_new from ad.data_objects, ids 400000 to 599999
+10/08/2024 : 06:54 :   Transferring 115 records to ad.data_objects_new from ad.data_objects, ids 600000 to 707891
+10/08/2024 : 06:54 :   Compacted sequence for ad.data_objects, to 310159 rows
+10/08/2024 : 06:54 :   Adding 200000 records to ad.data_objects, sd ids 1 to 200000
+10/08/2024 : 06:54 :   Adding 136669 records to ad.data_objects, sd ids 200001 to 336669
+10/08/2024 : 06:54 :   Added 336669 records in total
+10/08/2024 : 06:54 :   
+10/08/2024 : 06:54 :   Deleting 43194 records of ad.object_titles data, as a single batch
+10/08/2024 : 06:54 :   Compaction required for object_titles, (max id: 13606, actual size: 57189)
+10/08/2024 : 06:54 :   Transferring 13606 records to ad.object_titles_new from ad.object_titles, as a single batch
+10/08/2024 : 06:54 :   Compacted sequence for ad.object_titles, to 13606 rows
+10/08/2024 : 06:54 :   Adding 44187 records to ad.object_titles, as a single batch
+10/08/2024 : 06:54 :   
+10/08/2024 : 06:54 :   Deleting 99 records of ad.object_datasets data, as a single batch
+10/08/2024 : 06:54 :   Adding 99 records to ad.object_datasets, as a single batch
+10/08/2024 : 06:54 :   
+10/08/2024 : 06:54 :   Deleting 21921 records of ad.object_instances data, in ids 1 to 200000
+10/08/2024 : 06:54 :   Deleting 79802 records of ad.object_instances data, in ids 200001 to 400000
+10/08/2024 : 06:54 :   Deleting 192717 records of ad.object_instances data, in ids 400001 to 600000
+10/08/2024 : 06:54 :   Deleting 37202 records of ad.object_instances data, in ids 600001 to 639732
+10/08/2024 : 06:54 :   Deleted 331642 records in total
+10/08/2024 : 06:54 :   Compaction required for object_instances, (max id: 302067, actual size: 639653)
+10/08/2024 : 06:54 :   Transferring 177980 records to ad.object_instances_new from ad.object_instances, ids 0 to 199999
+10/08/2024 : 06:54 :   Transferring 119729 records to ad.object_instances_new from ad.object_instances, ids 200000 to 399999
+10/08/2024 : 06:54 :   Transferring 4328 records to ad.object_instances_new from ad.object_instances, ids 400000 to 599999
+10/08/2024 : 06:54 :   Transferring 30 records to ad.object_instances_new from ad.object_instances, ids 600000 to 639653
+10/08/2024 : 06:54 :   Compacted sequence for ad.object_instances, to 302067 rows
+10/08/2024 : 06:54 :   Adding 200000 records to ad.object_instances, sd ids 1 to 200000
+10/08/2024 : 06:54 :   Adding 136301 records to ad.object_instances, sd ids 200001 to 336301
+10/08/2024 : 06:54 :   Added 336301 records in total
+10/08/2024 : 06:54 :   
+10/08/2024 : 06:54 :   Deleting 16712 records of ad.object_dates data, in ids 1 to 200000
+10/08/2024 : 06:54 :   Deleting 27348 records of ad.object_dates data, in ids 200001 to 400000
+10/08/2024 : 06:54 :   Deleting 57780 records of ad.object_dates data, in ids 400001 to 600000
+10/08/2024 : 06:54 :   Deleting 104314 records of ad.object_dates data, in ids 600001 to 800000
+10/08/2024 : 06:54 :   Deleting 193806 records of ad.object_dates data, in ids 800001 to 1000000
+10/08/2024 : 06:54 :   Deleting 199534 records of ad.object_dates data, in ids 1000001 to 1200000
+10/08/2024 : 06:54 :   Deleting 60400 records of ad.object_dates data, in ids 1200001 to 1260444
+10/08/2024 : 06:54 :   Deleted 659894 records in total
+10/08/2024 : 06:54 :   Compaction required for object_dates, (max id: 600550, actual size: 1260286)
+10/08/2024 : 06:54 :   Transferring 183288 records to ad.object_dates_new from ad.object_dates, ids 0 to 199999
+10/08/2024 : 06:54 :   Transferring 172652 records to ad.object_dates_new from ad.object_dates, ids 200000 to 399999
+10/08/2024 : 06:54 :   Transferring 142220 records to ad.object_dates_new from ad.object_dates, ids 400000 to 599999
+10/08/2024 : 06:54 :   Transferring 95686 records to ad.object_dates_new from ad.object_dates, ids 600000 to 799999
+10/08/2024 : 06:54 :   Transferring 6194 records to ad.object_dates_new from ad.object_dates, ids 800000 to 999999
+10/08/2024 : 06:54 :   Transferring 466 records to ad.object_dates_new from ad.object_dates, ids 1000000 to 1199999
+10/08/2024 : 06:54 :   Transferring 44 records to ad.object_dates_new from ad.object_dates, ids 1200000 to 1260286
+10/08/2024 : 06:54 :   Compacted sequence for ad.object_dates, to 600550 rows
+10/08/2024 : 06:54 :   Adding 200000 records to ad.object_dates, sd ids 1 to 200000
+10/08/2024 : 06:54 :   Adding 200000 records to ad.object_dates, sd ids 200001 to 400000
+10/08/2024 : 06:54 :   Adding 200000 records to ad.object_dates, sd ids 400001 to 600000
+10/08/2024 : 06:54 :   Adding 69194 records to ad.object_dates, sd ids 600001 to 669194
+10/08/2024 : 06:54 :   Added 669194 records in total
+
+10/08/2024 : 06:54 :   **** NEW DATA ADDED TO AD TABLES ****
+
+
+10/08/2024 : 06:54 :   **** TIDY UP AND FINISH ****
+
+10/08/2024 : 06:54 :   Updating monitor records with import date / time,  1 to 50000
+10/08/2024 : 06:54 :   Updating monitor records with import date / time,  50001 to 100000
+10/08/2024 : 06:54 :   Updating monitor records with import date / time,  100001 to 150000
+10/08/2024 : 06:54 :   Updating monitor records with import date / time,  150001 to 200000
+10/08/2024 : 06:54 :   Updating monitor records with import date / time,  200001 to 250000
+10/08/2024 : 06:54 :   Updating monitor records with import date / time,  250001 to 263356
+10/08/2024 : 06:54 :   Foreign (mon) tables removed from database
+
+10/08/2024 : 06:54 :   **** CLOSING LOG ****
+
