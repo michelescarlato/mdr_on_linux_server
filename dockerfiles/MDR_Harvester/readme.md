@@ -211,7 +211,7 @@ UPDATE 4486
 Query returned successfully in 733 msec.
 ```
 
-For the 4 sources MDR_data JSONs have been imported from Prod server.
+For the 5 sources MDR_data JSONs have been imported from Prod server.
 
 ## NNTR
 
