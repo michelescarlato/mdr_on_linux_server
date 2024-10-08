@@ -4,7 +4,7 @@ services:
 
   anzctr:
     image: mdr-importer-dotnet8
-    container_name: mdr-harvester-anzctr
+    container_name: mdr-importer-anzctr
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
@@ -14,7 +14,7 @@ services:
 
   biolincc:
     image: mdr-importer-dotnet8
-    container_name: mdr-harvester-biolincc
+    container_name: mdr-importer-biolincc
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
