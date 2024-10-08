@@ -1,0 +1,43 @@
+﻿
+10/08/2024 : 05:19 :   **** STARTING IMPORTER ****
+
+10/08/2024 : 05:19 :   Source_id is 101900
+10/08/2024 : 05:19 :   Rebuild AD tables is: True
+10/08/2024 : 05:19 :   
+10/08/2024 : 05:19 :   
+10/08/2024 : 05:19 :   ======================================================================
+10/08/2024 : 05:19 :   For source: 101900: biolincc
+10/08/2024 : 05:19 :   ======================================================================
+10/08/2024 : 05:19 :   
+
+10/08/2024 : 05:19 :   **** SETUP ****
+
+10/08/2024 : 05:19 :   Rebuilt AD study tables
+10/08/2024 : 05:19 :   Rebuilt AD object tables
+
+10/08/2024 : 05:19 :   **** START IMPORT PROCESS ****
+
+10/08/2024 : 05:19 :   Foreign (mon) tables established in database
+10/08/2024 : 05:19 :   
+10/08/2024 : 05:19 :   Adding 286 records to ad.studies, as a single batch
+10/08/2024 : 05:19 :   Adding 558 records to ad.study_identifiers, as a single batch
+10/08/2024 : 05:19 :   Adding 572 records to ad.study_titles, as a single batch
+10/08/2024 : 05:19 :   Adding 3095 records to ad.study_references, as a single batch
+10/08/2024 : 05:19 :   Adding 259 records to ad.study_organisations, as a single batch
+10/08/2024 : 05:19 :   Adding 45 records to ad.study_relationships, as a single batch
+10/08/2024 : 05:19 :   Adding 1884 records to ad.data_objects, as a single batch
+10/08/2024 : 05:19 :   Adding 1219 records to ad.object_titles, as a single batch
+10/08/2024 : 05:19 :   Adding 278 records to ad.object_datasets, as a single batch
+10/08/2024 : 05:19 :   Adding 1606 records to ad.object_instances, as a single batch
+10/08/2024 : 05:19 :   Adding 278 records to ad.object_dates, as a single batch
+
+10/08/2024 : 05:19 :   **** NEW DATA ADDED TO AD TABLES ****
+
+
+10/08/2024 : 05:19 :   **** TIDY UP AND FINISH ****
+
+10/08/2024 : 05:19 :   Updating monitor records with import date / time,  286 records, as a single query
+10/08/2024 : 05:19 :   Foreign (mon) tables removed from database
+
+10/08/2024 : 05:19 :   **** CLOSING LOG ****
+
