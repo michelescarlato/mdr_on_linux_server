@@ -1,0 +1,3 @@
+dockerfiles/MDR_Downloader/appsettings.json
+dockerfiles/MDR_Harvester/appsettings.json
+dockerfiles/MDR_Importer/appsettings.json
