@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+
+  anzctr:
+    image: mdr-importer-dotnet8
+    container_name: mdr-harvester-anzctr
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Harvester.dll", "-s", "100116"]
+
+  biolincc:
+    image: mdr-importer-dotnet8
+    container_name: mdr-harvester-biolincc
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: ["dotnet", "MDR_Harvester.dll", "-s", "101900", "-T"]
