@@ -28,7 +28,7 @@ RUN dotnet build --configuration Release
 RUN dotnet publish -c Release -o /app/out
 
 # Use a smaller runtime image to run the application
-FROM mcr.microsoft.com/dotnet/aspnet:8.0
+FROM mcr.microsoft.com/dotnet/aspnet:7.0
 
 # Set the working directory inside the runtime image
 WORKDIR /app
