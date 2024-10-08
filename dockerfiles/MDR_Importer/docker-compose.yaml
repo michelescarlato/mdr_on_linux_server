@@ -31,3 +31,13 @@ services:
       - $HOME/MDR_Sources:/app/MDR_Sources
       - $HOME/MDR_Data:/app/MDR_Data
     command: [ "dotnet", "MDR_Importer.dll", "-s", "100117, 100119, 100122, 100129, 109108" ]
+
+  chictr:
+    image: mdr-importer-dotnet8
+    container_name: mdr-importer-chictr
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Importer.dll", "-s", "100118"]
