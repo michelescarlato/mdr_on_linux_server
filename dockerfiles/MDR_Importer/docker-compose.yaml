@@ -51,3 +51,14 @@ services:
       - $HOME/MDR_Sources:/app/MDR_Sources
       - $HOME/MDR_Data:/app/MDR_Data
     command: [ "dotnet", "MDR_Importer.dll", "-s", "100120"]
+
+  drks:
+    image: mdr-importer-dotnet8
+    container_name: mdr-importer-drks
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Importer.dll", "-s", "100124"]
+
