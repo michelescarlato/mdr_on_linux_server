@@ -1,0 +1,70 @@
+﻿
+11/15/2024 : 07:56 :   **** STARTING IMPORTER ****
+
+11/15/2024 : 07:56 :   Source_ids are 100125,100128,100130,100131,101989
+11/15/2024 : 07:56 :   Rebuild AD tables is: False
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   ======================================================================
+11/15/2024 : 07:56 :   For source: 101989: lebctr
+11/15/2024 : 07:56 :   ======================================================================
+11/15/2024 : 07:56 :   
+
+11/15/2024 : 07:56 :   **** SETUP ****
+
+
+11/15/2024 : 07:56 :   **** START IMPORT PROCESS ****
+
+11/15/2024 : 07:56 :   Foreign (mon) tables established in database
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.studies data, as a single batch
+11/15/2024 : 07:56 :   Adding 0 records to ad.studies, as a single batch
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.study_identifiers data, as a single batch
+11/15/2024 : 07:56 :   Adding 0 records to ad.study_identifiers, as a single batch
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.study_titles data, as a single batch
+11/15/2024 : 07:56 :   Adding 0 records to ad.study_titles, as a single batch
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.study_people data, as a single batch
+11/15/2024 : 07:56 :   Adding 0 records to ad.study_people, as a single batch
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.study_organisations data, as a single batch
+11/15/2024 : 07:56 :   Adding 0 records to ad.study_organisations, as a single batch
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.study_features data, as a single batch
+11/15/2024 : 07:56 :   Adding 0 records to ad.study_features, as a single batch
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.study_countries data, as a single batch
+11/15/2024 : 07:56 :   Adding 0 records to ad.study_countries, as a single batch
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.study_conditions data, as a single batch
+11/15/2024 : 07:56 :   Adding 0 records to ad.study_conditions, as a single batch
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.study_iec data, as a single batch
+11/15/2024 : 07:56 :   Adding 0 records to ad.study_iec, as a single batch
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.data_objects data, as a single batch
+11/15/2024 : 07:56 :   Adding 0 records to ad.data_objects, as a single batch
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.object_titles data, as a single batch
+11/15/2024 : 07:56 :   Id sequence for ad.object_titles reset to 1
+11/15/2024 : 07:56 :   Adding 0 records to ad.object_titles, as a single batch
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.object_instances data, as a single batch
+11/15/2024 : 07:56 :   Adding 0 records to ad.object_instances, as a single batch
+11/15/2024 : 07:56 :   
+11/15/2024 : 07:56 :   Deleting 0 records of ad.object_dates data, as a single batch
+11/15/2024 : 07:56 :   Adding 0 records to ad.object_dates, as a single batch
+
+11/15/2024 : 07:56 :   **** NEW DATA ADDED TO AD TABLES ****
+
+
+11/15/2024 : 07:56 :   **** TIDY UP AND FINISH ****
+
+11/15/2024 : 07:56 :   Updating monitor records with import date / time,  0 records, as a single query
+11/15/2024 : 07:56 :   Foreign (mon) tables removed from database
+
+11/15/2024 : 07:56 :   **** CLOSING LOG ****
+
