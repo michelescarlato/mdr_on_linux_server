@@ -71,3 +71,14 @@ services:
       - $HOME/MDR_Sources:/app/MDR_Sources
       - $HOME/MDR_Data:/app/MDR_Data
     command: [ "dotnet", "MDR_Coder.dll", "-s", "100123", "-a", "2" ]
+
+  isrctn:
+    image: mdr-coder-dotnet8
+    container_name: mdr-coder-isrctn
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Coder.dll", "-s", "100126", "-a", "2" ]
+
