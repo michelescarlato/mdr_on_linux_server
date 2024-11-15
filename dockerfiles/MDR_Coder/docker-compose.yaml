@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+
+  anzctr:
+    image: mdr-coder-dotnet8
+    container_name: mdr-coder-anzctr
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Coder.dll", "-s", "100116", "-a", "2"]
