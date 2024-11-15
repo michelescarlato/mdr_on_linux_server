@@ -53,3 +53,6 @@ Despite I can notice that in prod there is a counter
 ```
 In Prod the counter starts from 6 December 2023.
 It is worthy to understand why.
+
+## Nntr
+Logs look very similar to prod.

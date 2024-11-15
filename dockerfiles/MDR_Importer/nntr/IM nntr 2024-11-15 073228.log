@@ -1,0 +1,73 @@
+﻿
+11/15/2024 : 07:32 :   **** STARTING IMPORTER ****
+
+11/15/2024 : 07:32 :   Source_id is 100132
+11/15/2024 : 07:32 :   Rebuild AD tables is: False
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   ======================================================================
+11/15/2024 : 07:32 :   For source: 100132: nntr
+11/15/2024 : 07:32 :   ======================================================================
+11/15/2024 : 07:32 :   
+
+11/15/2024 : 07:32 :   **** SETUP ****
+
+
+11/15/2024 : 07:32 :   **** START IMPORT PROCESS ****
+
+11/15/2024 : 07:32 :   Foreign (mon) tables established in database
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 6186 records of ad.studies data, as a single batch
+11/15/2024 : 07:32 :   Adding 6186 records to ad.studies, as a single batch
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 16334 records of ad.study_identifiers data, as a single batch
+11/15/2024 : 07:32 :   Adding 16334 records to ad.study_identifiers, as a single batch
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 12369 records of ad.study_titles data, as a single batch
+11/15/2024 : 07:32 :   Adding 12369 records to ad.study_titles, as a single batch
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 25 records of ad.study_people data, as a single batch
+11/15/2024 : 07:32 :   Adding 25 records to ad.study_people, as a single batch
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 14561 records of ad.study_organisations data, as a single batch
+11/15/2024 : 07:32 :   Adding 14561 records to ad.study_organisations, as a single batch
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 10655 records of ad.study_features data, as a single batch
+11/15/2024 : 07:32 :   Adding 10655 records to ad.study_features, as a single batch
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 6186 records of ad.study_countries data, as a single batch
+11/15/2024 : 07:32 :   Adding 6186 records to ad.study_countries, as a single batch
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 18847 records of ad.study_conditions data, as a single batch
+11/15/2024 : 07:32 :   Adding 18847 records to ad.study_conditions, as a single batch
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 0 records of ad.study_iec data, in ids 1 to 200000
+11/15/2024 : 07:32 :   Deleting 0 records of ad.study_iec data, in ids 200001 to 400000
+11/15/2024 : 07:32 :   Deleting 95600 records of ad.study_iec data, in ids 400001 to 553167
+11/15/2024 : 07:32 :   Deleted 95600 records in total
+11/15/2024 : 07:32 :   Adding 95600 records to ad.study_iec, as a single batch
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 6258 records of ad.data_objects data, as a single batch
+11/15/2024 : 07:32 :   Adding 6258 records to ad.data_objects, as a single batch
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 0 records of ad.object_titles data, as a single batch
+11/15/2024 : 07:32 :   Id sequence for ad.object_titles reset to 1
+11/15/2024 : 07:32 :   Adding 0 records to ad.object_titles, as a single batch
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 6258 records of ad.object_instances data, as a single batch
+11/15/2024 : 07:32 :   Adding 6258 records to ad.object_instances, as a single batch
+11/15/2024 : 07:32 :   
+11/15/2024 : 07:32 :   Deleting 12488 records of ad.object_dates data, as a single batch
+11/15/2024 : 07:32 :   Adding 12488 records to ad.object_dates, as a single batch
+
+11/15/2024 : 07:32 :   **** NEW DATA ADDED TO AD TABLES ****
+
+
+11/15/2024 : 07:32 :   **** TIDY UP AND FINISH ****
+
+11/15/2024 : 07:32 :   Updating monitor records with import date / time,  6186 records, as a single query
+11/15/2024 : 07:32 :   Foreign (mon) tables removed from database
+
+11/15/2024 : 07:32 :   **** CLOSING LOG ****
+
