@@ -29,4 +29,7 @@ mdr-importer-chictr | 10/08/2024 : 06:36 :   Compaction required for study_organ
 mdr-importer-chictr | 10/08/2024 : 06:36 :   Transferring 154460 records to ad.study_organisations_new from ad.study_organisations, as a single batch
 ```
 
+## Drks
+Logs look very similar to prod.
+Added a log from prod for future comparison.
 
