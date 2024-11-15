@@ -1,0 +1,151 @@
+﻿
+11/15/2024 : 07:14 :   **** STARTING IMPORTER ****
+
+11/15/2024 : 07:14 :   Source_id is 100127
+11/15/2024 : 07:14 :   Rebuild AD tables is: False
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   ======================================================================
+11/15/2024 : 07:14 :   For source: 100127: jprn
+11/15/2024 : 07:14 :   ======================================================================
+11/15/2024 : 07:14 :   
+
+11/15/2024 : 07:14 :   **** SETUP ****
+
+
+11/15/2024 : 07:14 :   **** START IMPORT PROCESS ****
+
+11/15/2024 : 07:14 :   Foreign (mon) tables established in database
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.studies data, as a single batch
+11/15/2024 : 07:14 :   Adding 0 records to ad.studies, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_identifiers data, as a single batch
+11/15/2024 : 07:14 :   Adding 0 records to ad.study_identifiers, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_titles data, as a single batch
+11/15/2024 : 07:14 :   Adding 0 records to ad.study_titles, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_people data, as a single batch
+11/15/2024 : 07:14 :   Adding 0 records to ad.study_people, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_organisations data, as a single batch
+11/15/2024 : 07:14 :   Adding 0 records to ad.study_organisations, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_features data, as a single batch
+11/15/2024 : 07:14 :   Adding 0 records to ad.study_features, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_countries data, as a single batch
+11/15/2024 : 07:14 :   Adding 0 records to ad.study_countries, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 1 to 200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 200001 to 400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 400001 to 600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 600001 to 800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 800001 to 1000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 1000001 to 1200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 1200001 to 1400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 1400001 to 1600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 1600001 to 1800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 1800001 to 2000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 2000001 to 2200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 2200001 to 2400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 2400001 to 2600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 2600001 to 2800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 2800001 to 3000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 3000001 to 3200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 3200001 to 3400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 3400001 to 3600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 3600001 to 3800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 3800001 to 4000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 4000001 to 4200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 4200001 to 4400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 4400001 to 4600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 4600001 to 4800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 4800001 to 5000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 5000001 to 5200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 5200001 to 5400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 5400001 to 5600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 5600001 to 5800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 5800001 to 6000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 6000001 to 6200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 6200001 to 6400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 6400001 to 6600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 6600001 to 6800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 6800001 to 7000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 7000001 to 7200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 7200001 to 7400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 7400001 to 7600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 7600001 to 7800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 7800001 to 8000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 8000001 to 8200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 8200001 to 8400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 8400001 to 8600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 8600001 to 8800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 8800001 to 9000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 9000001 to 9200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 9200001 to 9400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 9400001 to 9600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 9600001 to 9800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 9800001 to 10000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 10000001 to 10200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 10200001 to 10400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 10400001 to 10600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 10600001 to 10800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 10800001 to 11000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 11000001 to 11200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 11200001 to 11400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 11400001 to 11600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 11600001 to 11800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 11800001 to 12000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 12000001 to 12200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 12200001 to 12400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 12400001 to 12600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 12600001 to 12800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 12800001 to 13000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 13000001 to 13200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 13200001 to 13400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 13400001 to 13600000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 13600001 to 13800000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 13800001 to 14000000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 14000001 to 14200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 14200001 to 14400000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_conditions data, in ids 14400001 to 14421319
+11/15/2024 : 07:14 :   Deleted 0 records in total
+11/15/2024 : 07:14 :   Adding 0 records to ad.study_conditions, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_iec_upto12 data, as a single batch
+11/15/2024 : 07:14 :   Adding 0 records to ad.study_iec_upto12, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_iec_13to19 data, in ids 1 to 200000
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_iec_13to19 data, in ids 200001 to 200144
+11/15/2024 : 07:14 :   Deleted 0 records in total
+11/15/2024 : 07:14 :   Adding 0 records to ad.study_iec_13to19, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.study_iec_20on data, as a single batch
+11/15/2024 : 07:14 :   Adding 0 records to ad.study_iec_20on, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.data_objects data, as a single batch
+11/15/2024 : 07:14 :   Adding 0 records to ad.data_objects, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.object_titles data, as a single batch
+11/15/2024 : 07:14 :   Id sequence for ad.object_titles reset to 1
+11/15/2024 : 07:14 :   Adding 0 records to ad.object_titles, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.object_instances data, as a single batch
+11/15/2024 : 07:14 :   Adding 0 records to ad.object_instances, as a single batch
+11/15/2024 : 07:14 :   
+11/15/2024 : 07:14 :   Deleting 0 records of ad.object_dates data, as a single batch
+11/15/2024 : 07:14 :   Adding 0 records to ad.object_dates, as a single batch
+
+11/15/2024 : 07:14 :   **** NEW DATA ADDED TO AD TABLES ****
+
+
+11/15/2024 : 07:14 :   **** TIDY UP AND FINISH ****
+
+11/15/2024 : 07:14 :   Updating monitor records with import date / time,  0 records, as a single query
+11/15/2024 : 07:14 :   Foreign (mon) tables removed from database
+
+11/15/2024 : 07:14 :   **** CLOSING LOG ****
+
