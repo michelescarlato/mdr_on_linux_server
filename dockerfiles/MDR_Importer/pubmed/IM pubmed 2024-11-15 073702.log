@@ -1,0 +1,260 @@
+﻿
+11/15/2024 : 07:37 :   **** STARTING IMPORTER ****
+
+11/15/2024 : 07:37 :   Source_id is 100135
+11/15/2024 : 07:37 :   Rebuild AD tables is: False
+11/15/2024 : 07:37 :   
+11/15/2024 : 07:37 :   
+11/15/2024 : 07:37 :   ======================================================================
+11/15/2024 : 07:37 :   For source: 100135: pubmed
+11/15/2024 : 07:37 :   ======================================================================
+11/15/2024 : 07:37 :   
+
+11/15/2024 : 07:37 :   **** SETUP ****
+
+
+11/15/2024 : 07:37 :   **** START IMPORT PROCESS ****
+
+11/15/2024 : 07:37 :   Foreign (mon) tables established in database
+11/15/2024 : 07:37 :   
+11/15/2024 : 07:37 :   
+11/15/2024 : 07:37 :   Deleting 124608 records of ad.data_objects data, in ids 1 to 200000
+11/15/2024 : 07:37 :   Deleting 47509 records of ad.data_objects data, in ids 200001 to 284028
+11/15/2024 : 07:37 :   Deleted 172117 records in total
+11/15/2024 : 07:37 :   Compaction required for data_objects, (max id: 101108, actual size: 284028)
+11/15/2024 : 07:37 :   Transferring 101108 records to ad.data_objects_new from ad.data_objects, as a single batch
+11/15/2024 : 07:37 :   Compacted sequence for ad.data_objects, to 101108 rows
+11/15/2024 : 07:37 :   Adding 182576 records to ad.data_objects, as a single batch
+11/15/2024 : 07:37 :   
+11/15/2024 : 07:37 :   Deleting 123947 records of ad.object_titles data, in ids 1 to 200000
+11/15/2024 : 07:37 :   Deleting 48570 records of ad.object_titles data, in ids 200001 to 285270
+11/15/2024 : 07:37 :   Deleted 172517 records in total
+11/15/2024 : 07:37 :   Compaction required for object_titles, (max id: 101920, actual size: 285270)
+11/15/2024 : 07:37 :   Transferring 101920 records to ad.object_titles_new from ad.object_titles, as a single batch
+11/15/2024 : 07:37 :   Compacted sequence for ad.object_titles, to 101920 rows
+11/15/2024 : 07:37 :   Adding 183053 records to ad.object_titles, as a single batch
+11/15/2024 : 07:37 :   
+11/15/2024 : 07:37 :   Deleting 121948 records of ad.object_instances data, in ids 1 to 200000
+11/15/2024 : 07:37 :   Deleting 134954 records of ad.object_instances data, in ids 200001 to 400000
+11/15/2024 : 07:37 :   Deleting 18903 records of ad.object_instances data, in ids 400001 to 440555
+11/15/2024 : 07:37 :   Deleted 275805 records in total
+11/15/2024 : 07:37 :   Compaction required for object_instances, (max id: 138514, actual size: 440555)
+11/15/2024 : 07:37 :   Transferring 138514 records to ad.object_instances_new from ad.object_instances, as a single batch
+11/15/2024 : 07:37 :   Compacted sequence for ad.object_instances, to 138514 rows
+11/15/2024 : 07:37 :   Adding 200000 records to ad.object_instances, sd ids 1 to 200000
+11/15/2024 : 07:37 :   Adding 91642 records to ad.object_instances, sd ids 200001 to 291642
+11/15/2024 : 07:37 :   Added 291642 records in total
+11/15/2024 : 07:37 :   
+11/15/2024 : 07:37 :   Deleting 100105 records of ad.object_dates data, in ids 1 to 200000
+11/15/2024 : 07:37 :   Deleting 132264 records of ad.object_dates data, in ids 200001 to 400000
+11/15/2024 : 07:37 :   Deleting 142484 records of ad.object_dates data, in ids 400001 to 600000
+11/15/2024 : 07:37 :   Deleting 118300 records of ad.object_dates data, in ids 600001 to 800000
+11/15/2024 : 07:37 :   Deleting 97825 records of ad.object_dates data, in ids 800001 to 1000000
+11/15/2024 : 07:37 :   Deleting 76567 records of ad.object_dates data, in ids 1000001 to 1200000
+11/15/2024 : 07:37 :   Deleting 146020 records of ad.object_dates data, in ids 1200001 to 1400000
+11/15/2024 : 07:37 :   Deleting 186160 records of ad.object_dates data, in ids 1400001 to 1600000
+11/15/2024 : 07:37 :   Deleting 114026 records of ad.object_dates data, in ids 1600001 to 1800000
+11/15/2024 : 07:37 :   Deleting 122950 records of ad.object_dates data, in ids 1800001 to 2000000
+11/15/2024 : 07:37 :   Deleting 112138 records of ad.object_dates data, in ids 2000001 to 2200000
+11/15/2024 : 07:37 :   Deleting 55749 records of ad.object_dates data, in ids 2200001 to 2330693
+11/15/2024 : 07:37 :   Deleted 1404588 records in total
+11/15/2024 : 07:37 :   Compaction required for object_dates, (max id: 817819, actual size: 2330693)
+11/15/2024 : 07:37 :   Transferring 98976 records to ad.object_dates_new from ad.object_dates, ids 0 to 199999
+11/15/2024 : 07:37 :   Transferring 66989 records to ad.object_dates_new from ad.object_dates, ids 200000 to 399999
+11/15/2024 : 07:37 :   Transferring 56414 records to ad.object_dates_new from ad.object_dates, ids 400000 to 599999
+11/15/2024 : 07:37 :   Transferring 80487 records to ad.object_dates_new from ad.object_dates, ids 600000 to 799999
+11/15/2024 : 07:37 :   Transferring 100262 records to ad.object_dates_new from ad.object_dates, ids 800000 to 999999
+11/15/2024 : 07:37 :   Transferring 119171 records to ad.object_dates_new from ad.object_dates, ids 1000000 to 1199999
+11/15/2024 : 07:37 :   Transferring 44280 records to ad.object_dates_new from ad.object_dates, ids 1200000 to 1399999
+11/15/2024 : 07:37 :   Transferring 3100 records to ad.object_dates_new from ad.object_dates, ids 1400000 to 1599999
+11/15/2024 : 07:37 :   Transferring 69549 records to ad.object_dates_new from ad.object_dates, ids 1600000 to 1799999
+11/15/2024 : 07:37 :   Transferring 65573 records to ad.object_dates_new from ad.object_dates, ids 1800000 to 1999999
+11/15/2024 : 07:37 :   Transferring 57916 records to ad.object_dates_new from ad.object_dates, ids 2000000 to 2199999
+11/15/2024 : 07:37 :   Transferring 55102 records to ad.object_dates_new from ad.object_dates, ids 2200000 to 2330693
+11/15/2024 : 07:37 :   Compacted sequence for ad.object_dates, to 817819 rows
+11/15/2024 : 07:37 :   Adding 200000 records to ad.object_dates, sd ids 1 to 200000
+11/15/2024 : 07:37 :   Adding 200000 records to ad.object_dates, sd ids 200001 to 400000
+11/15/2024 : 07:37 :   Adding 200000 records to ad.object_dates, sd ids 400001 to 600000
+11/15/2024 : 07:37 :   Adding 200000 records to ad.object_dates, sd ids 600001 to 800000
+11/15/2024 : 07:37 :   Adding 200000 records to ad.object_dates, sd ids 800001 to 1000000
+11/15/2024 : 07:37 :   Adding 200000 records to ad.object_dates, sd ids 1000001 to 1200000
+11/15/2024 : 07:37 :   Adding 200000 records to ad.object_dates, sd ids 1200001 to 1400000
+11/15/2024 : 07:37 :   Adding 95787 records to ad.object_dates, sd ids 1400001 to 1495787
+11/15/2024 : 07:37 :   Added 1495787 records in total
+11/15/2024 : 07:37 :   
+11/15/2024 : 07:37 :   Deleting 108195 records of ad.object_people data, in ids 1 to 200000
+11/15/2024 : 07:37 :   Deleting 138250 records of ad.object_people data, in ids 200001 to 400000
+11/15/2024 : 07:37 :   Deleting 149405 records of ad.object_people data, in ids 400001 to 600000
+11/15/2024 : 07:37 :   Deleting 130879 records of ad.object_people data, in ids 600001 to 800000
+11/15/2024 : 07:37 :   Deleting 110332 records of ad.object_people data, in ids 800001 to 1000000
+11/15/2024 : 07:37 :   Deleting 92860 records of ad.object_people data, in ids 1000001 to 1200000
+11/15/2024 : 07:37 :   Deleting 101718 records of ad.object_people data, in ids 1200001 to 1400000
+11/15/2024 : 07:37 :   Deleting 190246 records of ad.object_people data, in ids 1400001 to 1600000
+11/15/2024 : 07:37 :   Deleting 194715 records of ad.object_people data, in ids 1600001 to 1800000
+11/15/2024 : 07:37 :   Deleting 111292 records of ad.object_people data, in ids 1800001 to 2000000
+11/15/2024 : 07:37 :   Deleting 122854 records of ad.object_people data, in ids 2000001 to 2200000
+11/15/2024 : 07:37 :   Deleting 132424 records of ad.object_people data, in ids 2200001 to 2400000
+11/15/2024 : 07:37 :   Deleting 106393 records of ad.object_people data, in ids 2400001 to 2600000
+11/15/2024 : 07:37 :   Deleting 30612 records of ad.object_people data, in ids 2600001 to 2681488
+11/15/2024 : 07:37 :   Deleted 1720175 records in total
+11/15/2024 : 07:38 :   Compaction required for object_people, (max id: 932381, actual size: 2681488)
+11/15/2024 : 07:38 :   Transferring 91789 records to ad.object_people_new from ad.object_people, ids 0 to 199999
+11/15/2024 : 07:38 :   Transferring 61686 records to ad.object_people_new from ad.object_people, ids 200000 to 399999
+11/15/2024 : 07:38 :   Transferring 50546 records to ad.object_people_new from ad.object_people, ids 400000 to 599999
+11/15/2024 : 07:38 :   Transferring 69086 records to ad.object_people_new from ad.object_people, ids 600000 to 799999
+11/15/2024 : 07:38 :   Transferring 89579 records to ad.object_people_new from ad.object_people, ids 800000 to 999999
+11/15/2024 : 07:38 :   Transferring 107001 records to ad.object_people_new from ad.object_people, ids 1000000 to 1199999
+11/15/2024 : 07:38 :   Transferring 98037 records to ad.object_people_new from ad.object_people, ids 1200000 to 1399999
+11/15/2024 : 07:38 :   Transferring 9220 records to ad.object_people_new from ad.object_people, ids 1400000 to 1599999
+11/15/2024 : 07:38 :   Transferring 3840 records to ad.object_people_new from ad.object_people, ids 1600000 to 1799999
+11/15/2024 : 07:38 :   Transferring 80452 records to ad.object_people_new from ad.object_people, ids 1800000 to 1999999
+11/15/2024 : 07:38 :   Transferring 75065 records to ad.object_people_new from ad.object_people, ids 2000000 to 2199999
+11/15/2024 : 07:38 :   Transferring 65009 records to ad.object_people_new from ad.object_people, ids 2200000 to 2399999
+11/15/2024 : 07:38 :   Transferring 86003 records to ad.object_people_new from ad.object_people, ids 2400000 to 2599999
+11/15/2024 : 07:38 :   Transferring 45068 records to ad.object_people_new from ad.object_people, ids 2600000 to 2681488
+11/15/2024 : 07:38 :   Compacted sequence for ad.object_people, to 932381 rows
+11/15/2024 : 07:38 :   Adding 200000 records to ad.object_people, sd ids 1 to 200000
+11/15/2024 : 07:38 :   Adding 200000 records to ad.object_people, sd ids 200001 to 400000
+11/15/2024 : 07:38 :   Adding 200000 records to ad.object_people, sd ids 400001 to 600000
+11/15/2024 : 07:38 :   Adding 200000 records to ad.object_people, sd ids 600001 to 800000
+11/15/2024 : 07:38 :   Adding 200000 records to ad.object_people, sd ids 800001 to 1000000
+11/15/2024 : 07:38 :   Adding 200000 records to ad.object_people, sd ids 1000001 to 1200000
+11/15/2024 : 07:38 :   Adding 200000 records to ad.object_people, sd ids 1200001 to 1400000
+11/15/2024 : 07:38 :   Adding 200000 records to ad.object_people, sd ids 1400001 to 1600000
+11/15/2024 : 07:38 :   Adding 200000 records to ad.object_people, sd ids 1600001 to 1800000
+11/15/2024 : 07:38 :   Adding 2685 records to ad.object_people, sd ids 1800001 to 1802685
+11/15/2024 : 07:38 :   Added 1802685 records in total
+11/15/2024 : 07:38 :   
+11/15/2024 : 07:38 :   Deleting 12367 records of ad.object_organisations data, as a single batch
+11/15/2024 : 07:38 :   Compaction required for object_organisations, (max id: 5247, actual size: 17781)
+11/15/2024 : 07:38 :   Transferring 5247 records to ad.object_organisations_new from ad.object_organisations, as a single batch
+11/15/2024 : 07:38 :   Compacted sequence for ad.object_organisations, to 5247 rows
+11/15/2024 : 07:38 :   Adding 12780 records to ad.object_organisations, as a single batch
+11/15/2024 : 07:38 :   
+11/15/2024 : 07:38 :   Deleting 95690 records of ad.object_topics data, in ids 1 to 200000
+11/15/2024 : 07:38 :   Deleting 110497 records of ad.object_topics data, in ids 200001 to 400000
+11/15/2024 : 07:38 :   Deleting 128884 records of ad.object_topics data, in ids 400001 to 600000
+11/15/2024 : 07:38 :   Deleting 131828 records of ad.object_topics data, in ids 600001 to 800000
+11/15/2024 : 07:38 :   Deleting 136732 records of ad.object_topics data, in ids 800001 to 1000000
+11/15/2024 : 07:39 :   Deleting 135807 records of ad.object_topics data, in ids 1000001 to 1200000
+11/15/2024 : 07:39 :   Deleting 100926 records of ad.object_topics data, in ids 1200001 to 1400000
+11/15/2024 : 07:39 :   Deleting 97108 records of ad.object_topics data, in ids 1400001 to 1600000
+11/15/2024 : 07:39 :   Deleting 88766 records of ad.object_topics data, in ids 1600001 to 1800000
+11/15/2024 : 07:39 :   Deleting 70039 records of ad.object_topics data, in ids 1800001 to 2000000
+11/15/2024 : 07:39 :   Deleting 71291 records of ad.object_topics data, in ids 2000001 to 2200000
+11/15/2024 : 07:39 :   Deleting 148098 records of ad.object_topics data, in ids 2200001 to 2400000
+11/15/2024 : 07:39 :   Deleting 173121 records of ad.object_topics data, in ids 2400001 to 2600000
+11/15/2024 : 07:39 :   Deleting 172478 records of ad.object_topics data, in ids 2600001 to 2800000
+11/15/2024 : 07:39 :   Deleting 96645 records of ad.object_topics data, in ids 2800001 to 3000000
+11/15/2024 : 07:39 :   Deleting 109799 records of ad.object_topics data, in ids 3000001 to 3200000
+11/15/2024 : 07:39 :   Deleting 122397 records of ad.object_topics data, in ids 3200001 to 3400000
+11/15/2024 : 07:39 :   Deleting 93557 records of ad.object_topics data, in ids 3400001 to 3600000
+11/15/2024 : 07:39 :   Deleting 66044 records of ad.object_topics data, in ids 3600001 to 3747027
+11/15/2024 : 07:39 :   Deleted 2149707 records in total
+11/15/2024 : 07:39 :   Compaction required for object_topics, (max id: 1253010, actual size: 3747027)
+11/15/2024 : 07:39 :   Transferring 102147 records to ad.object_topics_new from ad.object_topics, ids 0 to 199999
+11/15/2024 : 07:39 :   Transferring 85289 records to ad.object_topics_new from ad.object_topics, ids 200000 to 399999
+11/15/2024 : 07:39 :   Transferring 64619 records to ad.object_topics_new from ad.object_topics, ids 400000 to 599999
+11/15/2024 : 07:39 :   Transferring 60283 records to ad.object_topics_new from ad.object_topics, ids 600000 to 799999
+11/15/2024 : 07:39 :   Transferring 55215 records to ad.object_topics_new from ad.object_topics, ids 800000 to 999999
+11/15/2024 : 07:39 :   Transferring 55562 records to ad.object_topics_new from ad.object_topics, ids 1000000 to 1199999
+11/15/2024 : 07:39 :   Transferring 90886 records to ad.object_topics_new from ad.object_topics, ids 1200000 to 1399999
+11/15/2024 : 07:39 :   Transferring 94461 records to ad.object_topics_new from ad.object_topics, ids 1400000 to 1599999
+11/15/2024 : 07:39 :   Transferring 101703 records to ad.object_topics_new from ad.object_topics, ids 1600000 to 1799999
+11/15/2024 : 07:39 :   Transferring 118725 records to ad.object_topics_new from ad.object_topics, ids 1800000 to 1999999
+11/15/2024 : 07:39 :   Transferring 113237 records to ad.object_topics_new from ad.object_topics, ids 2000000 to 2199999
+11/15/2024 : 07:39 :   Transferring 30386 records to ad.object_topics_new from ad.object_topics, ids 2200000 to 2399999
+11/15/2024 : 07:39 :   Transferring 2334 records to ad.object_topics_new from ad.object_topics, ids 2400000 to 2599999
+11/15/2024 : 07:39 :   Transferring 4545 records to ad.object_topics_new from ad.object_topics, ids 2600000 to 2799999
+11/15/2024 : 07:39 :   Transferring 79775 records to ad.object_topics_new from ad.object_topics, ids 2800000 to 2999999
+11/15/2024 : 07:39 :   Transferring 56796 records to ad.object_topics_new from ad.object_topics, ids 3000000 to 3199999
+11/15/2024 : 07:39 :   Transferring 29052 records to ad.object_topics_new from ad.object_topics, ids 3200000 to 3399999
+11/15/2024 : 07:39 :   Transferring 46792 records to ad.object_topics_new from ad.object_topics, ids 3400000 to 3599999
+11/15/2024 : 07:39 :   Transferring 61203 records to ad.object_topics_new from ad.object_topics, ids 3600000 to 3747027
+11/15/2024 : 07:39 :   Compacted sequence for ad.object_topics, to 1253010 rows
+11/15/2024 : 07:39 :   Adding 200000 records to ad.object_topics, sd ids 1 to 200000
+11/15/2024 : 07:39 :   Adding 200000 records to ad.object_topics, sd ids 200001 to 400000
+11/15/2024 : 07:39 :   Adding 200000 records to ad.object_topics, sd ids 400001 to 600000
+11/15/2024 : 07:39 :   Adding 200000 records to ad.object_topics, sd ids 600001 to 800000
+11/15/2024 : 07:39 :   Adding 200000 records to ad.object_topics, sd ids 800001 to 1000000
+11/15/2024 : 07:39 :   Adding 200000 records to ad.object_topics, sd ids 1000001 to 1200000
+11/15/2024 : 07:39 :   Adding 200000 records to ad.object_topics, sd ids 1200001 to 1400000
+11/15/2024 : 07:39 :   Adding 200000 records to ad.object_topics, sd ids 1400001 to 1600000
+11/15/2024 : 07:39 :   Adding 200000 records to ad.object_topics, sd ids 1600001 to 1800000
+11/15/2024 : 07:39 :   Adding 200000 records to ad.object_topics, sd ids 1800001 to 2000000
+11/15/2024 : 07:39 :   Adding 200000 records to ad.object_topics, sd ids 2000001 to 2200000
+11/15/2024 : 07:39 :   Adding 56969 records to ad.object_topics, sd ids 2200001 to 2256969
+11/15/2024 : 07:39 :   Added 2256969 records in total
+11/15/2024 : 07:39 :   
+11/15/2024 : 07:39 :   Deleting 65776 records of ad.object_comments data, as a single batch
+11/15/2024 : 07:39 :   Compaction required for object_comments, (max id: 22000, actual size: 87776)
+11/15/2024 : 07:39 :   Transferring 22000 records to ad.object_comments_new from ad.object_comments, as a single batch
+11/15/2024 : 07:39 :   Compacted sequence for ad.object_comments, to 22000 rows
+11/15/2024 : 07:39 :   Adding 68056 records to ad.object_comments, as a single batch
+11/15/2024 : 07:39 :   
+11/15/2024 : 07:39 :   Deleting 124608 records of ad.object_descriptions data, in ids 1 to 200000
+11/15/2024 : 07:39 :   Deleting 47509 records of ad.object_descriptions data, in ids 200001 to 284028
+11/15/2024 : 07:39 :   Deleted 172117 records in total
+11/15/2024 : 07:39 :   Compaction required for object_descriptions, (max id: 101108, actual size: 284028)
+11/15/2024 : 07:39 :   Transferring 101108 records to ad.object_descriptions_new from ad.object_descriptions, as a single batch
+11/15/2024 : 07:39 :   Compacted sequence for ad.object_descriptions, to 101108 rows
+11/15/2024 : 07:39 :   Adding 182576 records to ad.object_descriptions, as a single batch
+11/15/2024 : 07:39 :   
+11/15/2024 : 07:40 :   Deleting 135974 records of ad.object_identifiers data, in ids 1 to 200000
+11/15/2024 : 07:40 :   Deleting 100702 records of ad.object_identifiers data, in ids 200001 to 400000
+11/15/2024 : 07:40 :   Deleting 144662 records of ad.object_identifiers data, in ids 400001 to 600000
+11/15/2024 : 07:40 :   Deleting 84554 records of ad.object_identifiers data, in ids 600001 to 757471
+11/15/2024 : 07:40 :   Deleted 465892 records in total
+11/15/2024 : 07:40 :   Compaction required for object_identifiers, (max id: 237225, actual size: 757471)
+11/15/2024 : 07:40 :   Transferring 61013 records to ad.object_identifiers_new from ad.object_identifiers, ids 0 to 199999
+11/15/2024 : 07:40 :   Transferring 91304 records to ad.object_identifiers_new from ad.object_identifiers, ids 200000 to 399999
+11/15/2024 : 07:40 :   Transferring 39322 records to ad.object_identifiers_new from ad.object_identifiers, ids 400000 to 599999
+11/15/2024 : 07:40 :   Transferring 45586 records to ad.object_identifiers_new from ad.object_identifiers, ids 600000 to 757471
+11/15/2024 : 07:40 :   Compacted sequence for ad.object_identifiers, to 237225 rows
+11/15/2024 : 07:40 :   Adding 200000 records to ad.object_identifiers, sd ids 1 to 200000
+11/15/2024 : 07:40 :   Adding 200000 records to ad.object_identifiers, sd ids 200001 to 400000
+11/15/2024 : 07:40 :   Adding 92230 records to ad.object_identifiers, sd ids 400001 to 492230
+11/15/2024 : 07:40 :   Added 492230 records in total
+11/15/2024 : 07:40 :   
+11/15/2024 : 07:40 :   Deleting 128145 records of ad.object_db_links data, in ids 1 to 200000
+11/15/2024 : 07:40 :   Deleting 6447 records of ad.object_db_links data, in ids 200001 to 217768
+11/15/2024 : 07:40 :   Deleted 134592 records in total
+11/15/2024 : 07:40 :   Compaction required for object_db_links, (max id: 75063, actual size: 217768)
+11/15/2024 : 07:40 :   Transferring 75063 records to ad.object_db_links_new from ad.object_db_links, as a single batch
+11/15/2024 : 07:40 :   Compacted sequence for ad.object_db_links, to 75063 rows
+11/15/2024 : 07:40 :   Adding 135101 records to ad.object_db_links, as a single batch
+11/15/2024 : 07:40 :   
+11/15/2024 : 07:40 :   Deleting 126322 records of ad.object_publication_types data, in ids 1 to 200000
+11/15/2024 : 07:40 :   Deleting 117690 records of ad.object_publication_types data, in ids 200001 to 400000
+11/15/2024 : 07:40 :   Deleting 110839 records of ad.object_publication_types data, in ids 400001 to 569329
+11/15/2024 : 07:40 :   Deleted 354851 records in total
+11/15/2024 : 07:40 :   Compaction required for object_publication_types, (max id: 207379, actual size: 569329)
+11/15/2024 : 07:40 :   Transferring 73584 records to ad.object_publication_types_new from ad.object_publication_types, ids 0 to 199999
+11/15/2024 : 07:40 :   Transferring 81817 records to ad.object_publication_types_new from ad.object_publication_types, ids 200000 to 399999
+11/15/2024 : 07:40 :   Transferring 51978 records to ad.object_publication_types_new from ad.object_publication_types, ids 400000 to 569329
+11/15/2024 : 07:40 :   Compacted sequence for ad.object_publication_types, to 207379 rows
+11/15/2024 : 07:40 :   Adding 200000 records to ad.object_publication_types, sd ids 1 to 200000
+11/15/2024 : 07:40 :   Adding 172180 records to ad.object_publication_types, sd ids 200001 to 372180
+11/15/2024 : 07:40 :   Added 372180 records in total
+11/15/2024 : 07:40 :   
+11/15/2024 : 07:40 :   Deleting 124608 records of ad.journal_details data, in ids 1 to 200000
+11/15/2024 : 07:40 :   Deleting 47509 records of ad.journal_details data, in ids 200001 to 284028
+11/15/2024 : 07:40 :   Deleted 172117 records in total
+11/15/2024 : 07:40 :   Compaction required for journal_details, (max id: 101108, actual size: 284028)
+11/15/2024 : 07:40 :   Transferring 101108 records to ad.journal_details_new from ad.journal_details, as a single batch
+11/15/2024 : 07:40 :   Compacted sequence for ad.journal_details, to 101108 rows
+11/15/2024 : 07:40 :   Adding 182576 records to ad.journal_details, as a single batch
+
+11/15/2024 : 07:40 :   **** NEW DATA ADDED TO AD TABLES ****
+
+
+11/15/2024 : 07:40 :   **** TIDY UP AND FINISH ****
+
+11/15/2024 : 07:40 :   Updating monitor records with import date / time,  1 to 50000
+11/15/2024 : 07:40 :   Updating monitor records with import date / time,  50001 to 100000
+11/15/2024 : 07:40 :   Updating monitor records with import date / time,  100001 to 150000
+11/15/2024 : 07:40 :   Updating monitor records with import date / time,  150001 to 182576
+11/15/2024 : 07:40 :   Foreign (mon) tables removed from database
+
+11/15/2024 : 07:40 :   **** CLOSING LOG ****
+

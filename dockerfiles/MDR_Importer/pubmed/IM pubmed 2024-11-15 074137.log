@@ -1,0 +1,173 @@
+﻿
+11/15/2024 : 07:41 :   **** STARTING IMPORTER ****
+
+11/15/2024 : 07:41 :   Source_id is 100135
+11/15/2024 : 07:41 :   Rebuild AD tables is: False
+11/15/2024 : 07:41 :   
+11/15/2024 : 07:41 :   
+11/15/2024 : 07:41 :   ======================================================================
+11/15/2024 : 07:41 :   For source: 100135: pubmed
+11/15/2024 : 07:41 :   ======================================================================
+11/15/2024 : 07:41 :   
+
+11/15/2024 : 07:41 :   **** SETUP ****
+
+
+11/15/2024 : 07:41 :   **** START IMPORT PROCESS ****
+
+11/15/2024 : 07:41 :   Foreign (mon) tables established in database
+11/15/2024 : 07:41 :   
+11/15/2024 : 07:41 :   
+11/15/2024 : 07:41 :   Deleting 98892 records of ad.data_objects data, in ids 1 to 200000
+11/15/2024 : 07:41 :   Deleting 83684 records of ad.data_objects data, in ids 200001 to 283684
+11/15/2024 : 07:41 :   Deleted 182576 records in total
+11/15/2024 : 07:41 :   Adding 182576 records to ad.data_objects, as a single batch
+11/15/2024 : 07:41 :   
+11/15/2024 : 07:41 :   Deleting 98080 records of ad.object_titles data, in ids 1 to 200000
+11/15/2024 : 07:41 :   Deleting 84973 records of ad.object_titles data, in ids 200001 to 284973
+11/15/2024 : 07:41 :   Deleted 183053 records in total
+11/15/2024 : 07:41 :   Adding 183053 records to ad.object_titles, as a single batch
+11/15/2024 : 07:41 :   
+11/15/2024 : 07:41 :   Deleting 61486 records of ad.object_instances data, in ids 1 to 200000
+11/15/2024 : 07:41 :   Deleting 200000 records of ad.object_instances data, in ids 200001 to 400000
+11/15/2024 : 07:41 :   Deleting 30156 records of ad.object_instances data, in ids 400001 to 430156
+11/15/2024 : 07:41 :   Deleted 291642 records in total
+11/15/2024 : 07:41 :   Adding 200000 records to ad.object_instances, sd ids 1 to 200000
+11/15/2024 : 07:41 :   Adding 91642 records to ad.object_instances, sd ids 200001 to 291642
+11/15/2024 : 07:41 :   Added 291642 records in total
+11/15/2024 : 07:41 :   
+11/15/2024 : 07:41 :   Deleting 0 records of ad.object_dates data, in ids 1 to 200000
+11/15/2024 : 07:41 :   Deleting 0 records of ad.object_dates data, in ids 200001 to 400000
+11/15/2024 : 07:41 :   Deleting 0 records of ad.object_dates data, in ids 400001 to 600000
+11/15/2024 : 07:41 :   Deleting 0 records of ad.object_dates data, in ids 600001 to 800000
+11/15/2024 : 07:41 :   Deleting 182181 records of ad.object_dates data, in ids 800001 to 1000000
+11/15/2024 : 07:41 :   Deleting 200000 records of ad.object_dates data, in ids 1000001 to 1200000
+11/15/2024 : 07:41 :   Deleting 200000 records of ad.object_dates data, in ids 1200001 to 1400000
+11/15/2024 : 07:41 :   Deleting 200000 records of ad.object_dates data, in ids 1400001 to 1600000
+11/15/2024 : 07:41 :   Deleting 200000 records of ad.object_dates data, in ids 1600001 to 1800000
+11/15/2024 : 07:41 :   Deleting 200000 records of ad.object_dates data, in ids 1800001 to 2000000
+11/15/2024 : 07:41 :   Deleting 200000 records of ad.object_dates data, in ids 2000001 to 2200000
+11/15/2024 : 07:41 :   Deleting 113606 records of ad.object_dates data, in ids 2200001 to 2313606
+11/15/2024 : 07:41 :   Deleted 1495787 records in total
+11/15/2024 : 07:41 :   Adding 200000 records to ad.object_dates, sd ids 1 to 200000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_dates, sd ids 200001 to 400000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_dates, sd ids 400001 to 600000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_dates, sd ids 600001 to 800000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_dates, sd ids 800001 to 1000000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_dates, sd ids 1000001 to 1200000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_dates, sd ids 1200001 to 1400000
+11/15/2024 : 07:42 :   Adding 95787 records to ad.object_dates, sd ids 1400001 to 1495787
+11/15/2024 : 07:42 :   Added 1495787 records in total
+11/15/2024 : 07:42 :   
+11/15/2024 : 07:42 :   Deleting 0 records of ad.object_people data, in ids 1 to 200000
+11/15/2024 : 07:42 :   Deleting 0 records of ad.object_people data, in ids 200001 to 400000
+11/15/2024 : 07:42 :   Deleting 0 records of ad.object_people data, in ids 400001 to 600000
+11/15/2024 : 07:42 :   Deleting 0 records of ad.object_people data, in ids 600001 to 800000
+11/15/2024 : 07:42 :   Deleting 67619 records of ad.object_people data, in ids 800001 to 1000000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_people data, in ids 1000001 to 1200000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_people data, in ids 1200001 to 1400000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_people data, in ids 1400001 to 1600000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_people data, in ids 1600001 to 1800000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_people data, in ids 1800001 to 2000000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_people data, in ids 2000001 to 2200000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_people data, in ids 2200001 to 2400000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_people data, in ids 2400001 to 2600000
+11/15/2024 : 07:42 :   Deleting 135066 records of ad.object_people data, in ids 2600001 to 2735066
+11/15/2024 : 07:42 :   Deleted 1802685 records in total
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_people, sd ids 1 to 200000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_people, sd ids 200001 to 400000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_people, sd ids 400001 to 600000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_people, sd ids 600001 to 800000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_people, sd ids 800001 to 1000000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_people, sd ids 1000001 to 1200000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_people, sd ids 1200001 to 1400000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_people, sd ids 1400001 to 1600000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_people, sd ids 1600001 to 1800000
+11/15/2024 : 07:42 :   Adding 2685 records to ad.object_people, sd ids 1800001 to 1802685
+11/15/2024 : 07:42 :   Added 1802685 records in total
+11/15/2024 : 07:42 :   
+11/15/2024 : 07:42 :   Deleting 12780 records of ad.object_organisations data, as a single batch
+11/15/2024 : 07:42 :   Adding 12780 records to ad.object_organisations, as a single batch
+11/15/2024 : 07:42 :   
+11/15/2024 : 07:42 :   Deleting 0 records of ad.object_topics data, in ids 1 to 200000
+11/15/2024 : 07:42 :   Deleting 0 records of ad.object_topics data, in ids 200001 to 400000
+11/15/2024 : 07:42 :   Deleting 0 records of ad.object_topics data, in ids 400001 to 600000
+11/15/2024 : 07:42 :   Deleting 0 records of ad.object_topics data, in ids 600001 to 800000
+11/15/2024 : 07:42 :   Deleting 0 records of ad.object_topics data, in ids 800001 to 1000000
+11/15/2024 : 07:42 :   Deleting 0 records of ad.object_topics data, in ids 1000001 to 1200000
+11/15/2024 : 07:42 :   Deleting 146990 records of ad.object_topics data, in ids 1200001 to 1400000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_topics data, in ids 1400001 to 1600000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_topics data, in ids 1600001 to 1800000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_topics data, in ids 1800001 to 2000000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_topics data, in ids 2000001 to 2200000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_topics data, in ids 2200001 to 2400000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_topics data, in ids 2400001 to 2600000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_topics data, in ids 2600001 to 2800000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_topics data, in ids 2800001 to 3000000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_topics data, in ids 3000001 to 3200000
+11/15/2024 : 07:42 :   Deleting 200000 records of ad.object_topics data, in ids 3200001 to 3400000
+11/15/2024 : 07:42 :   Deleting 109979 records of ad.object_topics data, in ids 3400001 to 3509979
+11/15/2024 : 07:42 :   Deleted 2256969 records in total
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_topics, sd ids 1 to 200000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_topics, sd ids 200001 to 400000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_topics, sd ids 400001 to 600000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_topics, sd ids 600001 to 800000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_topics, sd ids 800001 to 1000000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_topics, sd ids 1000001 to 1200000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_topics, sd ids 1200001 to 1400000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_topics, sd ids 1400001 to 1600000
+11/15/2024 : 07:42 :   Adding 200000 records to ad.object_topics, sd ids 1600001 to 1800000
+11/15/2024 : 07:43 :   Adding 200000 records to ad.object_topics, sd ids 1800001 to 2000000
+11/15/2024 : 07:43 :   Adding 200000 records to ad.object_topics, sd ids 2000001 to 2200000
+11/15/2024 : 07:43 :   Adding 56969 records to ad.object_topics, sd ids 2200001 to 2256969
+11/15/2024 : 07:43 :   Added 2256969 records in total
+11/15/2024 : 07:43 :   
+11/15/2024 : 07:43 :   Deleting 68056 records of ad.object_comments data, as a single batch
+11/15/2024 : 07:43 :   Adding 68056 records to ad.object_comments, as a single batch
+11/15/2024 : 07:43 :   
+11/15/2024 : 07:43 :   Deleting 98892 records of ad.object_descriptions data, in ids 1 to 200000
+11/15/2024 : 07:43 :   Deleting 83684 records of ad.object_descriptions data, in ids 200001 to 283684
+11/15/2024 : 07:43 :   Deleted 182576 records in total
+11/15/2024 : 07:43 :   Adding 182576 records to ad.object_descriptions, as a single batch
+11/15/2024 : 07:43 :   
+11/15/2024 : 07:43 :   Deleting 0 records of ad.object_identifiers data, in ids 1 to 200000
+11/15/2024 : 07:43 :   Deleting 162775 records of ad.object_identifiers data, in ids 200001 to 400000
+11/15/2024 : 07:43 :   Deleting 200000 records of ad.object_identifiers data, in ids 400001 to 600000
+11/15/2024 : 07:43 :   Deleting 129455 records of ad.object_identifiers data, in ids 600001 to 729455
+11/15/2024 : 07:43 :   Deleted 492230 records in total
+11/15/2024 : 07:43 :   Adding 200000 records to ad.object_identifiers, sd ids 1 to 200000
+11/15/2024 : 07:43 :   Adding 200000 records to ad.object_identifiers, sd ids 200001 to 400000
+11/15/2024 : 07:43 :   Adding 92230 records to ad.object_identifiers, sd ids 400001 to 492230
+11/15/2024 : 07:43 :   Added 492230 records in total
+11/15/2024 : 07:43 :   
+11/15/2024 : 07:43 :   Deleting 124937 records of ad.object_db_links data, in ids 1 to 200000
+11/15/2024 : 07:43 :   Deleting 10164 records of ad.object_db_links data, in ids 200001 to 210164
+11/15/2024 : 07:43 :   Deleted 135101 records in total
+11/15/2024 : 07:43 :   Adding 135101 records to ad.object_db_links, as a single batch
+11/15/2024 : 07:43 :   
+11/15/2024 : 07:43 :   Deleting 0 records of ad.object_publication_types data, in ids 1 to 200000
+11/15/2024 : 07:43 :   Deleting 192621 records of ad.object_publication_types data, in ids 200001 to 400000
+11/15/2024 : 07:43 :   Deleting 179559 records of ad.object_publication_types data, in ids 400001 to 579559
+11/15/2024 : 07:43 :   Deleted 372180 records in total
+11/15/2024 : 07:43 :   Adding 200000 records to ad.object_publication_types, sd ids 1 to 200000
+11/15/2024 : 07:43 :   Adding 172180 records to ad.object_publication_types, sd ids 200001 to 372180
+11/15/2024 : 07:43 :   Added 372180 records in total
+11/15/2024 : 07:43 :   
+11/15/2024 : 07:43 :   Deleting 98892 records of ad.journal_details data, in ids 1 to 200000
+11/15/2024 : 07:43 :   Deleting 83684 records of ad.journal_details data, in ids 200001 to 283684
+11/15/2024 : 07:43 :   Deleted 182576 records in total
+11/15/2024 : 07:43 :   Adding 182576 records to ad.journal_details, as a single batch
+
+11/15/2024 : 07:43 :   **** NEW DATA ADDED TO AD TABLES ****
+
+
+11/15/2024 : 07:43 :   **** TIDY UP AND FINISH ****
+
+11/15/2024 : 07:43 :   Updating monitor records with import date / time,  1 to 50000
+11/15/2024 : 07:43 :   Updating monitor records with import date / time,  50001 to 100000
+11/15/2024 : 07:43 :   Updating monitor records with import date / time,  100001 to 150000
+11/15/2024 : 07:43 :   Updating monitor records with import date / time,  150001 to 182576
+11/15/2024 : 07:43 :   Foreign (mon) tables removed from database
+
+11/15/2024 : 07:43 :   **** CLOSING LOG ****
+
