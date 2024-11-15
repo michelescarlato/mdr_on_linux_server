@@ -38,3 +38,18 @@ Logs look very similar to prod.
 
 ## Isrctn
 Logs look very similar to prod.
+
+## Japctr
+Logs look very similar to prod.
+Despite I can notice that in prod there is a counter 
+```
+30/10/2024 : 07:00 :   Deleting 0 records of ad.study_conditions data, in ids 1 to 200000
+30/10/2024 : 07:00 :   Deleting 0 records of ad.study_conditions data, in ids 200001 to 400000
+30/10/2024 : 07:00 :   Deleting 0 records of ad.study_conditions data, in ids 400001 to 600000
+...
+30/10/2024 : 07:00 :   Deleting 0 records of ad.study_conditions data, in ids 14000001 to 14200000
+30/10/2024 : 07:00 :   Deleting 0 records of ad.study_conditions data, in ids 14200001 to 14400000
+30/10/2024 : 07:00 :   Deleting 0 records of ad.study_conditions data, in ids 14400001 to 14422736
+```
+In Prod the counter starts from 6 December 2023.
+It is worthy to understand why.
