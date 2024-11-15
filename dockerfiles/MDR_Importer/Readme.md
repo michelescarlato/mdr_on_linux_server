@@ -33,3 +33,5 @@ mdr-importer-chictr | 10/08/2024 : 06:36 :   Transferring 154460 records to ad.s
 Logs look very similar to prod.
 Added a log from prod for future comparison.
 
+## Euctr
+Logs look very similar to prod.
