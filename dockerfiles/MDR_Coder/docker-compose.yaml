@@ -21,3 +21,14 @@ services:
       - $HOME/MDR_Sources:/app/MDR_Sources
       - $HOME/MDR_Data:/app/MDR_Data
     command: [ "dotnet", "MDR_Coder.dll", "-s", "101900", "-a", "2" ]
+
+  braz:
+    image: mdr-coder-dotnet8
+    container_name: mdr-coder-braz
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Coder.dll", "-s", "100117, 100119, 100122, 100129, 109108", "-a", "2" ]
+
