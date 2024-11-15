@@ -92,6 +92,16 @@ services:
       - $HOME/MDR_Data:/app/MDR_Data
     command: [ "dotnet", "MDR_Importer.dll", "-s", "100127"]
 
+  lebctr:
+    image: mdr-importer-dotnet8
+    container_name: mdr-importer-lebctr
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Importer.dll", "-s", "100125,100128,100130,100131,101989"]
+
   nntr:
     image: mdr-importer-dotnet8
     container_name: mdr-importer-nntr
