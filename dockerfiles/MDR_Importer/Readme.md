@@ -54,8 +54,14 @@ Despite I can notice that in prod there is a counter
 In Prod the counter starts from 6 December 2023.
 It is worthy to understand why.
 
+## Lebctr
+Logs look very similar to prod.
+
 ## Nntr
 Logs look very similar to prod.
 
 ## Pubmed
+Logs look very similar to prod.
+
+## Yoda
 Logs look very similar to prod.

@@ -1,0 +1,64 @@
+﻿
+11/15/2024 : 08:00 :   **** STARTING IMPORTER ****
+
+11/15/2024 : 08:00 :   Source_id is 101901
+11/15/2024 : 08:00 :   Rebuild AD tables is: False
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   ======================================================================
+11/15/2024 : 08:00 :   For source: 101901: yoda
+11/15/2024 : 08:00 :   ======================================================================
+11/15/2024 : 08:00 :   
+
+11/15/2024 : 08:00 :   **** SETUP ****
+
+
+11/15/2024 : 08:00 :   **** START IMPORT PROCESS ****
+
+11/15/2024 : 08:00 :   Foreign (mon) tables established in database
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   Deleting 470 records of ad.studies data, as a single batch
+11/15/2024 : 08:00 :   Adding 470 records to ad.studies, as a single batch
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   Deleting 906 records of ad.study_identifiers data, as a single batch
+11/15/2024 : 08:00 :   Adding 906 records to ad.study_identifiers, as a single batch
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   Deleting 470 records of ad.study_titles data, as a single batch
+11/15/2024 : 08:00 :   Adding 470 records to ad.study_titles, as a single batch
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   Deleting 269 records of ad.study_references data, as a single batch
+11/15/2024 : 08:00 :   Adding 269 records to ad.study_references, as a single batch
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   Deleting 470 records of ad.study_organisations data, as a single batch
+11/15/2024 : 08:00 :   Adding 470 records to ad.study_organisations, as a single batch
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   Deleting 924 records of ad.study_topics data, as a single batch
+11/15/2024 : 08:00 :   Adding 924 records to ad.study_topics, as a single batch
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   Deleting 467 records of ad.study_conditions data, as a single batch
+11/15/2024 : 08:00 :   Adding 467 records to ad.study_conditions, as a single batch
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   Deleting 2737 records of ad.data_objects data, as a single batch
+11/15/2024 : 08:00 :   Adding 2737 records to ad.data_objects, as a single batch
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   Deleting 0 records of ad.object_titles data, as a single batch
+11/15/2024 : 08:00 :   Id sequence for ad.object_titles reset to 1
+11/15/2024 : 08:00 :   Adding 0 records to ad.object_titles, as a single batch
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   Deleting 425 records of ad.object_datasets data, as a single batch
+11/15/2024 : 08:00 :   Adding 425 records to ad.object_datasets, as a single batch
+11/15/2024 : 08:00 :   
+11/15/2024 : 08:00 :   Deleting 930 records of ad.object_instances data, as a single batch
+11/15/2024 : 08:00 :   Adding 930 records to ad.object_instances, as a single batch
+
+11/15/2024 : 08:00 :   **** NEW DATA ADDED TO AD TABLES ****
+
+
+11/15/2024 : 08:00 :   **** TIDY UP AND FINISH ****
+
+11/15/2024 : 08:00 :   Updating monitor records with import date / time,  470 records, as a single query
+11/15/2024 : 08:00 :   Foreign (mon) tables removed from database
+
+11/15/2024 : 08:00 :   **** CLOSING LOG ****
+
