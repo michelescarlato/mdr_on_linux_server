@@ -15,6 +15,7 @@ services:
   biolincc:
     image: mdr-coder-dotnet8
     container_name: mdr-coder-biolincc
+    network_mode: "host"
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
