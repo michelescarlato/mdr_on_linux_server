@@ -1,0 +1,54 @@
+version: '3.8'
+
+services:
+
+  aggregate-iec-data:
+    image: mdr-aggregator-dotnet8
+    container_name: mdr-aggregate-iec-data
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Aggregator.dll", "-I"]
+
+  aggregate-study-and-object-data:
+    image: mdr-aggregator-dotnet8
+    container_name: mdr-aggregate-study-and-object-data
+    network_mode: "host"
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Aggregator.dll", "-D" ]
+
+  create-core-mdr-db:
+    image: mdr-aggregator-dotnet8
+    container_name: mdr-agg-create-core-mdr-db
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Aggregator.dll", "-C" ]
+
+  create-aggregation-statistics:
+    image: mdr-aggregator-dotnet8
+    container_name: mdr-agg-create-aggregation-statistics
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Aggregator.dll", "-S" ]
+
+  create-indexes:
+    image: mdr-aggregator-dotnet8
+    container_name: mdr-agg-create-indexes
+    volumes:
+      - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
+      - $HOME/MDR_Test:/app/test
+      - $HOME/MDR_Sources:/app/MDR_Sources
+      - $HOME/MDR_Data:/app/MDR_Data
+    command: [ "dotnet", "MDR_Aggregator.dll", "-X" ]
