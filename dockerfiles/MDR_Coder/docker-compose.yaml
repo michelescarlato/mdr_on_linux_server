@@ -45,6 +45,7 @@ services:
   ctg:
     image: mdr-coder-dotnet8
     container_name: mdr-coder-ctg
+    network_mode: "host"
     volumes:
       - $HOME/MDR_Logs_Docker_Volume:/app/MDR_Logs
       - $HOME/MDR_Test:/app/test
