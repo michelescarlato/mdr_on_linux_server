@@ -39,7 +39,26 @@ SET local_path = regexp_replace(local_path, '^ctg(NCT[0-9]{4}xxxx/)', 'ctg/\1')
 WHERE local_path LIKE 'ctgNCT%'
   AND local_path ~ '^ctgNCT[0-9]{4}xxxx/';
 ```
-
+From `F:\MDR_Data\ctg\NCT0657xxxx\NCT06578130.json` to `/app/MDR_Data/ctg/NCT0657xxxx/NCT06578130.json`
+```
+WITH to_fix AS (
+  SELECT
+    sd_sid,
+    local_path AS old_path,
+    regexp_replace(
+      replace(local_path, E'\\', '/'),
+      '^[A-Za-z]:/MDR_Data/',
+      '/app/MDR_Data/'
+    ) AS new_path
+  FROM mn.source_data
+  WHERE local_path ~ '^[A-Za-z]:\\MDR_Data\\'
+)
+UPDATE mn.source_data s
+SET local_path = f.new_path
+FROM to_fix f
+WHERE s.sd_sid = f.sd_sid
+RETURNING s.sd_sid, f.old_path, f.new_path;
+```
 
 ## China CTR (Chictr)
 ```sql
