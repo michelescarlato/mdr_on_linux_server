@@ -40,7 +40,7 @@ WHERE local_path LIKE 'ctgNCT%'
   AND local_path ~ '^ctgNCT[0-9]{4}xxxx/';
 ```
 From `F:\MDR_Data\ctg\NCT0657xxxx\NCT06578130.json` to `/app/MDR_Data/ctg/NCT0657xxxx/NCT06578130.json`
-```
+```sql
 WITH to_fix AS (
   SELECT
     sd_sid,
@@ -121,7 +121,7 @@ Still data needs to be fully imported from Prod DB.
 
 ## JapCTR
 
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\jprn\', '/app/MDR_Data/jprn/');
 ```
@@ -134,7 +134,7 @@ MDR_Data updated from Prod env.
 ## Leb, SriLnkn, Thai, PAfr, Iranian CTRs Harvest
 
 Lebanon db update:
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\lebctr\', '/app/MDR_Data/lebctr/');
 ```
@@ -146,7 +146,7 @@ Query returned successfully in 504 msec.
 
 SriLnkn db update:
 
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\slctr\', '/app/MDR_Data/slctr/');
 ```
@@ -159,12 +159,12 @@ Query returned successfully in 907 msec.
 
 Thai db:
 
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\thctr\', '/app/MDR_Data/thctr/');
 ```
 
-```
+```sql
 UPDATE 9538
 
 Query returned successfully in 581 msec.
@@ -172,7 +172,7 @@ Query returned successfully in 581 msec.
 
 Pactr db:
 
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\pactr\', '/app/MDR_Data/pactr/');
 ```
@@ -185,7 +185,7 @@ Query returned successfully in 535 msec.
 
 Iran ctr db:
 
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\irct\', '/app/MDR_Data/irct/');
 ```
@@ -203,7 +203,7 @@ For the 4 sources data have been updated from Prod.
 
 Braz (rebec db):
 
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\rebec\', '/app/MDR_Data/rebec/');
 ```
@@ -215,7 +215,7 @@ Query returned successfully in 621 msec.
 ```
 
 Cuban rpcec db:
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\rpcec\', '/app/MDR_Data/rpcec/');
 ```
@@ -228,7 +228,7 @@ Query returned successfully in 568 msec.
 
 Peruvian rpuec db:
 
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\rpuec\', '/app/MDR_Data/rpuec/');
 ```
@@ -240,7 +240,7 @@ Query returned successfully in 421 msec.
 ```
 
 Korean (cris) db:
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\cris\', '/app/MDR_Data/cris/');
 ```
@@ -253,7 +253,7 @@ Query returned successfully in 865 msec.
 
 ITM db:
 
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\itmctr\', '/app/MDR_Data/itmctr/');
 ```
@@ -269,7 +269,7 @@ For the 5 sources MDR_data JSONs have been imported from Prod server.
 ## NNTR
 
 Run without issues.
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\nntr\', '/app/MDR_Data/nntr/');
 ```
@@ -277,7 +277,7 @@ Query run to change the path.
 
 ## Pubmed
 
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\pubmed\', '/app/MDR_Data/pubmed/');
 ```
@@ -288,7 +288,7 @@ UPDATE 283684
 Query returned successfully in 4 secs 844 msec.
 ```
 
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, '\', '/');
 ```
@@ -302,7 +302,7 @@ Query returned successfully in 3 secs 551 msec.
 
 To double-check that every local_path has been updated to the Linux fs format.
 
-```
+```sql
 SELECT local_path
 FROM mn.source_data
 WHERE local_path LIKE '%\\%';
@@ -310,9 +310,9 @@ WHERE local_path LIKE '%\\%';
 
 ## Yoda
 
-I removed 13 the entries with local_path pointing to F:\
+I removed 13 entries with local_path pointing to F:\
 
-```
+```sql
 DELETE FROM mn.source_data
 WHERE local_path LIKE 'F:\\%';
 ```
