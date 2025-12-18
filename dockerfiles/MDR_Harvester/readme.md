@@ -9,6 +9,17 @@ SET local_path = REPLACE(local_path, 'F:\MDR_Data\anzctr\', '/app/MDR_Data/anzct
 Query run to change the path.
 Furthermore, MDR_Data (in krang) has been populated with more JSONs (coming from the prod environments).
 
+When
+```
+WTF - the file at anzctr\/ACTRN12624000457549.json does not seem to exist
+```
+occurs, table must be updated (on anzctr db):
+```
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, E'\\/', '/')
+WHERE local_path LIKE E'anzctr\\/%' ESCAPE '#';
+```
+
 ## Biolincc
 The Harvester look at the position of the json files contained in the biolincc.mn.source_data table.
 
