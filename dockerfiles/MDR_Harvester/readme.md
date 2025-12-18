@@ -21,14 +21,25 @@ WHERE local_path LIKE E'anzctr\\/%' ESCAPE '#';
 ```
 
 ## Biolincc
-The Harvester look at the position of the json files contained in the biolincc.mn.source_data table.
+The Harvester looks at the position of the json files contained in the biolincc.mn.source_data table.
 
-Now the Docker container store the MDR_Data in the /app/ directory.
-So the Harvester should mount the docker volume containing this file in its /app/ directory.
+The Docker container now stores the MDR_Data in the /app/ directory.
+So the Harvester should mount the Docker volume containing this file in its /app/ directory.
 
 ## ClinicalTrial.gov (CTG)
 
-Seems to be running without issues.
+It seems that after the Downloader runs, there are many `local_path` that are added as follows:
+```bash
+ctg/NCT0370xxxx/NCT03700346.json
+```
+
+```sql
+UPDATE mn.source_data
+SET local_path = regexp_replace(local_path, '^ctg(NCT[0-9]{4}xxxx/)', 'ctg/\1')
+WHERE local_path LIKE 'ctgNCT%'
+  AND local_path ~ '^ctgNCT[0-9]{4}xxxx/';
+```
+
 
 ## China CTR (Chictr)
 ```sql
