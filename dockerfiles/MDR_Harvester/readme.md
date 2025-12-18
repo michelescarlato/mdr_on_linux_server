@@ -2,7 +2,7 @@
 
 Seems to have run without issues.
 
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\anzctr\', '/app/MDR_Data/anzctr/');
 ```
@@ -14,7 +14,7 @@ When
 WTF - the file at anzctr\/ACTRN12624000457549.json does not seem to exist
 ```
 occurs, table must be updated (on anzctr db):
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, E'\\/', '/')
 WHERE local_path LIKE E'anzctr\\/%' ESCAPE '#';
@@ -31,12 +31,18 @@ So the Harvester should mount the docker volume containing this file in its /app
 Seems to be running without issues.
 
 ## China CTR (Chictr)
-```
+```sql
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\chictr\', '/app/MDR_Data/chictr/');
 ```
 
 Query run to change the path.
+
+```sql
+UPDATE mn.source_data
+SET local_path = REPLACE(local_path, E'\\/', '/')
+WHERE local_path LIKE E'chictr\\/%' ESCAPE '#';
+```
 
 ## DRKS (Deutch)
 
@@ -56,6 +62,12 @@ Furthermore, MDR_Data (in krang) has been populated with more JSONs (coming from
 UPDATE mn.source_data
 SET local_path = REPLACE(local_path, 'F:\MDR_Data\euctr\', '/app/MDR_Data/euctr/');
 ```
+
+When
+```
+WTF - the file at chictr\/ChiCTR2000030072.json does not seem to exist
+```
+occurs, table must be updated (on chictr db):
 
 ```
 UPDATE 43581
